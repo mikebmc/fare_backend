@@ -1,0 +1,22 @@
+data/
+kaggle/test.zip
+kaggle/train.zip
+kaggle/test.csv
+kaggle/train.csv
+goog_maps_meteor/
+neighborhood/neighborhood*/*
+!neighborhood/neighborhood*/.keep
+
+# virtual env
+.env
+
+# emacs
+*~
+\#*\#
+
+# mac
+.DS_Store
+
+# python
+__pycache__
+*.pyc
