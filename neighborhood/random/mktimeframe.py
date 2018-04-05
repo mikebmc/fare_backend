@@ -52,19 +52,9 @@ for ii, color in zip(
         ['#edf8fb', '#b2e2e2', '#66c2a4', '#2ca25f', '#006d2c']):
     timeframe.loc[idx == ii, 'color'] = color
 
-# set parameters for pymongo to connect to remote db
-# MONGO_HOST = "ec2-34-227-52-163.compute-1.amazonaws.com"
-# MONGO_PORT = 27017
-# MONGO_DB = "layer_bank"
-# MONGO_USER = "mikebmc"
-# MONGO_PASS = "lost$tarling"
-client = MongoClient('mongodb://mikebmc:lost$tarling@ec2-34-227-52-163.compute-1.amazonaws.com:27017/')
-# db = client['meteor']
-db = client.meteor
-# db.authenticate(MONGO_USER, MONGO_PASS)
 # open a connection to mongodb
-# client = MongoClient('mongodb://localhost:3001/meteor')
-# db = client.layer_bank
+client = MongoClient('mongodb://mikebmc:lost$tarling@ec2-34-227-52-163.compute-1.amazonaws.com:27017/')
+db = client.meteor
 
 # and replace what's currently inside of the toplayer collection
 post_id = db.toplayer.update(
