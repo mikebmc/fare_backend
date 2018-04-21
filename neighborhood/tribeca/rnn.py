@@ -19,13 +19,12 @@ def create_dataset(dataset, look_back=1):
 
 
 def do_stuff(input_data, look_back=1):
-    #    print('input_data[:10] ={}\n'.format(input_data[:10]))
     scaler = MinMaxScaler(feature_range=(0, 1))
     input_data = scaler.fit_transform(input_data)
 
     # normalize data, and split into train and test
     train_size = int(len(input_data) * 0.67)
-    train, test = input_data[:train_size, :], data[train_size:, :]
+    train, test = input_data[:train_size, :], input_data[train_size:, :]
 
     X_train, y_train = create_dataset(train, look_back)
     X_test, y_test = create_dataset(test, look_back)
@@ -37,7 +36,7 @@ def do_stuff(input_data, look_back=1):
     model.add(LSTM(4, input_shape=(1, look_back)))
     model.add(Dense(1))
     model.compile(loss='mean_squared_error', optimizer='adam')
-    model.fit(X_train, y_train, epochs=5, batch_size=1, verbose=2)
+    hist = model.fit(X_train, y_train, epochs=5, batch_size=1, verbose=2)
 
     # make predictions
     train_predict = model.predict(X_train)
@@ -45,11 +44,11 @@ def do_stuff(input_data, look_back=1):
 
     # invert predictions
     train_predict = scaler.inverse_transform(train_predict)
-    y_train = scaler. inverse_transform([y_train])
+    y_train = scaler.inverse_transform([y_train])
     test_predict = scaler.inverse_transform(test_predict)
     y_test = scaler.inverse_transform([y_test])
 
-    # calculater root mean squared error
+    # calculate root mean squared error
     train_score = np.sqrt(mean_squared_error(
         y_train[0], train_predict[:, 0]))
     print('Train Score: {} RMSE'.format(train_score))
@@ -67,11 +66,14 @@ def do_stuff(input_data, look_back=1):
     test_predict_plot[len(train_predict) + (look_back * 2) +
                       1:len(input_data) - 1, :] = test_predict
 
-    print('train_predict_plot =', train_predict_plot)
-    print('test_predict_plot =', test_predict_plot)
+    return model
 
-    # plot baseline and predictions
-    plt.plot(scaler.inverse_transform(data))
+def plot_first_week(month):
+    plot baseline and predictions
+    days_of_week = ('Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat')
+    plt.xlim(24, 192)
+    plt.xticks(np.arange(36, 204, step=24), days_of_week)
+    plt.plot(data)
     plt.plot(train_predict_plot)
     plt.plot(test_predict_plot)
     plt.show()
@@ -81,10 +83,19 @@ def do_stuff(input_data, look_back=1):
 #                    sep=',').values.astype('float32').reshape(-1)
 
 numzones = 265
-for neighborhood in range(264, numzones):
+for neighborhood in range(47, numzones + 1):
     data_dir = '../neighborhood' + str(neighborhood)
-    read = os.path.join(data_dir, 'data.csv')
+    print(data_dir)
+
+    read = os.path.join(data_dir, 'ds-data-2017-05.csv')
     data = pd.read_csv(read, usecols=[1], sep=',').values.astype(
         'float32').reshape(-1, 1)
-    do_stuff(data, look_back=1)
-    break
+    
+    model = do_stuff(data, look_back=1)
+
+    save_location = os.path.join(data_dir, 'model')
+    model.save_weights(os.path.join(save_location, 'model-weights.h5'))
+    with open(
+            os.path.join(save_location, 'model-architecture.json'), 'w'
+    ) as save:
+        save.write(model.to_json())
