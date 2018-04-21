@@ -6,6 +6,7 @@ from keras.layers import Dense
 from keras.layers import LSTM
 from sklearn.preprocessing import MinMaxScaler
 from sklearn.metrics import mean_squared_error
+from sklearn.model_selection import train_test_split
 import os
 
 
@@ -19,12 +20,17 @@ def create_dataset(dataset, look_back=1):
 
 
 def do_stuff(input_data, look_back=1):
+    # normalize data
     scaler = MinMaxScaler(feature_range=(0, 1))
     input_data = scaler.fit_transform(input_data)
 
-    # normalize data, and split into train and test
-    train_size = int(len(input_data) * 0.67)
-    train, test = input_data[:train_size, :], input_data[train_size:, :]
+    # split into train and test
+    train, test, y_train, y_test = train_test_split(
+        input_data, input_data, test_size=.67, random_seed=117
+    )
+
+    # train_size = int(len(input_data) * 0.67)
+    # train, test = input_data[:train_size, :], input_data[train_size:, :]
 
     X_train, y_train = create_dataset(train, look_back)
     X_test, y_test = create_dataset(test, look_back)
@@ -49,12 +55,16 @@ def do_stuff(input_data, look_back=1):
     y_test = scaler.inverse_transform([y_test])
 
     # calculate root mean squared error
-    train_score = np.sqrt(mean_squared_error(
-        y_train[0], train_predict[:, 0]))
-    print('Train Score: {} RMSE'.format(train_score))
+    print('Train Score: {} RMSE'.format(hist.history['mean_squared_error']))
     test_score = np.sqrt(mean_squared_error(y_test[0], test_predict[:, 0]))
     print('Test Score: {} RMSE'.format(test_score))
 
+    plot_first_week(input_data, look_back, train_predict, test_predict)
+
+    return model
+
+
+def plot_first_week(input_data, look_back, train_predict, test_predict):
     # shift train predictions for plotting
     train_predict_plot = np.empty_like(input_data)
     train_predict_plot[:, :] = np.nan
@@ -66,10 +76,7 @@ def do_stuff(input_data, look_back=1):
     test_predict_plot[len(train_predict) + (look_back * 2) +
                       1:len(input_data) - 1, :] = test_predict
 
-    return model
-
-def plot_first_week(month):
-    plot baseline and predictions
+    # plot baseline and predictions
     days_of_week = ('Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat')
     plt.xlim(24, 192)
     plt.xticks(np.arange(36, 204, step=24), days_of_week)
@@ -83,7 +90,7 @@ def plot_first_week(month):
 #                    sep=',').values.astype('float32').reshape(-1)
 
 numzones = 265
-for neighborhood in range(47, numzones + 1):
+for neighborhood in range(257, numzones + 1):
     data_dir = '../neighborhood' + str(neighborhood)
     print(data_dir)
 
