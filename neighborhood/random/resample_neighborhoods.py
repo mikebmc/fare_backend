@@ -10,6 +10,7 @@ datecol = 'tpep_pickup_datetime'
 
 
 # get the first day of the month and use that to build a range object
+# datetime.datetime(year, month, day)
 first = datetime.datetime(*[int(x) for x in prd.split('-')], 1)
 hrs_in_month = 24 * calendar.monthrange(first.year, first.month)[1]
 idx = pd.date_range(first, name=datecol, periods=hrs_in_month, freq='H')
