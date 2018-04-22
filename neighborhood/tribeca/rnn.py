@@ -4,8 +4,8 @@ import matplotlib.pyplot as plt
 from keras.models import Sequential, model_from_json
 from keras.layers import Dense
 from keras.layers import LSTM
+import keras.backend as K
 from sklearn.preprocessing import MinMaxScaler
-from sklearn.metrics import mean_squared_error
 import os
 
 
@@ -89,9 +89,6 @@ def do_stuff(input_data, look_back=1, model=None):
     # plot_first_week(input_data, look_back, train_predict, test_predict)
 
     return model
-
-# data = pd.read_csv('_30_minute_intersection.csv', usecols=[1],
-#                    sep=',').values.astype('float32').reshape(-1)
 
 
 numzones = 265
