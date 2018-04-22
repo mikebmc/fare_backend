@@ -93,6 +93,7 @@ def do_stuff(input_data, look_back=1, model=None):
 # data = pd.read_csv('_30_minute_intersection.csv', usecols=[1],
 #                    sep=',').values.astype('float32').reshape(-1)
 
+
 numzones = 265
 for neighborhood in range(1, numzones + 1):
     data_dir = '../neighborhood' + str(neighborhood)
@@ -104,15 +105,14 @@ for neighborhood in range(1, numzones + 1):
 
     save_location = os.path.join(data_dir, 'model')
 
-    with open(os.path.join(save_location,
-                           'model-architecture.json'), 'r') as m:
+    with open(os.path.join(
+            save_location, 'model-architecture.json'), 'r') as m:
         model = model_from_json(m.read())
 
     model.load_weights(os.path.join(save_location, 'model-weights.h5'))
     model = do_stuff(data, look_back=1, model=model)
 
     model.save_weights(os.path.join(save_location, 'model-weights.h5'))
-    with open(
-            os.path.join(save_location, 'model-architecture.json'), 'w'
-    ) as save:
+    with open(os.path.join(
+            save_location, 'model-architecture.json'), 'w') as save:
         save.write(model.to_json())
