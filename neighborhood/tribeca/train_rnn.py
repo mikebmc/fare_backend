@@ -4,7 +4,6 @@ import matplotlib.pyplot as plt
 from keras.models import Sequential, model_from_json
 from keras.layers import Dense
 from keras.layers import LSTM
-import keras.backend as K
 from sklearn.preprocessing import MinMaxScaler
 import os
 
