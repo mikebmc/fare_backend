@@ -26,9 +26,17 @@ def plot_first_week(input_data, look_back, train_predict, test_predict):
     days_of_week = ('Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat')
     plt.xlim(24, 192)
     plt.xticks(np.arange(36, 204, step=24), days_of_week)
-    plt.plot(data)
+    plt.plot(input_data)
     plt.plot(train_predict_plot)
     plt.plot(test_predict_plot)
+    plt.show()
+
+
+def plot_target_and_prediction(input_data, prediction, start=0):
+    vector_sz = len(prediction)
+    input_data = input_data[start:start + vector_sz]
+    plt.plot(input_data)
+    plt.plot(prediction)
     plt.show()
 
 
@@ -61,17 +69,21 @@ def do_stuff(input_data, look_back=1, model=None):
         model.add(Dense(1))
 
     model.compile(loss='mean_squared_error', optimizer='adam')
-    model.fit(X_train, y_train, epochs=15, batch_size=1, verbose=2)
+    # model.fit(X_train, y_train, epochs=15, batch_size=1, verbose=2)
 
     # make predictions
-    train_predict = model.predict(X_train)
-    test_predict = model.predict(X_test)
+    # train_predict = model.predict(X_train)
+    # test_predict = model.predict(X_test)
+
+    test_predict = y_test.reshape((-1, 1))
+    train_predict = y_train.reshape((-1, 1))
 
     # invert predictions
     train_predict = scaler.inverse_transform(train_predict)
     y_train = scaler.inverse_transform([y_train])
     test_predict = scaler.inverse_transform(test_predict)
     y_test = scaler.inverse_transform([y_test])
+    input_data = scaler.inverse_transform(input_data)
 
     # calculate root mean squared error
     # train_score = np.sqrt(mean_squared_error(
@@ -87,12 +99,16 @@ def do_stuff(input_data, look_back=1, model=None):
     print('Test Score: {}% error'.format(test_score))
 
     # plot_first_week(input_data, look_back, train_predict, test_predict)
-
+    prediction = [model.predict(X_train[ii:ii + 1]) for ii in range(48)]
+    prediction = np.concatenate(prediction, axis=1).T
+    prediction = scaler.inverse_transform(prediction)
+    plot_target_and_prediction(input_data, prediction, start=0)
+    quit()
     return model
 
 
 numzones = 265
-for neighborhood in range(1, numzones + 1):
+for neighborhood in range(100, numzones + 1):
     data_dir = '../neighborhood' + str(neighborhood)
     print(data_dir)
 
@@ -109,7 +125,7 @@ for neighborhood in range(1, numzones + 1):
     model.load_weights(os.path.join(save_location, 'model-weights.h5'))
     model = do_stuff(data, look_back=1, model=model)
 
-    model.save_weights(os.path.join(save_location, 'model-weights.h5'))
-    with open(os.path.join(
-            save_location, 'model-architecture.json'), 'w') as save:
-        save.write(model.to_json())
+    # model.save_weights(os.path.join(save_location, 'model-weights.h5'))
+    # with open(os.path.join(
+    #         save_location, 'model-architecture.json'), 'w') as save:
+    #     save.write(model.to_json())
