@@ -71,11 +71,11 @@ def do_stuff(input_data, look_back=1, model=None):
     # model.fit(X_train, y_train, epochs=15, batch_size=1, verbose=2)
 
     # make predictions
-    # train_predict = model.predict(X_train)
+    train_predict = model.predict(X_train)
     # test_predict = model.predict(X_test)
 
     test_predict = y_test.reshape((-1, 1))
-    train_predict = y_train.reshape((-1, 1))
+    # train_predict = y_train.reshape((-1, 1))
 
     # invert predictions
     train_predict = scaler.inverse_transform(train_predict)
@@ -101,7 +101,7 @@ def do_stuff(input_data, look_back=1, model=None):
     prediction = [model.predict(X_train[ii:ii + 1]) for ii in range(48)]
     prediction = np.concatenate(prediction, axis=1).T
     prediction = scaler.inverse_transform(prediction)
-    plot_target_and_prediction(input_data, prediction, start=0)
+    plot_target_and_prediction(input_data, prediction[:24], start=0)
     quit()
     return model
 
