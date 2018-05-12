@@ -1,13 +1,3 @@
-# wrtie a function that takes neighborhood id as input and returns an array with:
-#tpep_pickup_datetime,LocationID,month,weekday,Friday,Monday,Saturday,Sunday,Thursday,Tuesday,Wednesday,PRCP,SNOW,TMAX,TMIN
-
-#the weather api can only be read every 20 minutes or so. To make sure we don't accidentally 
-#read it 263 times every time we call this function, we will cache the results with a timestamp, 
-#and only call it after that timestamp expires.
-
-#OpenWeatherMap api key: d672fea410b81d6bce30baa734e1a780
-#api call: http://api.openweathermap.org/data/2.5/weather?id=5128581&cnt=1&units=imperial&appid=d672fea410b81d6bce30baa734e1a780
-
 import os
 import json
 import requests
@@ -45,10 +35,8 @@ def simulate_feed(PULocationID):
 
         #refresh data if it's an hour old
         if time_since_written > dt.timedelta(minutes=60):
-            print('writing new weather data')
             get_weather(weather_file)
     else:
-        print('writing weather data')
         get_weather(weather_file)
 
     with open(weather_file, 'r') as json_file:
