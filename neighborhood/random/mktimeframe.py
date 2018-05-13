@@ -9,7 +9,7 @@ from utils import natsorted
 from pymongo import MongoClient
 
 min_interval = 60
-prd = '2017-04'
+prd = '2017-05'
 
 # get the date from 1 year ago ignoring leap years
 dt = datetime.datetime.now() - datetime.timedelta(days=365)

@@ -5,7 +5,7 @@ from utils import cleanup
 
 neighborhood_dir = '../neighborhood'
 data_dir = '../../data/'
-prd = '2017-04'
+prd = '2017-05'
 read = os.path.join(data_dir, 'yellow_tripdata_{}.csv'.format(prd))
 
 
