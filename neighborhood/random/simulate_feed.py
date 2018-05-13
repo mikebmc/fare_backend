@@ -3,6 +3,7 @@ import json
 import requests
 import pandas as pd
 import datetime as dt
+import collections
 
 #this function accesses the weather api and writes the results to a local file
 def get_weather(weather_file):
@@ -54,14 +55,17 @@ def simulate_feed(PULocationID):
         precipitation = 0
     if 'precipAccumulation' in weather_data['daily']['data'][0]: 
         snow = 24*weather_data['daily']['data'][0]['precipAccumulation']
-    else: 
+    else:
         snow = 0
 
     datecol = 'tpep_pickup_datetime'
     neighborhood_data = pd.read_csv(read_file, index_col=[datecol], parse_dates=[datecol])
     number_of_pickups = neighborhood_data.loc[hour_then, "PULocationID"]
 
-    return_list = {'tpep_pickup_datetime':hour_then,'number_of_pickups':number_of_pickups,'PRCP':precipitation,'SNOW':snow,'TMAX':max_temp,'TMIN':min_temp}
-    ##return PULocationID
-    return(return_list)
+    return_list = collections.OrderedDict([
+        ('tpep_pickup_datetime', [hour_then]),
+        ('number_of_pickups', [number_of_pickups]),
+        ('PRCP', [precipitation]), ('SNOW', [snow]),
+        ('TMAX', [max_temp]), ('TMIN', [min_temp])])
 
+    return(return_list)
