@@ -17,7 +17,8 @@ for nbh in neighborhoods:
 
 
 to_drop = ['month', 'weekday', 'Sunday', 'Monday', 'Tuesday',
-           'Wednesday', 'Thursday', 'Friday', 'Saturday']
+           'Wednesday', 'Thursday', 'Friday', 'Saturday', 'PRCP',
+           'SNOW', 'TMAX', 'TMIN']
 
 
 for count, chunk in enumerate(pd.read_csv(read, chunksize=10 ** 6), 1):
