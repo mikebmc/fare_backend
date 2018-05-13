@@ -19,5 +19,5 @@ for ii, nbh in enumerate(neighborhoods):
 
     s = io.StringIO()
     with open(os.path.join('..', nbh, 'ds-data-{}.csv'.format(prd)), 'r') as d:
-        next(d)
+        s.write(next(d))  # write header
         s.write(next(line for num, line in enumerate(d) if num == itr))
