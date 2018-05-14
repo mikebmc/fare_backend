@@ -86,8 +86,6 @@ for nbh in neighborhoods:
     train = reframed_values.values[:n_train_hours, :]
     test = reframed_values.values[n_train_hours:, :]
 
-    print('train.shape =', train.shape)
-
     train_X, train_y = train[:, :-1], train[:, -1]
     test_X, test_y = test[:, :-1], test[:, -1]
 
@@ -107,14 +105,10 @@ for nbh in neighborhoods:
     ###########################################################################
     yhat = model.predict(test_X)
 
-    print('yhat.shape =', yhat.shape)
-
     test_X = test_X.reshape((test_X.shape[0], test_X.shape[2]))
-    print('test_X.shape =', test_X.shape)
 
     # invert forcast
     inv_yhat = np.concatenate((yhat, test_X[:, 1:]), axis=1)
-    print('inv_yhat.shape =', inv_yhat.shape)
     inv_yhat = scaler.inverse_transform(inv_yhat)
 
     inv_yhat = inv_yhat[:, 0]
