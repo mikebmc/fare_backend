@@ -1,6 +1,7 @@
 import os
 import numpy as np
 import pandas as pd
+import pickle
 
 import matplotlib.pyplot as plt
 from sklearn.preprocessing import LabelEncoder, MinMaxScaler
@@ -74,8 +75,11 @@ for nbh in neighborhoods:
     values = dataset.values.astype('float32')
 
     scaler = MinMaxScaler(feature_range=(0, 1))
+
     scaled_values = scaler.fit_transform(values)
-    print('scaled_values.shape =', scaled_values.shape)
+    # save scaler for predictions
+    with open(os.path.join(model_loc, 'scaler.pkl'), 'wb') as pkl:
+        pickle.dump(scaler, pkl, pickle.HIGHEST_PROTOCOL)
 
     reframed_values = series2supervised(scaled_values, 1, 1)
 
@@ -130,5 +134,6 @@ for nbh in neighborhoods:
     print('finished training: {}'.format(nbh))
 
     model.save_weights(os.path.join(model_loc, 'weights.h5'))
+
     with open(os.path.join(model_loc, 'arc.json'), 'w') as m:
         m.write(model.to_json())
