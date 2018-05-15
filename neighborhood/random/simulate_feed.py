@@ -63,7 +63,7 @@ def simulate_feed(PULocationID):
     number_of_pickups = neighborhood_data.loc[hour_then, "PULocationID"]
 
     return_list = collections.OrderedDict([
-        ('tpep_pickup_datetime', [hour_then]),
+#        ('tpep_pickup_datetime', [hour_then]),
         ('number_of_pickups', [number_of_pickups]),
         ('PRCP', [precipitation]), ('SNOW', [snow]),
         ('TMAX', [max_temp]), ('TMIN', [min_temp])])
