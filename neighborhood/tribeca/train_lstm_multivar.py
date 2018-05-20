@@ -100,11 +100,12 @@ for nbh in neighborhoods:
     print('train_X.shape, train_y.shape, test_X.shape, test_y.shape')
     print(train_X.shape, train_y.shape, test_X.shape, test_y.shape)
 
-    model = get_model(train_X.shape[1:])
+    model = get_model(train_X.shape[1:], model_loc=model_loc)
 
-    history = model.fit(train_X, train_y, epochs=80, batch_size=72,
-                        validation_data=(test_X, test_y),
-                        verbose=2, shuffle=False)
+    history = model.fit(
+        train_X, train_y, epochs=80, batch_size=72,
+        validation_data=(test_X, test_y),
+        verbose=2, shuffle=False)
 
     ###########################################################################
     yhat = model.predict(test_X)
@@ -125,6 +126,10 @@ for nbh in neighborhoods:
 
     rmse = np.sqrt(mean_squared_error(inv_y, inv_yhat))
     print('Test RMSE: %.3f' % rmse)
+
+    eps = 5e-9
+    mape = 100 * np.mean(np.abs((inv_y - inv_yhat)) / (inv_y + eps))
+    print('Test Mape: {}%'.format(mape))
 
     # plt.figure()
     # plt.plot(inv_y[:500])
