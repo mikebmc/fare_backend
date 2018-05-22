@@ -1,0 +1,8745 @@
+../neighborhood1
+Epoch 1/15
+ - 2s - loss: 0.0288
+Epoch 2/15
+ - 1s - loss: 0.0288
+Epoch 3/15
+ - 1s - loss: 0.0287
+Epoch 4/15
+ - 1s - loss: 0.0288
+Epoch 5/15
+ - 1s - loss: 0.0287
+Epoch 6/15
+ - 1s - loss: 0.0288
+Epoch 7/15
+ - 1s - loss: 0.0287
+Epoch 8/15
+ - 2s - loss: 0.0287
+Epoch 9/15
+ - 2s - loss: 0.0288
+Epoch 10/15
+ - 2s - loss: 0.0287
+Epoch 11/15
+ - 1s - loss: 0.0288
+Epoch 12/15
+ - 1s - loss: 0.0288
+Epoch 13/15
+ - 1s - loss: 0.0287
+Epoch 14/15
+ - 1s - loss: 0.0286
+Epoch 15/15
+ - 1s - loss: 0.0288
+Train Score: 7684250419.452681% error
+Test Score: 8041371366.409893% error
+../neighborhood2
+Epoch 1/15
+ - 2s - loss: 0.0045
+Epoch 2/15
+ - 1s - loss: 0.0045
+Epoch 3/15
+ - 1s - loss: 0.0045
+Epoch 4/15
+ - 1s - loss: 0.0045
+Epoch 5/15
+ - 1s - loss: 0.0045
+Epoch 6/15
+ - 2s - loss: 0.0045
+Epoch 7/15
+ - 1s - loss: 0.0045
+Epoch 8/15
+ - 1s - loss: 0.0045
+Epoch 9/15
+ - 2s - loss: 0.0045
+Epoch 10/15
+ - 1s - loss: 0.0045
+Epoch 11/15
+ - 1s - loss: 0.0045
+Epoch 12/15
+ - 1s - loss: 0.0045
+Epoch 13/15
+ - 1s - loss: 0.0045
+Epoch 14/15
+ - 1s - loss: 0.0045
+Epoch 15/15
+ - 1s - loss: 0.0045
+Train Score: 200794340.58490315% error
+Test Score: 200815988.68485543% error
+../neighborhood3
+Epoch 1/15
+ - 2s - loss: 0.0083
+Epoch 2/15
+ - 1s - loss: 0.0084
+Epoch 3/15
+ - 1s - loss: 0.0083
+Epoch 4/15
+ - 1s - loss: 0.0083
+Epoch 5/15
+ - 2s - loss: 0.0083
+Epoch 6/15
+ - 2s - loss: 0.0084
+Epoch 7/15
+ - 2s - loss: 0.0083
+Epoch 8/15
+ - 1s - loss: 0.0083
+Epoch 9/15
+ - 1s - loss: 0.0083
+Epoch 10/15
+ - 1s - loss: 0.0083
+Epoch 11/15
+ - 1s - loss: 0.0083
+Epoch 12/15
+ - 1s - loss: 0.0083
+Epoch 13/15
+ - 1s - loss: 0.0084
+Epoch 14/15
+ - 2s - loss: 0.0083
+Epoch 15/15
+ - 2s - loss: 0.0083
+Train Score: 454488033.22393394% error
+Test Score: 476391381.8587376% error
+../neighborhood4
+Epoch 1/15
+ - 2s - loss: 0.0064
+Epoch 2/15
+ - 1s - loss: 0.0064
+Epoch 3/15
+ - 1s - loss: 0.0064
+Epoch 4/15
+ - 1s - loss: 0.0064
+Epoch 5/15
+ - 1s - loss: 0.0065
+Epoch 6/15
+ - 2s - loss: 0.0065
+Epoch 7/15
+ - 2s - loss: 0.0065
+Epoch 8/15
+ - 2s - loss: 0.0064
+Epoch 9/15
+ - 2s - loss: 0.0064
+Epoch 10/15
+ - 2s - loss: 0.0064
+Epoch 11/15
+ - 2s - loss: 0.0064
+Epoch 12/15
+ - 1s - loss: 0.0064
+Epoch 13/15
+ - 2s - loss: 0.0064
+Epoch 14/15
+ - 1s - loss: 0.0065
+Epoch 15/15
+ - 2s - loss: 0.0064
+Train Score: 330809737.9002259% error
+Test Score: 36.970450907889635% error
+../neighborhood5
+Epoch 1/15
+ - 2s - loss: 0.0020
+Epoch 2/15
+ - 1s - loss: 0.0020
+Epoch 3/15
+ - 1s - loss: 0.0020
+Epoch 4/15
+ - 1s - loss: 0.0020
+Epoch 5/15
+ - 1s - loss: 0.0020
+Epoch 6/15
+ - 1s - loss: 0.0020
+Epoch 7/15
+ - 1s - loss: 0.0020
+Epoch 8/15
+ - 2s - loss: 0.0020
+Epoch 9/15
+ - 2s - loss: 0.0020
+Epoch 10/15
+ - 2s - loss: 0.0020
+Epoch 11/15
+ - 2s - loss: 0.0020
+Epoch 12/15
+ - 2s - loss: 0.0020
+Epoch 13/15
+ - 2s - loss: 0.0020
+Epoch 14/15
+ - 2s - loss: 0.0020
+Epoch 15/15
+ - 2s - loss: 0.0020
+Train Score: 208113.2976916867% error
+Test Score: 105621.87526375055% error
+../neighborhood6
+Epoch 1/15
+ - 2s - loss: 0.0062
+Epoch 2/15
+ - 1s - loss: 0.0062
+Epoch 3/15
+ - 1s - loss: 0.0062
+Epoch 4/15
+ - 1s - loss: 0.0061
+Epoch 5/15
+ - 1s - loss: 0.0062
+Epoch 6/15
+ - 2s - loss: 0.0062
+Epoch 7/15
+ - 2s - loss: 0.0062
+Epoch 8/15
+ - 2s - loss: 0.0062
+Epoch 9/15
+ - 2s - loss: 0.0062
+Epoch 10/15
+ - 2s - loss: 0.0062
+Epoch 11/15
+ - 2s - loss: 0.0062
+Epoch 12/15
+ - 2s - loss: 0.0062
+Epoch 13/15
+ - 2s - loss: 0.0061
+Epoch 14/15
+ - 2s - loss: 0.0062
+Epoch 15/15
+ - 2s - loss: 0.0062
+Train Score: 1446426527.9147184% error
+Test Score: 1447714892.8876684% error
+../neighborhood7
+Epoch 1/15
+ - 3s - loss: 0.0103
+Epoch 2/15
+ - 1s - loss: 0.0104
+Epoch 3/15
+ - 2s - loss: 0.0105
+Epoch 4/15
+ - 1s - loss: 0.0104
+Epoch 5/15
+ - 1s - loss: 0.0104
+Epoch 6/15
+ - 2s - loss: 0.0104
+Epoch 7/15
+ - 2s - loss: 0.0104
+Epoch 8/15
+ - 2s - loss: 0.0106
+Epoch 9/15
+ - 2s - loss: 0.0105
+Epoch 10/15
+ - 2s - loss: 0.0104
+Epoch 11/15
+ - 2s - loss: 0.0104
+Epoch 12/15
+ - 2s - loss: 0.0104
+Epoch 13/15
+ - 2s - loss: 0.0104
+Epoch 14/15
+ - 2s - loss: 0.0104
+Epoch 15/15
+ - 1s - loss: 0.0104
+Train Score: 33.85370078636679% error
+Test Score: 31.370281026675208% error
+../neighborhood8
+Epoch 1/15
+ - 3s - loss: 0.0429
+Epoch 2/15
+ - 1s - loss: 0.0428
+Epoch 3/15
+ - 1s - loss: 0.0430
+Epoch 4/15
+ - 2s - loss: 0.0429
+Epoch 5/15
+ - 2s - loss: 0.0429
+Epoch 6/15
+ - 2s - loss: 0.0428
+Epoch 7/15
+ - 1s - loss: 0.0429
+Epoch 8/15
+ - 2s - loss: 0.0428
+Epoch 9/15
+ - 2s - loss: 0.0430
+Epoch 10/15
+ - 2s - loss: 0.0429
+Epoch 11/15
+ - 2s - loss: 0.0429
+Epoch 12/15
+ - 2s - loss: 0.0428
+Epoch 13/15
+ - 2s - loss: 0.0429
+Epoch 14/15
+ - 2s - loss: 0.0429
+Epoch 15/15
+ - 2s - loss: 0.0429
+Train Score: 3004040190.459772% error
+Test Score: 3081883632.9947944% error
+../neighborhood9
+Epoch 1/15
+ - 3s - loss: 0.0065
+Epoch 2/15
+ - 1s - loss: 0.0065
+Epoch 3/15
+ - 1s - loss: 0.0065
+Epoch 4/15
+ - 2s - loss: 0.0065
+Epoch 5/15
+ - 2s - loss: 0.0065
+Epoch 6/15
+ - 2s - loss: 0.0065
+Epoch 7/15
+ - 2s - loss: 0.0065
+Epoch 8/15
+ - 2s - loss: 0.0065
+Epoch 9/15
+ - 2s - loss: 0.0065
+Epoch 10/15
+ - 2s - loss: 0.0065
+Epoch 11/15
+ - 2s - loss: 0.0065
+Epoch 12/15
+ - 2s - loss: 0.0065
+Epoch 13/15
+ - 2s - loss: 0.0065
+Epoch 14/15
+ - 2s - loss: 0.0065
+Epoch 15/15
+ - 2s - loss: 0.0065
+Train Score: 355094312.11758685% error
+Test Score: 341640514.5012843% error
+../neighborhood10
+Epoch 1/15
+ - 3s - loss: 0.0200
+Epoch 2/15
+ - 2s - loss: 0.0196
+Epoch 3/15
+ - 2s - loss: 0.0200
+Epoch 4/15
+ - 2s - loss: 0.0199
+Epoch 5/15
+ - 2s - loss: 0.0198
+Epoch 6/15
+ - 2s - loss: 0.0199
+Epoch 7/15
+ - 2s - loss: 0.0199
+Epoch 8/15
+ - 2s - loss: 0.0198
+Epoch 9/15
+ - 2s - loss: 0.0199
+Epoch 10/15
+ - 2s - loss: 0.0199
+Epoch 11/15
+ - 2s - loss: 0.0199
+Epoch 12/15
+ - 2s - loss: 0.0197
+Epoch 13/15
+ - 2s - loss: 0.0197
+Epoch 14/15
+ - 2s - loss: 0.0198
+Epoch 15/15
+ - 2s - loss: 0.0198
+Train Score: 10500932070.772556% error
+Test Score: 9416490212.56464% error
+../neighborhood11
+Epoch 1/15
+ - 3s - loss: 0.0219
+Epoch 2/15
+ - 2s - loss: 0.0218
+Epoch 3/15
+ - 1s - loss: 0.0218
+Epoch 4/15
+ - 2s - loss: 0.0219
+Epoch 5/15
+ - 2s - loss: 0.0218
+Epoch 6/15
+ - 2s - loss: 0.0218
+Epoch 7/15
+ - 2s - loss: 0.0218
+Epoch 8/15
+ - 2s - loss: 0.0218
+Epoch 9/15
+ - 2s - loss: 0.0219
+Epoch 10/15
+ - 2s - loss: 0.0219
+Epoch 11/15
+ - 2s - loss: 0.0218
+Epoch 12/15
+ - 2s - loss: 0.0219
+Epoch 13/15
+ - 2s - loss: 0.0218
+Epoch 14/15
+ - 2s - loss: 0.0219
+Epoch 15/15
+ - 2s - loss: 0.0218
+Train Score: 1430259562.7093854% error
+Test Score: 1438372906.7468936% error
+../neighborhood12
+Epoch 1/15
+ - 3s - loss: 0.0102
+Epoch 2/15
+ - 1s - loss: 0.0102
+Epoch 3/15
+ - 2s - loss: 0.0102
+Epoch 4/15
+ - 2s - loss: 0.0102
+Epoch 5/15
+ - 2s - loss: 0.0102
+Epoch 6/15
+ - 2s - loss: 0.0101
+Epoch 7/15
+ - 2s - loss: 0.0101
+Epoch 8/15
+ - 2s - loss: 0.0101
+Epoch 9/15
+ - 2s - loss: 0.0101
+Epoch 10/15
+ - 2s - loss: 0.0101
+Epoch 11/15
+ - 2s - loss: 0.0100
+Epoch 12/15
+ - 2s - loss: 0.0100
+Epoch 13/15
+ - 2s - loss: 0.0101
+Epoch 14/15
+ - 2s - loss: 0.0101
+Epoch 15/15
+ - 2s - loss: 0.0101
+Train Score: 6965931075.865529% error
+Test Score: 8938730541.713577% error
+../neighborhood13
+Epoch 1/15
+ - 3s - loss: 0.0118
+Epoch 2/15
+ - 1s - loss: 0.0116
+Epoch 3/15
+ - 2s - loss: 0.0116
+Epoch 4/15
+ - 2s - loss: 0.0115
+Epoch 5/15
+ - 2s - loss: 0.0115
+Epoch 6/15
+ - 2s - loss: 0.0114
+Epoch 7/15
+ - 2s - loss: 0.0113
+Epoch 8/15
+ - 2s - loss: 0.0115
+Epoch 9/15
+ - 2s - loss: 0.0113
+Epoch 10/15
+ - 2s - loss: 0.0114
+Epoch 11/15
+ - 2s - loss: 0.0114
+Epoch 12/15
+ - 2s - loss: 0.0113
+Epoch 13/15
+ - 2s - loss: 0.0112
+Epoch 14/15
+ - 2s - loss: 0.0112
+Epoch 15/15
+ - 2s - loss: 0.0111
+Train Score: 744025865.2537305% error
+Test Score: 77.29378399965637% error
+../neighborhood14
+Epoch 1/15
+ - 3s - loss: 0.0290
+Epoch 2/15
+ - 2s - loss: 0.0290
+Epoch 3/15
+ - 2s - loss: 0.0289
+Epoch 4/15
+ - 2s - loss: 0.0290
+Epoch 5/15
+ - 2s - loss: 0.0288
+Epoch 6/15
+ - 2s - loss: 0.0288
+Epoch 7/15
+ - 2s - loss: 0.0289
+Epoch 8/15
+ - 2s - loss: 0.0288
+Epoch 9/15
+ - 2s - loss: 0.0289
+Epoch 10/15
+ - 2s - loss: 0.0288
+Epoch 11/15
+ - 2s - loss: 0.0288
+Epoch 12/15
+ - 2s - loss: 0.0289
+Epoch 13/15
+ - 2s - loss: 0.0288
+Epoch 14/15
+ - 2s - loss: 0.0288
+Epoch 15/15
+ - 2s - loss: 0.0288
+Train Score: 7049353723.197023% error
+Test Score: 6734283731.773014% error
+../neighborhood15
+Epoch 1/15
+ - 3s - loss: 0.0112
+Epoch 2/15
+ - 1s - loss: 0.0113
+Epoch 3/15
+ - 2s - loss: 0.0112
+Epoch 4/15
+ - 2s - loss: 0.0112
+Epoch 5/15
+ - 2s - loss: 0.0112
+Epoch 6/15
+ - 2s - loss: 0.0112
+Epoch 7/15
+ - 2s - loss: 0.0112
+Epoch 8/15
+ - 2s - loss: 0.0112
+Epoch 9/15
+ - 2s - loss: 0.0112
+Epoch 10/15
+ - 2s - loss: 0.0112
+Epoch 11/15
+ - 2s - loss: 0.0112
+Epoch 12/15
+ - 2s - loss: 0.0112
+Epoch 13/15
+ - 2s - loss: 0.0112
+Epoch 14/15
+ - 2s - loss: 0.0112
+Epoch 15/15
+ - 2s - loss: 0.0112
+Train Score: 1094617904.5082119% error
+Test Score: 1109980921.0035768% error
+../neighborhood16
+Epoch 1/15
+ - 3s - loss: 0.0095
+Epoch 2/15
+ - 1s - loss: 0.0095
+Epoch 3/15
+ - 2s - loss: 0.0095
+Epoch 4/15
+ - 2s - loss: 0.0095
+Epoch 5/15
+ - 2s - loss: 0.0095
+Epoch 6/15
+ - 2s - loss: 0.0095
+Epoch 7/15
+ - 2s - loss: 0.0095
+Epoch 8/15
+ - 2s - loss: 0.0095
+Epoch 9/15
+ - 2s - loss: 0.0095
+Epoch 10/15
+ - 2s - loss: 0.0095
+Epoch 11/15
+ - 2s - loss: 0.0095
+Epoch 12/15
+ - 2s - loss: 0.0095
+Epoch 13/15
+ - 2s - loss: 0.0095
+Epoch 14/15
+ - 2s - loss: 0.0095
+Epoch 15/15
+ - 2s - loss: 0.0095
+Train Score: 1127683988.0408506% error
+Test Score: 1110676808.0581641% error
+../neighborhood17
+Epoch 1/15
+ - 3s - loss: 0.0164
+Epoch 2/15
+ - 2s - loss: 0.0162
+Epoch 3/15
+ - 2s - loss: 0.0162
+Epoch 4/15
+ - 2s - loss: 0.0162
+Epoch 5/15
+ - 2s - loss: 0.0161
+Epoch 6/15
+ - 2s - loss: 0.0162
+Epoch 7/15
+ - 2s - loss: 0.0163
+Epoch 8/15
+ - 2s - loss: 0.0163
+Epoch 9/15
+ - 2s - loss: 0.0162
+Epoch 10/15
+ - 2s - loss: 0.0160
+Epoch 11/15
+ - 2s - loss: 0.0162
+Epoch 12/15
+ - 2s - loss: 0.0160
+Epoch 13/15
+ - 2s - loss: 0.0161
+Epoch 14/15
+ - 2s - loss: 0.0160
+Epoch 15/15
+ - 2s - loss: 0.0161
+Train Score: 5289094341.38026% error
+Test Score: 7775421439.811296% error
+../neighborhood18
+Epoch 1/15
+ - 3s - loss: 0.0191
+Epoch 2/15
+ - 2s - loss: 0.0190
+Epoch 3/15
+ - 2s - loss: 0.0190
+Epoch 4/15
+ - 2s - loss: 0.0191
+Epoch 5/15
+ - 2s - loss: 0.0191
+Epoch 6/15
+ - 2s - loss: 0.0191
+Epoch 7/15
+ - 2s - loss: 0.0190
+Epoch 8/15
+ - 2s - loss: 0.0190
+Epoch 9/15
+ - 2s - loss: 0.0191
+Epoch 10/15
+ - 2s - loss: 0.0190
+Epoch 11/15
+ - 2s - loss: 0.0191
+Epoch 12/15
+ - 2s - loss: 0.0190
+Epoch 13/15
+ - 2s - loss: 0.0190
+Epoch 14/15
+ - 2s - loss: 0.0187
+Epoch 15/15
+ - 2s - loss: 0.0191
+Train Score: 2485246461.752917% error
+Test Score: 2639461600.615614% error
+../neighborhood19
+Epoch 1/15
+ - 3s - loss: 0.0140
+Epoch 2/15
+ - 2s - loss: 0.0140
+Epoch 3/15
+ - 2s - loss: 0.0140
+Epoch 4/15
+ - 2s - loss: 0.0140
+Epoch 5/15
+ - 2s - loss: 0.0140
+Epoch 6/15
+ - 2s - loss: 0.0141
+Epoch 7/15
+ - 2s - loss: 0.0140
+Epoch 8/15
+ - 2s - loss: 0.0141
+Epoch 9/15
+ - 2s - loss: 0.0140
+Epoch 10/15
+ - 2s - loss: 0.0140
+Epoch 11/15
+ - 2s - loss: 0.0140
+Epoch 12/15
+ - 2s - loss: 0.0140
+Epoch 13/15
+ - 2s - loss: 0.0140
+Epoch 14/15
+ - 2s - loss: 0.0140
+Epoch 15/15
+ - 2s - loss: 0.0140
+Train Score: 1769092868.6182327% error
+Test Score: 1706060523.8256745% error
+../neighborhood20
+Epoch 1/15
+ - 3s - loss: 0.0046
+Epoch 2/15
+ - 2s - loss: 0.0046
+Epoch 3/15
+ - 2s - loss: 0.0045
+Epoch 4/15
+ - 2s - loss: 0.0045
+Epoch 5/15
+ - 2s - loss: 0.0045
+Epoch 6/15
+ - 2s - loss: 0.0045
+Epoch 7/15
+ - 2s - loss: 0.0045
+Epoch 8/15
+ - 2s - loss: 0.0045
+Epoch 9/15
+ - 2s - loss: 0.0045
+Epoch 10/15
+ - 2s - loss: 0.0045
+Epoch 11/15
+ - 2s - loss: 0.0045
+Epoch 12/15
+ - 2s - loss: 0.0045
+Epoch 13/15
+ - 2s - loss: 0.0045
+Epoch 14/15
+ - 2s - loss: 0.0045
+Epoch 15/15
+ - 2s - loss: 0.0045
+Train Score: 1591012223.9925938% error
+Test Score: 1766622619.7622485% error
+../neighborhood21
+Epoch 1/15
+ - 3s - loss: 0.0107
+Epoch 2/15
+ - 2s - loss: 0.0107
+Epoch 3/15
+ - 2s - loss: 0.0107
+Epoch 4/15
+ - 2s - loss: 0.0107
+Epoch 5/15
+ - 2s - loss: 0.0107
+Epoch 6/15
+ - 2s - loss: 0.0107
+Epoch 7/15
+ - 2s - loss: 0.0106
+Epoch 8/15
+ - 2s - loss: 0.0106
+Epoch 9/15
+ - 2s - loss: 0.0107
+Epoch 10/15
+ - 2s - loss: 0.0107
+Epoch 11/15
+ - 2s - loss: 0.0106
+Epoch 12/15
+ - 2s - loss: 0.0107
+Epoch 13/15
+ - 2s - loss: 0.0107
+Epoch 14/15
+ - 2s - loss: 0.0107
+Epoch 15/15
+ - 2s - loss: 0.0107
+Train Score: 1522524055.2933369% error
+Test Score: 1552015458.5911996% error
+../neighborhood22
+Epoch 1/15
+ - 3s - loss: 0.0379
+Epoch 2/15
+ - 2s - loss: 0.0379
+Epoch 3/15
+ - 2s - loss: 0.0378
+Epoch 4/15
+ - 2s - loss: 0.0378
+Epoch 5/15
+ - 2s - loss: 0.0378
+Epoch 6/15
+ - 2s - loss: 0.0378
+Epoch 7/15
+ - 2s - loss: 0.0377
+Epoch 8/15
+ - 2s - loss: 0.0378
+Epoch 9/15
+ - 2s - loss: 0.0377
+Epoch 10/15
+ - 2s - loss: 0.0376
+Epoch 11/15
+ - 2s - loss: 0.0378
+Epoch 12/15
+ - 2s - loss: 0.0379
+Epoch 13/15
+ - 2s - loss: 0.0377
+Epoch 14/15
+ - 2s - loss: 0.0377
+Epoch 15/15
+ - 2s - loss: 0.0377
+Train Score: 2677952876.283192% error
+Test Score: 2722881647.208723% error
+../neighborhood23
+Epoch 1/15
+ - 4s - loss: 0.0059
+Epoch 2/15
+ - 2s - loss: 0.0060
+Epoch 3/15
+ - 2s - loss: 0.0059
+Epoch 4/15
+ - 2s - loss: 0.0059
+Epoch 5/15
+ - 2s - loss: 0.0060
+Epoch 6/15
+ - 2s - loss: 0.0059
+Epoch 7/15
+ - 2s - loss: 0.0059
+Epoch 8/15
+ - 2s - loss: 0.0059
+Epoch 9/15
+ - 2s - loss: 0.0059
+Epoch 10/15
+ - 2s - loss: 0.0059
+Epoch 11/15
+ - 2s - loss: 0.0059
+Epoch 12/15
+ - 2s - loss: 0.0059
+Epoch 13/15
+ - 2s - loss: 0.0058
+Epoch 14/15
+ - 2s - loss: 0.0059
+Epoch 15/15
+ - 2s - loss: 0.0059
+Train Score: 319292339.31478715% error
+Test Score: 312760787.41086286% error
+../neighborhood24
+Epoch 1/15
+ - 4s - loss: 0.0169
+Epoch 2/15
+ - 2s - loss: 0.0173
+Epoch 3/15
+ - 2s - loss: 0.0172
+Epoch 4/15
+ - 2s - loss: 0.0172
+Epoch 5/15
+ - 2s - loss: 0.0172
+Epoch 6/15
+ - 2s - loss: 0.0171
+Epoch 7/15
+ - 2s - loss: 0.0170
+Epoch 8/15
+ - 2s - loss: 0.0171
+Epoch 9/15
+ - 2s - loss: 0.0169
+Epoch 10/15
+ - 2s - loss: 0.0171
+Epoch 11/15
+ - 2s - loss: 0.0170
+Epoch 12/15
+ - 2s - loss: 0.0169
+Epoch 13/15
+ - 2s - loss: 0.0171
+Epoch 14/15
+ - 2s - loss: 0.0169
+Epoch 15/15
+ - 2s - loss: 0.0169
+Train Score: 42.498074681529516% error
+Test Score: 56.46744638220162% error
+../neighborhood25
+Epoch 1/15
+ - 4s - loss: 0.0105
+Epoch 2/15
+ - 2s - loss: 0.0100
+Epoch 3/15
+ - 2s - loss: 0.0097
+Epoch 4/15
+ - 2s - loss: 0.0097
+Epoch 5/15
+ - 2s - loss: 0.0096
+Epoch 6/15
+ - 2s - loss: 0.0096
+Epoch 7/15
+ - 2s - loss: 0.0094
+Epoch 8/15
+ - 2s - loss: 0.0096
+Epoch 9/15
+ - 2s - loss: 0.0095
+Epoch 10/15
+ - 2s - loss: 0.0097
+Epoch 11/15
+ - 2s - loss: 0.0096
+Epoch 12/15
+ - 2s - loss: 0.0096
+Epoch 13/15
+ - 2s - loss: 0.0096
+Epoch 14/15
+ - 2s - loss: 0.0096
+Epoch 15/15
+ - 2s - loss: 0.0096
+Train Score: 61.96641739698697% error
+Test Score: 61.74666145937186% error
+../neighborhood26
+Epoch 1/15
+ - 4s - loss: 0.0271
+Epoch 2/15
+ - 2s - loss: 0.0270
+Epoch 3/15
+ - 2s - loss: 0.0269
+Epoch 4/15
+ - 2s - loss: 0.0270
+Epoch 5/15
+ - 2s - loss: 0.0269
+Epoch 6/15
+ - 2s - loss: 0.0270
+Epoch 7/15
+ - 2s - loss: 0.0269
+Epoch 8/15
+ - 2s - loss: 0.0270
+Epoch 9/15
+ - 2s - loss: 0.0270
+Epoch 10/15
+ - 2s - loss: 0.0270
+Epoch 11/15
+ - 2s - loss: 0.0270
+Epoch 12/15
+ - 2s - loss: 0.0271
+Epoch 13/15
+ - 2s - loss: 0.0269
+Epoch 14/15
+ - 2s - loss: 0.0270
+Epoch 15/15
+ - 2s - loss: 0.0270
+Train Score: 4457654501.403392% error
+Test Score: 4539902022.468758% error
+../neighborhood27
+Epoch 1/15
+ - 4s - loss: 0.0081
+Epoch 2/15
+ - 2s - loss: 0.0081
+Epoch 3/15
+ - 2s - loss: 0.0081
+Epoch 4/15
+ - 2s - loss: 0.0081
+Epoch 5/15
+ - 2s - loss: 0.0081
+Epoch 6/15
+ - 2s - loss: 0.0081
+Epoch 7/15
+ - 2s - loss: 0.0081
+Epoch 8/15
+ - 2s - loss: 0.0081
+Epoch 9/15
+ - 2s - loss: 0.0080
+Epoch 10/15
+ - 2s - loss: 0.0081
+Epoch 11/15
+ - 2s - loss: 0.0081
+Epoch 12/15
+ - 2s - loss: 0.0081
+Epoch 13/15
+ - 2s - loss: 0.0081
+Epoch 14/15
+ - 2s - loss: 0.0081
+Epoch 15/15
+ - 2s - loss: 0.0081
+Train Score: 112451734.29742351% error
+Test Score: 113770961.76147461% error
+../neighborhood28
+Epoch 1/15
+ - 4s - loss: 0.0240
+Epoch 2/15
+ - 2s - loss: 0.0240
+Epoch 3/15
+ - 2s - loss: 0.0240
+Epoch 4/15
+ - 2s - loss: 0.0240
+Epoch 5/15
+ - 2s - loss: 0.0239
+Epoch 6/15
+ - 2s - loss: 0.0240
+Epoch 7/15
+ - 2s - loss: 0.0240
+Epoch 8/15
+ - 2s - loss: 0.0240
+Epoch 9/15
+ - 2s - loss: 0.0239
+Epoch 10/15
+ - 2s - loss: 0.0240
+Epoch 11/15
+ - 2s - loss: 0.0241
+Epoch 12/15
+ - 2s - loss: 0.0240
+Epoch 13/15
+ - 2s - loss: 0.0240
+Epoch 14/15
+ - 2s - loss: 0.0238
+Epoch 15/15
+ - 2s - loss: 0.0240
+Train Score: 7813063800.1115055% error
+Test Score: 6721530419.806094% error
+../neighborhood29
+Epoch 1/15
+ - 4s - loss: 0.0114
+Epoch 2/15
+ - 2s - loss: 0.0114
+Epoch 3/15
+ - 2s - loss: 0.0114
+Epoch 4/15
+ - 2s - loss: 0.0115
+Epoch 5/15
+ - 2s - loss: 0.0114
+Epoch 6/15
+ - 2s - loss: 0.0113
+Epoch 7/15
+ - 2s - loss: 0.0114
+Epoch 8/15
+ - 2s - loss: 0.0114
+Epoch 9/15
+ - 2s - loss: 0.0114
+Epoch 10/15
+ - 2s - loss: 0.0114
+Epoch 11/15
+ - 2s - loss: 0.0114
+Epoch 12/15
+ - 2s - loss: 0.0113
+Epoch 13/15
+ - 2s - loss: 0.0114
+Epoch 14/15
+ - 2s - loss: 0.0114
+Epoch 15/15
+ - 2s - loss: 0.0114
+Train Score: 1557766059.2656186% error
+Test Score: 1626724509.60288% error
+../neighborhood30
+Epoch 1/15
+ - 4s - loss: 0.0061
+Epoch 2/15
+ - 2s - loss: 0.0061
+Epoch 3/15
+ - 2s - loss: 0.0061
+Epoch 4/15
+ - 2s - loss: 0.0061
+Epoch 5/15
+ - 2s - loss: 0.0060
+Epoch 6/15
+ - 2s - loss: 0.0060
+Epoch 7/15
+ - 2s - loss: 0.0061
+Epoch 8/15
+ - 2s - loss: 0.0061
+Epoch 9/15
+ - 2s - loss: 0.0061
+Epoch 10/15
+ - 2s - loss: 0.0061
+Epoch 11/15
+ - 2s - loss: 0.0060
+Epoch 12/15
+ - 2s - loss: 0.0061
+Epoch 13/15
+ - 2s - loss: 0.0061
+Epoch 14/15
+ - 2s - loss: 0.0061
+Epoch 15/15
+ - 2s - loss: 0.0061
+Train Score: 239614002.57977653% error
+Test Score: 240257051.83473372% error
+../neighborhood31
+Epoch 1/15
+ - 4s - loss: 0.0090
+Epoch 2/15
+ - 2s - loss: 0.0089
+Epoch 3/15
+ - 2s - loss: 0.0090
+Epoch 4/15
+ - 2s - loss: 0.0090
+Epoch 5/15
+ - 2s - loss: 0.0089
+Epoch 6/15
+ - 2s - loss: 0.0089
+Epoch 7/15
+ - 2s - loss: 0.0089
+Epoch 8/15
+ - 2s - loss: 0.0089
+Epoch 9/15
+ - 2s - loss: 0.0089
+Epoch 10/15
+ - 2s - loss: 0.0089
+Epoch 11/15
+ - 2s - loss: 0.0089
+Epoch 12/15
+ - 2s - loss: 0.0089
+Epoch 13/15
+ - 2s - loss: 0.0089
+Epoch 14/15
+ - 2s - loss: 0.0089
+Epoch 15/15
+ - 2s - loss: 0.0088
+Train Score: 1897688830.9362068% error
+Test Score: 1901753798.2756286% error
+../neighborhood32
+Epoch 1/15
+ - 4s - loss: 0.0184
+Epoch 2/15
+ - 2s - loss: 0.0184
+Epoch 3/15
+ - 2s - loss: 0.0183
+Epoch 4/15
+ - 2s - loss: 0.0185
+Epoch 5/15
+ - 2s - loss: 0.0184
+Epoch 6/15
+ - 2s - loss: 0.0183
+Epoch 7/15
+ - 2s - loss: 0.0184
+Epoch 8/15
+ - 2s - loss: 0.0183
+Epoch 9/15
+ - 2s - loss: 0.0184
+Epoch 10/15
+ - 2s - loss: 0.0183
+Epoch 11/15
+ - 2s - loss: 0.0184
+Epoch 12/15
+ - 2s - loss: 0.0184
+Epoch 13/15
+ - 2s - loss: 0.0183
+Epoch 14/15
+ - 2s - loss: 0.0183
+Epoch 15/15
+ - 2s - loss: 0.0184
+Train Score: 893427076.3866534% error
+Test Score: 882292894.3693032% error
+../neighborhood33
+Epoch 1/15
+ - 4s - loss: 0.0189
+Epoch 2/15
+ - 2s - loss: 0.0185
+Epoch 3/15
+ - 2s - loss: 0.0185
+Epoch 4/15
+ - 2s - loss: 0.0184
+Epoch 5/15
+ - 2s - loss: 0.0185
+Epoch 6/15
+ - 2s - loss: 0.0183
+Epoch 7/15
+ - 2s - loss: 0.0184
+Epoch 8/15
+ - 2s - loss: 0.0182
+Epoch 9/15
+ - 2s - loss: 0.0184
+Epoch 10/15
+ - 2s - loss: 0.0182
+Epoch 11/15
+ - 2s - loss: 0.0184
+Epoch 12/15
+ - 2s - loss: 0.0184
+Epoch 13/15
+ - 2s - loss: 0.0183
+Epoch 14/15
+ - 2s - loss: 0.0184
+Epoch 15/15
+ - 2s - loss: 0.0183
+Train Score: 4277109065.054135% error
+Test Score: 6645507021.4816% error
+../neighborhood34
+Epoch 1/15
+ - 4s - loss: 0.0231
+Epoch 2/15
+ - 2s - loss: 0.0230
+Epoch 3/15
+ - 2s - loss: 0.0230
+Epoch 4/15
+ - 2s - loss: 0.0229
+Epoch 5/15
+ - 2s - loss: 0.0229
+Epoch 6/15
+ - 2s - loss: 0.0228
+Epoch 7/15
+ - 2s - loss: 0.0229
+Epoch 8/15
+ - 2s - loss: 0.0229
+Epoch 9/15
+ - 2s - loss: 0.0227
+Epoch 10/15
+ - 2s - loss: 0.0229
+Epoch 11/15
+ - 2s - loss: 0.0228
+Epoch 12/15
+ - 2s - loss: 0.0230
+Epoch 13/15
+ - 2s - loss: 0.0229
+Epoch 14/15
+ - 2s - loss: 0.0229
+Epoch 15/15
+ - 2s - loss: 0.0229
+Train Score: 7889351544.180618% error
+Test Score: 8432248062.721327% error
+../neighborhood35
+Epoch 1/15
+ - 4s - loss: 0.0146
+Epoch 2/15
+ - 2s - loss: 0.0146
+Epoch 3/15
+ - 2s - loss: 0.0146
+Epoch 4/15
+ - 2s - loss: 0.0146
+Epoch 5/15
+ - 2s - loss: 0.0146
+Epoch 6/15
+ - 2s - loss: 0.0147
+Epoch 7/15
+ - 2s - loss: 0.0146
+Epoch 8/15
+ - 2s - loss: 0.0146
+Epoch 9/15
+ - 2s - loss: 0.0146
+Epoch 10/15
+ - 2s - loss: 0.0146
+Epoch 11/15
+ - 2s - loss: 0.0146
+Epoch 12/15
+ - 2s - loss: 0.0146
+Epoch 13/15
+ - 2s - loss: 0.0146
+Epoch 14/15
+ - 2s - loss: 0.0146
+Epoch 15/15
+ - 2s - loss: 0.0146
+Train Score: 2211084589.659854% error
+Test Score: 2234980204.629446% error
+../neighborhood36
+Epoch 1/15
+ - 5s - loss: 0.0066
+Epoch 2/15
+ - 2s - loss: 0.0054
+Epoch 3/15
+ - 2s - loss: 0.0050
+Epoch 4/15
+ - 2s - loss: 0.0048
+Epoch 5/15
+ - 2s - loss: 0.0047
+Epoch 6/15
+ - 2s - loss: 0.0047
+Epoch 7/15
+ - 2s - loss: 0.0047
+Epoch 8/15
+ - 2s - loss: 0.0047
+Epoch 9/15
+ - 2s - loss: 0.0047
+Epoch 10/15
+ - 2s - loss: 0.0047
+Epoch 11/15
+ - 2s - loss: 0.0047
+Epoch 12/15
+ - 2s - loss: 0.0047
+Epoch 13/15
+ - 2s - loss: 0.0047
+Epoch 14/15
+ - 2s - loss: 0.0047
+Epoch 15/15
+ - 2s - loss: 0.0047
+Train Score: 9139397067.207684% error
+Test Score: 8512533551.841539% error
+../neighborhood37
+Epoch 1/15
+ - 5s - loss: 0.0056
+Epoch 2/15
+ - 2s - loss: 0.0056
+Epoch 3/15
+ - 2s - loss: 0.0055
+Epoch 4/15
+ - 2s - loss: 0.0055
+Epoch 5/15
+ - 2s - loss: 0.0055
+Epoch 6/15
+ - 2s - loss: 0.0055
+Epoch 7/15
+ - 2s - loss: 0.0055
+Epoch 8/15
+ - 2s - loss: 0.0055
+Epoch 9/15
+ - 2s - loss: 0.0055
+Epoch 10/15
+ - 2s - loss: 0.0055
+Epoch 11/15
+ - 2s - loss: 0.0055
+Epoch 12/15
+ - 2s - loss: 0.0055
+Epoch 13/15
+ - 2s - loss: 0.0055
+Epoch 14/15
+ - 2s - loss: 0.0055
+Epoch 15/15
+ - 2s - loss: 0.0055
+Train Score: 9688096286.7837% error
+Test Score: 12063882268.615122% error
+../neighborhood38
+Epoch 1/15
+ - 5s - loss: 0.0277
+Epoch 2/15
+ - 2s - loss: 0.0276
+Epoch 3/15
+ - 2s - loss: 0.0275
+Epoch 4/15
+ - 2s - loss: 0.0277
+Epoch 5/15
+ - 2s - loss: 0.0276
+Epoch 6/15
+ - 2s - loss: 0.0276
+Epoch 7/15
+ - 2s - loss: 0.0275
+Epoch 8/15
+ - 2s - loss: 0.0276
+Epoch 9/15
+ - 2s - loss: 0.0275
+Epoch 10/15
+ - 2s - loss: 0.0276
+Epoch 11/15
+ - 2s - loss: 0.0276
+Epoch 12/15
+ - 2s - loss: 0.0275
+Epoch 13/15
+ - 2s - loss: 0.0275
+Epoch 14/15
+ - 2s - loss: 0.0276
+Epoch 15/15
+ - 2s - loss: 0.0275
+Train Score: 574774481.8380506% error
+Test Score: 575829644.1292396% error
+../neighborhood39
+Epoch 1/15
+ - 5s - loss: 0.0340
+Epoch 2/15
+ - 2s - loss: 0.0338
+Epoch 3/15
+ - 2s - loss: 0.0338
+Epoch 4/15
+ - 2s - loss: 0.0338
+Epoch 5/15
+ - 2s - loss: 0.0337
+Epoch 6/15
+ - 2s - loss: 0.0338
+Epoch 7/15
+ - 2s - loss: 0.0339
+Epoch 8/15
+ - 2s - loss: 0.0335
+Epoch 9/15
+ - 2s - loss: 0.0338
+Epoch 10/15
+ - 2s - loss: 0.0337
+Epoch 11/15
+ - 2s - loss: 0.0338
+Epoch 12/15
+ - 2s - loss: 0.0337
+Epoch 13/15
+ - 2s - loss: 0.0337
+Epoch 14/15
+ - 2s - loss: 0.0336
+Epoch 15/15
+ - 2s - loss: 0.0337
+Train Score: 3591632932.985984% error
+Test Score: 3647858995.7262526% error
+../neighborhood40
+Epoch 1/15
+ - 5s - loss: 0.0171
+Epoch 2/15
+ - 2s - loss: 0.0166
+Epoch 3/15
+ - 2s - loss: 0.0164
+Epoch 4/15
+ - 2s - loss: 0.0164
+Epoch 5/15
+ - 2s - loss: 0.0163
+Epoch 6/15
+ - 2s - loss: 0.0163
+Epoch 7/15
+ - 2s - loss: 0.0163
+Epoch 8/15
+ - 2s - loss: 0.0163
+Epoch 9/15
+ - 2s - loss: 0.0163
+Epoch 10/15
+ - 2s - loss: 0.0162
+Epoch 11/15
+ - 2s - loss: 0.0162
+Epoch 12/15
+ - 2s - loss: 0.0160
+Epoch 13/15
+ - 2s - loss: 0.0162
+Epoch 14/15
+ - 2s - loss: 0.0161
+Epoch 15/15
+ - 2s - loss: 0.0161
+Train Score: 2609617019.5905013% error
+Test Score: 3176624059.2773156% error
+../neighborhood41
+Epoch 1/15
+ - 5s - loss: 0.0197
+Epoch 2/15
+ - 2s - loss: 0.0193
+Epoch 3/15
+ - 2s - loss: 0.0193
+Epoch 4/15
+ - 2s - loss: 0.0194
+Epoch 5/15
+ - 2s - loss: 0.0194
+Epoch 6/15
+ - 2s - loss: 0.0193
+Epoch 7/15
+ - 2s - loss: 0.0191
+Epoch 8/15
+ - 2s - loss: 0.0192
+Epoch 9/15
+ - 2s - loss: 0.0191
+Epoch 10/15
+ - 2s - loss: 0.0192
+Epoch 11/15
+ - 2s - loss: 0.0191
+Epoch 12/15
+ - 2s - loss: 0.0190
+Epoch 13/15
+ - 2s - loss: 0.0193
+Epoch 14/15
+ - 2s - loss: 0.0191
+Epoch 15/15
+ - 2s - loss: 0.0192
+Train Score: 38.36715238947409% error
+Test Score: 40.26843714860327% error
+../neighborhood42
+Epoch 1/15
+ - 5s - loss: 0.0196
+Epoch 2/15
+ - 2s - loss: 0.0193
+Epoch 3/15
+ - 2s - loss: 0.0190
+Epoch 4/15
+ - 2s - loss: 0.0192
+Epoch 5/15
+ - 2s - loss: 0.0192
+Epoch 6/15
+ - 2s - loss: 0.0191
+Epoch 7/15
+ - 2s - loss: 0.0190
+Epoch 8/15
+ - 2s - loss: 0.0191
+Epoch 9/15
+ - 2s - loss: 0.0190
+Epoch 10/15
+ - 2s - loss: 0.0191
+Epoch 11/15
+ - 2s - loss: 0.0191
+Epoch 12/15
+ - 2s - loss: 0.0190
+Epoch 13/15
+ - 2s - loss: 0.0187
+Epoch 14/15
+ - 2s - loss: 0.0189
+Epoch 15/15
+ - 2s - loss: 0.0190
+Train Score: 46.121951420316265% error
+Test Score: 52.63391302472562% error
+../neighborhood43
+Epoch 1/15
+ - 5s - loss: 0.0157
+Epoch 2/15
+ - 2s - loss: 0.0156
+Epoch 3/15
+ - 2s - loss: 0.0155
+Epoch 4/15
+ - 2s - loss: 0.0154
+Epoch 5/15
+ - 2s - loss: 0.0154
+Epoch 6/15
+ - 2s - loss: 0.0154
+Epoch 7/15
+ - 2s - loss: 0.0153
+Epoch 8/15
+ - 2s - loss: 0.0154
+Epoch 9/15
+ - 2s - loss: 0.0152
+Epoch 10/15
+ - 2s - loss: 0.0152
+Epoch 11/15
+ - 2s - loss: 0.0154
+Epoch 12/15
+ - 2s - loss: 0.0151
+Epoch 13/15
+ - 2s - loss: 0.0153
+Epoch 14/15
+ - 2s - loss: 0.0152
+Epoch 15/15
+ - 2s - loss: 0.0152
+Train Score: 71.14842866185963% error
+Test Score: 73.52877670056915% error
+../neighborhood44
+Epoch 1/15
+ - 5s - loss: 0.0024
+Epoch 2/15
+ - 2s - loss: 0.0024
+Epoch 3/15
+ - 2s - loss: 0.0024
+Epoch 4/15
+ - 2s - loss: 0.0024
+Epoch 5/15
+ - 2s - loss: 0.0023
+Epoch 6/15
+ - 2s - loss: 0.0023
+Epoch 7/15
+ - 2s - loss: 0.0023
+Epoch 8/15
+ - 2s - loss: 0.0023
+Epoch 9/15
+ - 2s - loss: 0.0023
+Epoch 10/15
+ - 2s - loss: 0.0023
+Epoch 11/15
+ - 2s - loss: 0.0023
+Epoch 12/15
+ - 2s - loss: 0.0023
+Epoch 13/15
+ - 2s - loss: 0.0023
+Epoch 14/15
+ - 2s - loss: 0.0023
+Epoch 15/15
+ - 2s - loss: 0.0022
+Train Score: 35953613.62449851% error
+Test Score: 35689272.182249434% error
+../neighborhood45
+Epoch 1/15
+ - 5s - loss: 0.0175
+Epoch 2/15
+ - 2s - loss: 0.0173
+Epoch 3/15
+ - 2s - loss: 0.0174
+Epoch 4/15
+ - 2s - loss: 0.0171
+Epoch 5/15
+ - 2s - loss: 0.0171
+Epoch 6/15
+ - 2s - loss: 0.0168
+Epoch 7/15
+ - 2s - loss: 0.0169
+Epoch 8/15
+ - 2s - loss: 0.0171
+Epoch 9/15
+ - 2s - loss: 0.0168
+Epoch 10/15
+ - 2s - loss: 0.0169
+Epoch 11/15
+ - 2s - loss: 0.0167
+Epoch 12/15
+ - 2s - loss: 0.0168
+Epoch 13/15
+ - 2s - loss: 0.0166
+Epoch 14/15
+ - 2s - loss: 0.0166
+Epoch 15/15
+ - 2s - loss: 0.0166
+Train Score: 953353113.230039% error
+Test Score: 58.895453682643826% error
+../neighborhood46
+Epoch 1/15
+ - 5s - loss: 0.0081
+Epoch 2/15
+ - 2s - loss: 0.0081
+Epoch 3/15
+ - 2s - loss: 0.0081
+Epoch 4/15
+ - 2s - loss: 0.0081
+Epoch 5/15
+ - 2s - loss: 0.0081
+Epoch 6/15
+ - 2s - loss: 0.0081
+Epoch 7/15
+ - 2s - loss: 0.0081
+Epoch 8/15
+ - 2s - loss: 0.0081
+Epoch 9/15
+ - 2s - loss: 0.0080
+Epoch 10/15
+ - 2s - loss: 0.0081
+Epoch 11/15
+ - 2s - loss: 0.0081
+Epoch 12/15
+ - 2s - loss: 0.0081
+Epoch 13/15
+ - 2s - loss: 0.0081
+Epoch 14/15
+ - 2s - loss: 0.0080
+Epoch 15/15
+ - 2s - loss: 0.0081
+Train Score: 113447419.16687976% error
+Test Score: 111780557.12125579% error
+../neighborhood47
+Epoch 1/15
+ - 5s - loss: 0.0103
+Epoch 2/15
+ - 2s - loss: 0.0103
+Epoch 3/15
+ - 2s - loss: 0.0103
+Epoch 4/15
+ - 2s - loss: 0.0103
+Epoch 5/15
+ - 2s - loss: 0.0102
+Epoch 6/15
+ - 2s - loss: 0.0103
+Epoch 7/15
+ - 2s - loss: 0.0103
+Epoch 8/15
+ - 2s - loss: 0.0103
+Epoch 9/15
+ - 2s - loss: 0.0103
+Epoch 10/15
+ - 2s - loss: 0.0102
+Epoch 11/15
+ - 2s - loss: 0.0103
+Epoch 12/15
+ - 2s - loss: 0.0103
+Epoch 13/15
+ - 2s - loss: 0.0103
+Epoch 14/15
+ - 2s - loss: 0.0103
+Epoch 15/15
+ - 2s - loss: 0.0103
+Train Score: 2328250189.9898334% error
+Test Score: 2445916079.323458% error
+../neighborhood48
+Epoch 1/15
+ - 5s - loss: 0.0149
+Epoch 2/15
+ - 2s - loss: 0.0148
+Epoch 3/15
+ - 2s - loss: 0.0149
+Epoch 4/15
+ - 2s - loss: 0.0148
+Epoch 5/15
+ - 2s - loss: 0.0148
+Epoch 6/15
+ - 2s - loss: 0.0148
+Epoch 7/15
+ - 2s - loss: 0.0149
+Epoch 8/15
+ - 2s - loss: 0.0149
+Epoch 9/15
+ - 2s - loss: 0.0149
+Epoch 10/15
+ - 2s - loss: 0.0148
+Epoch 11/15
+ - 2s - loss: 0.0149
+Epoch 12/15
+ - 2s - loss: 0.0149
+Epoch 13/15
+ - 2s - loss: 0.0149
+Epoch 14/15
+ - 2s - loss: 0.0150
+Epoch 15/15
+ - 2s - loss: 0.0148
+Train Score: 28.820899660125242% error
+Test Score: 31.41179255029479% error
+../neighborhood49
+Epoch 1/15
+ - 6s - loss: 0.0085
+Epoch 2/15
+ - 2s - loss: 0.0081
+Epoch 3/15
+ - 2s - loss: 0.0079
+Epoch 4/15
+ - 2s - loss: 0.0080
+Epoch 5/15
+ - 2s - loss: 0.0080
+Epoch 6/15
+ - 2s - loss: 0.0080
+Epoch 7/15
+ - 2s - loss: 0.0081
+Epoch 8/15
+ - 2s - loss: 0.0079
+Epoch 9/15
+ - 2s - loss: 0.0080
+Epoch 10/15
+ - 2s - loss: 0.0080
+Epoch 11/15
+ - 2s - loss: 0.0080
+Epoch 12/15
+ - 2s - loss: 0.0080
+Epoch 13/15
+ - 2s - loss: 0.0081
+Epoch 14/15
+ - 2s - loss: 0.0080
+Epoch 15/15
+ - 2s - loss: 0.0080
+Train Score: 3527839288.3624697% error
+Test Score: 6063236083.991881% error
+../neighborhood50
+Epoch 1/15
+ - 5s - loss: 0.0095
+Epoch 2/15
+ - 2s - loss: 0.0094
+Epoch 3/15
+ - 2s - loss: 0.0094
+Epoch 4/15
+ - 2s - loss: 0.0094
+Epoch 5/15
+ - 2s - loss: 0.0094
+Epoch 6/15
+ - 2s - loss: 0.0094
+Epoch 7/15
+ - 2s - loss: 0.0094
+Epoch 8/15
+ - 2s - loss: 0.0093
+Epoch 9/15
+ - 2s - loss: 0.0092
+Epoch 10/15
+ - 2s - loss: 0.0091
+Epoch 11/15
+ - 2s - loss: 0.0093
+Epoch 12/15
+ - 2s - loss: 0.0093
+Epoch 13/15
+ - 2s - loss: 0.0092
+Epoch 14/15
+ - 2s - loss: 0.0093
+Epoch 15/15
+ - 2s - loss: 0.0093
+Train Score: 36.90045768341919% error
+Test Score: 42.34297682773388% error
+../neighborhood51
+Epoch 1/15
+ - 6s - loss: 0.0166
+Epoch 2/15
+ - 2s - loss: 0.0166
+Epoch 3/15
+ - 2s - loss: 0.0165
+Epoch 4/15
+ - 2s - loss: 0.0166
+Epoch 5/15
+ - 2s - loss: 0.0166
+Epoch 6/15
+ - 2s - loss: 0.0166
+Epoch 7/15
+ - 2s - loss: 0.0166
+Epoch 8/15
+ - 2s - loss: 0.0165
+Epoch 9/15
+ - 2s - loss: 0.0165
+Epoch 10/15
+ - 2s - loss: 0.0166
+Epoch 11/15
+ - 2s - loss: 0.0166
+Epoch 12/15
+ - 2s - loss: 0.0166
+Epoch 13/15
+ - 2s - loss: 0.0166
+Epoch 14/15
+ - 2s - loss: 0.0166
+Epoch 15/15
+ - 2s - loss: 0.0166
+Train Score: 1367319789.7915523% error
+Test Score: 1371225429.5620704% error
+../neighborhood52
+Epoch 1/15
+ - 6s - loss: 0.0152
+Epoch 2/15
+ - 2s - loss: 0.0150
+Epoch 3/15
+ - 2s - loss: 0.0151
+Epoch 4/15
+ - 2s - loss: 0.0151
+Epoch 5/15
+ - 2s - loss: 0.0151
+Epoch 6/15
+ - 2s - loss: 0.0151
+Epoch 7/15
+ - 2s - loss: 0.0150
+Epoch 8/15
+ - 2s - loss: 0.0151
+Epoch 9/15
+ - 2s - loss: 0.0149
+Epoch 10/15
+ - 1s - loss: 0.0150
+Epoch 11/15
+ - 2s - loss: 0.0151
+Epoch 12/15
+ - 2s - loss: 0.0149
+Epoch 13/15
+ - 2s - loss: 0.0150
+Epoch 14/15
+ - 2s - loss: 0.0150
+Epoch 15/15
+ - 2s - loss: 0.0149
+Train Score: 5179485807.713466% error
+Test Score: 4234943194.77265% error
+../neighborhood53
+Epoch 1/15
+ - 7s - loss: 0.0265
+Epoch 2/15
+ - 2s - loss: 0.0266
+Epoch 3/15
+ - 2s - loss: 0.0266
+Epoch 4/15
+ - 2s - loss: 0.0266
+Epoch 5/15
+ - 2s - loss: 0.0265
+Epoch 6/15
+ - 2s - loss: 0.0266
+Epoch 7/15
+ - 2s - loss: 0.0266
+Epoch 8/15
+ - 2s - loss: 0.0264
+Epoch 9/15
+ - 2s - loss: 0.0266
+Epoch 10/15
+ - 2s - loss: 0.0264
+Epoch 11/15
+ - 2s - loss: 0.0267
+Epoch 12/15
+ - 2s - loss: 0.0266
+Epoch 13/15
+ - 2s - loss: 0.0266
+Epoch 14/15
+ - 2s - loss: 0.0266
+Epoch 15/15
+ - 2s - loss: 0.0265
+Train Score: 1951978130.4182746% error
+Test Score: 2011426522.7083511% error
+../neighborhood54
+Epoch 1/15
+ - 6s - loss: 0.0236
+Epoch 2/15
+ - 2s - loss: 0.0235
+Epoch 3/15
+ - 2s - loss: 0.0235
+Epoch 4/15
+ - 2s - loss: 0.0235
+Epoch 5/15
+ - 2s - loss: 0.0232
+Epoch 6/15
+ - 2s - loss: 0.0237
+Epoch 7/15
+ - 2s - loss: 0.0234
+Epoch 8/15
+ - 2s - loss: 0.0235
+Epoch 9/15
+ - 2s - loss: 0.0235
+Epoch 10/15
+ - 2s - loss: 0.0233
+Epoch 11/15
+ - 2s - loss: 0.0236
+Epoch 12/15
+ - 2s - loss: 0.0235
+Epoch 13/15
+ - 2s - loss: 0.0234
+Epoch 14/15
+ - 2s - loss: 0.0235
+Epoch 15/15
+ - 2s - loss: 0.0234
+Train Score: 9169442951.450373% error
+Test Score: 9883579242.368942% error
+../neighborhood55
+Epoch 1/15
+ - 6s - loss: 0.0029
+Epoch 2/15
+ - 2s - loss: 0.0029
+Epoch 3/15
+ - 2s - loss: 0.0028
+Epoch 4/15
+ - 2s - loss: 0.0028
+Epoch 5/15
+ - 2s - loss: 0.0027
+Epoch 6/15
+ - 2s - loss: 0.0027
+Epoch 7/15
+ - 2s - loss: 0.0027
+Epoch 8/15
+ - 2s - loss: 0.0026
+Epoch 9/15
+ - 2s - loss: 0.0026
+Epoch 10/15
+ - 2s - loss: 0.0026
+Epoch 11/15
+ - 2s - loss: 0.0026
+Epoch 12/15
+ - 2s - loss: 0.0026
+Epoch 13/15
+ - 2s - loss: 0.0026
+Epoch 14/15
+ - 2s - loss: 0.0026
+Epoch 15/15
+ - 2s - loss: 0.0026
+Train Score: 1666971271.874847% error
+Test Score: 1790705882.4982274% error
+../neighborhood56
+Epoch 1/15
+ - 6s - loss: 0.0315
+Epoch 2/15
+ - 2s - loss: 0.0315
+Epoch 3/15
+ - 2s - loss: 0.0314
+Epoch 4/15
+ - 2s - loss: 0.0315
+Epoch 5/15
+ - 2s - loss: 0.0315
+Epoch 6/15
+ - 2s - loss: 0.0313
+Epoch 7/15
+ - 2s - loss: 0.0315
+Epoch 8/15
+ - 2s - loss: 0.0312
+Epoch 9/15
+ - 2s - loss: 0.0316
+Epoch 10/15
+ - 2s - loss: 0.0315
+Epoch 11/15
+ - 2s - loss: 0.0315
+Epoch 12/15
+ - 2s - loss: 0.0315
+Epoch 13/15
+ - 2s - loss: 0.0314
+Epoch 14/15
+ - 2s - loss: 0.0315
+Epoch 15/15
+ - 2s - loss: 0.0314
+Train Score: 5762804228.530791% error
+Test Score: 5965583206.922424% error
+../neighborhood57
+Epoch 1/15
+ - 6s - loss: 0.0127
+Epoch 2/15
+ - 2s - loss: 0.0126
+Epoch 3/15
+ - 2s - loss: 0.0126
+Epoch 4/15
+ - 2s - loss: 0.0126
+Epoch 5/15
+ - 2s - loss: 0.0127
+Epoch 6/15
+ - 2s - loss: 0.0126
+Epoch 7/15
+ - 2s - loss: 0.0126
+Epoch 8/15
+ - 2s - loss: 0.0127
+Epoch 9/15
+ - 2s - loss: 0.0126
+Epoch 10/15
+ - 2s - loss: 0.0126
+Epoch 11/15
+ - 2s - loss: 0.0126
+Epoch 12/15
+ - 2s - loss: 0.0126
+Epoch 13/15
+ - 2s - loss: 0.0126
+Epoch 14/15
+ - 2s - loss: 0.0126
+Epoch 15/15
+ - 2s - loss: 0.0126
+Train Score: 1308062910.9731276% error
+Test Score: 1291849711.059073% error
+../neighborhood58
+Epoch 1/15
+ - 6s - loss: 0.0040
+Epoch 2/15
+ - 2s - loss: 0.0041
+Epoch 3/15
+ - 2s - loss: 0.0041
+Epoch 4/15
+ - 2s - loss: 0.0040
+Epoch 5/15
+ - 2s - loss: 0.0040
+Epoch 6/15
+ - 2s - loss: 0.0041
+Epoch 7/15
+ - 2s - loss: 0.0040
+Epoch 8/15
+ - 2s - loss: 0.0041
+Epoch 9/15
+ - 2s - loss: 0.0040
+Epoch 10/15
+ - 2s - loss: 0.0041
+Epoch 11/15
+ - 2s - loss: 0.0041
+Epoch 12/15
+ - 2s - loss: 0.0041
+Epoch 13/15
+ - 2s - loss: 0.0040
+Epoch 14/15
+ - 2s - loss: 0.0041
+Epoch 15/15
+ - 2s - loss: 0.0041
+Train Score: 166759437.59027907% error
+Test Score: 166748464.51391858% error
+../neighborhood59
+Epoch 1/15
+ - 6s - loss: 0.0121
+Epoch 2/15
+ - 2s - loss: 0.0120
+Epoch 3/15
+ - 2s - loss: 0.0121
+Epoch 4/15
+ - 2s - loss: 0.0121
+Epoch 5/15
+ - 2s - loss: 0.0120
+Epoch 6/15
+ - 2s - loss: 0.0120
+Epoch 7/15
+ - 2s - loss: 0.0120
+Epoch 8/15
+ - 2s - loss: 0.0121
+Epoch 9/15
+ - 2s - loss: 0.0121
+Epoch 10/15
+ - 2s - loss: 0.0121
+Epoch 11/15
+ - 2s - loss: 0.0120
+Epoch 12/15
+ - 2s - loss: 0.0120
+Epoch 13/15
+ - 2s - loss: 0.0121
+Epoch 14/15
+ - 2s - loss: 0.0120
+Epoch 15/15
+ - 2s - loss: 0.0120
+Train Score: 396840774.828134% error
+Test Score: 406189337.37277985% error
+../neighborhood60
+Epoch 1/15
+ - 7s - loss: 0.0128
+Epoch 2/15
+ - 2s - loss: 0.0128
+Epoch 3/15
+ - 2s - loss: 0.0128
+Epoch 4/15
+ - 2s - loss: 0.0128
+Epoch 5/15
+ - 2s - loss: 0.0127
+Epoch 6/15
+ - 2s - loss: 0.0128
+Epoch 7/15
+ - 2s - loss: 0.0128
+Epoch 8/15
+ - 2s - loss: 0.0128
+Epoch 9/15
+ - 2s - loss: 0.0128
+Epoch 10/15
+ - 2s - loss: 0.0128
+Epoch 11/15
+ - 2s - loss: 0.0128
+Epoch 12/15
+ - 2s - loss: 0.0128
+Epoch 13/15
+ - 2s - loss: 0.0129
+Epoch 14/15
+ - 2s - loss: 0.0128
+Epoch 15/15
+ - 2s - loss: 0.0128
+Train Score: 1389746617.2273147% error
+Test Score: 1389302999.8557482% error
+../neighborhood61
+Epoch 1/15
+ - 6s - loss: 0.0093
+Epoch 2/15
+ - 2s - loss: 0.0087
+Epoch 3/15
+ - 2s - loss: 0.0082
+Epoch 4/15
+ - 2s - loss: 0.0080
+Epoch 5/15
+ - 2s - loss: 0.0080
+Epoch 6/15
+ - 2s - loss: 0.0080
+Epoch 7/15
+ - 2s - loss: 0.0080
+Epoch 8/15
+ - 2s - loss: 0.0080
+Epoch 9/15
+ - 2s - loss: 0.0079
+Epoch 10/15
+ - 2s - loss: 0.0078
+Epoch 11/15
+ - 2s - loss: 0.0079
+Epoch 12/15
+ - 2s - loss: 0.0079
+Epoch 13/15
+ - 2s - loss: 0.0080
+Epoch 14/15
+ - 2s - loss: 0.0080
+Epoch 15/15
+ - 2s - loss: 0.0079
+Train Score: 4754711317.261323% error
+Test Score: 6742943300.662581% error
+../neighborhood62
+Epoch 1/15
+ - 6s - loss: 0.0265
+Epoch 2/15
+ - 2s - loss: 0.0265
+Epoch 3/15
+ - 2s - loss: 0.0265
+Epoch 4/15
+ - 2s - loss: 0.0266
+Epoch 5/15
+ - 2s - loss: 0.0265
+Epoch 6/15
+ - 2s - loss: 0.0264
+Epoch 7/15
+ - 2s - loss: 0.0267
+Epoch 8/15
+ - 2s - loss: 0.0266
+Epoch 9/15
+ - 2s - loss: 0.0265
+Epoch 10/15
+ - 2s - loss: 0.0266
+Epoch 11/15
+ - 2s - loss: 0.0265
+Epoch 12/15
+ - 2s - loss: 0.0263
+Epoch 13/15
+ - 2s - loss: 0.0266
+Epoch 14/15
+ - 2s - loss: 0.0266
+Epoch 15/15
+ - 2s - loss: 0.0264
+Train Score: 6198638727.376036% error
+Test Score: 5972435182.967848% error
+../neighborhood63
+Epoch 1/15
+ - 6s - loss: 0.0247
+Epoch 2/15
+ - 2s - loss: 0.0247
+Epoch 3/15
+ - 2s - loss: 0.0247
+Epoch 4/15
+ - 2s - loss: 0.0247
+Epoch 5/15
+ - 2s - loss: 0.0246
+Epoch 6/15
+ - 2s - loss: 0.0246
+Epoch 7/15
+ - 2s - loss: 0.0246
+Epoch 8/15
+ - 2s - loss: 0.0247
+Epoch 9/15
+ - 2s - loss: 0.0246
+Epoch 10/15
+ - 2s - loss: 0.0246
+Epoch 11/15
+ - 2s - loss: 0.0246
+Epoch 12/15
+ - 2s - loss: 0.0245
+Epoch 13/15
+ - 2s - loss: 0.0246
+Epoch 14/15
+ - 2s - loss: 0.0246
+Epoch 15/15
+ - 2s - loss: 0.0247
+Train Score: 1682066442.4130824% error
+Test Score: 1697372801.616513% error
+../neighborhood64
+Epoch 1/15
+ - 6s - loss: 0.0390
+Epoch 2/15
+ - 2s - loss: 0.0386
+Epoch 3/15
+ - 2s - loss: 0.0389
+Epoch 4/15
+ - 2s - loss: 0.0387
+Epoch 5/15
+ - 2s - loss: 0.0388
+Epoch 6/15
+ - 2s - loss: 0.0387
+Epoch 7/15
+ - 2s - loss: 0.0388
+Epoch 8/15
+ - 2s - loss: 0.0387
+Epoch 9/15
+ - 2s - loss: 0.0388
+Epoch 10/15
+ - 2s - loss: 0.0388
+Epoch 11/15
+ - 2s - loss: 0.0388
+Epoch 12/15
+ - 2s - loss: 0.0389
+Epoch 13/15
+ - 2s - loss: 0.0388
+Epoch 14/15
+ - 2s - loss: 0.0388
+Epoch 15/15
+ - 2s - loss: 0.0388
+Train Score: 818099695.5273323% error
+Test Score: 822379545.8134434% error
+../neighborhood65
+Epoch 1/15
+ - 7s - loss: 0.0214
+Epoch 2/15
+ - 2s - loss: 0.0212
+Epoch 3/15
+ - 2s - loss: 0.0212
+Epoch 4/15
+ - 2s - loss: 0.0210
+Epoch 5/15
+ - 2s - loss: 0.0211
+Epoch 6/15
+ - 2s - loss: 0.0210
+Epoch 7/15
+ - 2s - loss: 0.0208
+Epoch 8/15
+ - 2s - loss: 0.0210
+Epoch 9/15
+ - 2s - loss: 0.0211
+Epoch 10/15
+ - 2s - loss: 0.0211
+Epoch 11/15
+ - 2s - loss: 0.0209
+Epoch 12/15
+ - 2s - loss: 0.0210
+Epoch 13/15
+ - 2s - loss: 0.0209
+Epoch 14/15
+ - 2s - loss: 0.0209
+Epoch 15/15
+ - 2s - loss: 0.0210
+Train Score: 379905260.5229205% error
+Test Score: 52.42334842693121% error
+../neighborhood66
+Epoch 1/15
+ - 6s - loss: 0.0156
+Epoch 2/15
+ - 2s - loss: 0.0156
+Epoch 3/15
+ - 2s - loss: 0.0155
+Epoch 4/15
+ - 2s - loss: 0.0154
+Epoch 5/15
+ - 2s - loss: 0.0154
+Epoch 6/15
+ - 2s - loss: 0.0154
+Epoch 7/15
+ - 2s - loss: 0.0154
+Epoch 8/15
+ - 2s - loss: 0.0154
+Epoch 9/15
+ - 2s - loss: 0.0154
+Epoch 10/15
+ - 2s - loss: 0.0154
+Epoch 11/15
+ - 2s - loss: 0.0154
+Epoch 12/15
+ - 2s - loss: 0.0153
+Epoch 13/15
+ - 2s - loss: 0.0153
+Epoch 14/15
+ - 2s - loss: 0.0154
+Epoch 15/15
+ - 2s - loss: 0.0153
+Train Score: 5216290869.977437% error
+Test Score: 6122597385.171843% error
+../neighborhood67
+Epoch 1/15
+ - 7s - loss: 0.0144
+Epoch 2/15
+ - 2s - loss: 0.0141
+Epoch 3/15
+ - 2s - loss: 0.0138
+Epoch 4/15
+ - 2s - loss: 0.0136
+Epoch 5/15
+ - 2s - loss: 0.0135
+Epoch 6/15
+ - 2s - loss: 0.0133
+Epoch 7/15
+ - 2s - loss: 0.0131
+Epoch 8/15
+ - 2s - loss: 0.0129
+Epoch 9/15
+ - 2s - loss: 0.0128
+Epoch 10/15
+ - 2s - loss: 0.0128
+Epoch 11/15
+ - 2s - loss: 0.0127
+Epoch 12/15
+ - 2s - loss: 0.0127
+Epoch 13/15
+ - 2s - loss: 0.0127
+Epoch 14/15
+ - 2s - loss: 0.0127
+Epoch 15/15
+ - 2s - loss: 0.0126
+Train Score: 1137748501.8449132% error
+Test Score: 1234685683.9088392% error
+../neighborhood68
+Epoch 1/15
+ - 7s - loss: 0.0137
+Epoch 2/15
+ - 2s - loss: 0.0136
+Epoch 3/15
+ - 2s - loss: 0.0136
+Epoch 4/15
+ - 2s - loss: 0.0136
+Epoch 5/15
+ - 2s - loss: 0.0136
+Epoch 6/15
+ - 2s - loss: 0.0136
+Epoch 7/15
+ - 2s - loss: 0.0135
+Epoch 8/15
+ - 2s - loss: 0.0135
+Epoch 9/15
+ - 2s - loss: 0.0136
+Epoch 10/15
+ - 2s - loss: 0.0134
+Epoch 11/15
+ - 2s - loss: 0.0136
+Epoch 12/15
+ - 2s - loss: 0.0134
+Epoch 13/15
+ - 2s - loss: 0.0136
+Epoch 14/15
+ - 2s - loss: 0.0135
+Epoch 15/15
+ - 2s - loss: 0.0134
+Train Score: 27.574980757399185% error
+Test Score: 29.447905986311007% error
+../neighborhood69
+Epoch 1/15
+ - 7s - loss: 0.0249
+Epoch 2/15
+ - 2s - loss: 0.0245
+Epoch 3/15
+ - 2s - loss: 0.0250
+Epoch 4/15
+ - 2s - loss: 0.0248
+Epoch 5/15
+ - 2s - loss: 0.0248
+Epoch 6/15
+ - 2s - loss: 0.0248
+Epoch 7/15
+ - 2s - loss: 0.0249
+Epoch 8/15
+ - 2s - loss: 0.0246
+Epoch 9/15
+ - 2s - loss: 0.0248
+Epoch 10/15
+ - 2s - loss: 0.0248
+Epoch 11/15
+ - 2s - loss: 0.0247
+Epoch 12/15
+ - 2s - loss: 0.0246
+Epoch 13/15
+ - 2s - loss: 0.0248
+Epoch 14/15
+ - 2s - loss: 0.0248
+Epoch 15/15
+ - 2s - loss: 0.0247
+Train Score: 6860200564.803234% error
+Test Score: 7747654941.782707% error
+../neighborhood70
+Epoch 1/15
+ - 7s - loss: 0.0270
+Epoch 2/15
+ - 2s - loss: 0.0269
+Epoch 3/15
+ - 2s - loss: 0.0269
+Epoch 4/15
+ - 2s - loss: 0.0268
+Epoch 5/15
+ - 2s - loss: 0.0268
+Epoch 6/15
+ - 2s - loss: 0.0267
+Epoch 7/15
+ - 2s - loss: 0.0269
+Epoch 8/15
+ - 2s - loss: 0.0268
+Epoch 9/15
+ - 2s - loss: 0.0268
+Epoch 10/15
+ - 2s - loss: 0.0268
+Epoch 11/15
+ - 2s - loss: 0.0268
+Epoch 12/15
+ - 2s - loss: 0.0269
+Epoch 13/15
+ - 2s - loss: 0.0268
+Epoch 14/15
+ - 2s - loss: 0.0268
+Epoch 15/15
+ - 2s - loss: 0.0266
+Train Score: 6677693710.14579% error
+Test Score: 5986338871.462553% error
+../neighborhood71
+Epoch 1/15
+ - 7s - loss: 0.0146
+Epoch 2/15
+ - 2s - loss: 0.0145
+Epoch 3/15
+ - 2s - loss: 0.0146
+Epoch 4/15
+ - 2s - loss: 0.0144
+Epoch 5/15
+ - 2s - loss: 0.0145
+Epoch 6/15
+ - 2s - loss: 0.0145
+Epoch 7/15
+ - 2s - loss: 0.0145
+Epoch 8/15
+ - 2s - loss: 0.0146
+Epoch 9/15
+ - 2s - loss: 0.0145
+Epoch 10/15
+ - 2s - loss: 0.0145
+Epoch 11/15
+ - 2s - loss: 0.0146
+Epoch 12/15
+ - 2s - loss: 0.0146
+Epoch 13/15
+ - 2s - loss: 0.0145
+Epoch 14/15
+ - 2s - loss: 0.0145
+Epoch 15/15
+ - 2s - loss: 0.0145
+Train Score: 1819060493.7701583% error
+Test Score: 1791228810.4625828% error
+../neighborhood72
+Epoch 1/15
+ - 7s - loss: 0.0301
+Epoch 2/15
+ - 2s - loss: 0.0299
+Epoch 3/15
+ - 2s - loss: 0.0300
+Epoch 4/15
+ - 2s - loss: 0.0299
+Epoch 5/15
+ - 2s - loss: 0.0300
+Epoch 6/15
+ - 2s - loss: 0.0300
+Epoch 7/15
+ - 2s - loss: 0.0300
+Epoch 8/15
+ - 2s - loss: 0.0300
+Epoch 9/15
+ - 2s - loss: 0.0299
+Epoch 10/15
+ - 2s - loss: 0.0300
+Epoch 11/15
+ - 2s - loss: 0.0300
+Epoch 12/15
+ - 2s - loss: 0.0300
+Epoch 13/15
+ - 2s - loss: 0.0300
+Epoch 14/15
+ - 2s - loss: 0.0300
+Epoch 15/15
+ - 2s - loss: 0.0299
+Train Score: 1793328497.4084218% error
+Test Score: 1780486602.706869% error
+../neighborhood73
+Epoch 1/15
+ - 7s - loss: 0.0050
+Epoch 2/15
+ - 2s - loss: 0.0050
+Epoch 3/15
+ - 2s - loss: 0.0050
+Epoch 4/15
+ - 2s - loss: 0.0050
+Epoch 5/15
+ - 2s - loss: 0.0049
+Epoch 6/15
+ - 2s - loss: 0.0050
+Epoch 7/15
+ - 2s - loss: 0.0050
+Epoch 8/15
+ - 2s - loss: 0.0050
+Epoch 9/15
+ - 2s - loss: 0.0050
+Epoch 10/15
+ - 2s - loss: 0.0050
+Epoch 11/15
+ - 2s - loss: 0.0050
+Epoch 12/15
+ - 2s - loss: 0.0050
+Epoch 13/15
+ - 2s - loss: 0.0050
+Epoch 14/15
+ - 2s - loss: 0.0049
+Epoch 15/15
+ - 2s - loss: 0.0050
+Train Score: 517113350.1307269% error
+Test Score: 506396707.9923393% error
+../neighborhood74
+Epoch 1/15
+ - 7s - loss: 0.0153
+Epoch 2/15
+ - 2s - loss: 0.0153
+Epoch 3/15
+ - 2s - loss: 0.0152
+Epoch 4/15
+ - 2s - loss: 0.0152
+Epoch 5/15
+ - 2s - loss: 0.0152
+Epoch 6/15
+ - 2s - loss: 0.0153
+Epoch 7/15
+ - 2s - loss: 0.0151
+Epoch 8/15
+ - 2s - loss: 0.0151
+Epoch 9/15
+ - 2s - loss: 0.0152
+Epoch 10/15
+ - 2s - loss: 0.0152
+Epoch 11/15
+ - 2s - loss: 0.0152
+Epoch 12/15
+ - 2s - loss: 0.0151
+Epoch 13/15
+ - 2s - loss: 0.0152
+Epoch 14/15
+ - 2s - loss: 0.0151
+Epoch 15/15
+ - 2s - loss: 0.0151
+Train Score: 32.45688135271188% error
+Test Score: 35.5665727890238% error
+../neighborhood75
+Epoch 1/15
+ - 7s - loss: 0.0142
+Epoch 2/15
+ - 2s - loss: 0.0142
+Epoch 3/15
+ - 2s - loss: 0.0140
+Epoch 4/15
+ - 2s - loss: 0.0141
+Epoch 5/15
+ - 2s - loss: 0.0140
+Epoch 6/15
+ - 2s - loss: 0.0140
+Epoch 7/15
+ - 2s - loss: 0.0140
+Epoch 8/15
+ - 2s - loss: 0.0141
+Epoch 9/15
+ - 2s - loss: 0.0140
+Epoch 10/15
+ - 2s - loss: 0.0139
+Epoch 11/15
+ - 2s - loss: 0.0138
+Epoch 12/15
+ - 2s - loss: 0.0140
+Epoch 13/15
+ - 2s - loss: 0.0137
+Epoch 14/15
+ - 2s - loss: 0.0138
+Epoch 15/15
+ - 2s - loss: 0.0139
+Train Score: 35.0538089448758% error
+Test Score: 37.096654619739766% error
+../neighborhood76
+Epoch 1/15
+ - 7s - loss: 0.0339
+Epoch 2/15
+ - 2s - loss: 0.0338
+Epoch 3/15
+ - 2s - loss: 0.0338
+Epoch 4/15
+ - 2s - loss: 0.0338
+Epoch 5/15
+ - 2s - loss: 0.0339
+Epoch 6/15
+ - 2s - loss: 0.0339
+Epoch 7/15
+ - 2s - loss: 0.0339
+Epoch 8/15
+ - 2s - loss: 0.0339
+Epoch 9/15
+ - 2s - loss: 0.0338
+Epoch 10/15
+ - 2s - loss: 0.0338
+Epoch 11/15
+ - 2s - loss: 0.0339
+Epoch 12/15
+ - 2s - loss: 0.0339
+Epoch 13/15
+ - 2s - loss: 0.0339
+Epoch 14/15
+ - 2s - loss: 0.0338
+Epoch 15/15
+ - 2s - loss: 0.0337
+Train Score: 6397805789.967433% error
+Test Score: 7070215782.747716% error
+../neighborhood77
+Epoch 1/15
+ - 7s - loss: 0.0170
+Epoch 2/15
+ - 2s - loss: 0.0169
+Epoch 3/15
+ - 2s - loss: 0.0169
+Epoch 4/15
+ - 2s - loss: 0.0168
+Epoch 5/15
+ - 2s - loss: 0.0168
+Epoch 6/15
+ - 2s - loss: 0.0169
+Epoch 7/15
+ - 2s - loss: 0.0169
+Epoch 8/15
+ - 2s - loss: 0.0168
+Epoch 9/15
+ - 2s - loss: 0.0168
+Epoch 10/15
+ - 2s - loss: 0.0169
+Epoch 11/15
+ - 2s - loss: 0.0169
+Epoch 12/15
+ - 2s - loss: 0.0169
+Epoch 13/15
+ - 2s - loss: 0.0169
+Epoch 14/15
+ - 2s - loss: 0.0168
+Epoch 15/15
+ - 2s - loss: 0.0168
+Train Score: 883533991.4652771% error
+Test Score: 886719319.0890303% error
+../neighborhood78
+Epoch 1/15
+ - 8s - loss: 0.0189
+Epoch 2/15
+ - 2s - loss: 0.0188
+Epoch 3/15
+ - 2s - loss: 0.0186
+Epoch 4/15
+ - 2s - loss: 0.0184
+Epoch 5/15
+ - 2s - loss: 0.0184
+Epoch 6/15
+ - 2s - loss: 0.0182
+Epoch 7/15
+ - 2s - loss: 0.0183
+Epoch 8/15
+ - 2s - loss: 0.0181
+Epoch 9/15
+ - 2s - loss: 0.0181
+Epoch 10/15
+ - 2s - loss: 0.0181
+Epoch 11/15
+ - 2s - loss: 0.0181
+Epoch 12/15
+ - 2s - loss: 0.0180
+Epoch 13/15
+ - 2s - loss: 0.0179
+Epoch 14/15
+ - 2s - loss: 0.0181
+Epoch 15/15
+ - 2s - loss: 0.0179
+Train Score: 1791219031.5963912% error
+Test Score: 1821902250.030195% error
+../neighborhood79
+Epoch 1/15
+ - 8s - loss: 0.0055
+Epoch 2/15
+ - 2s - loss: 0.0050
+Epoch 3/15
+ - 2s - loss: 0.0049
+Epoch 4/15
+ - 2s - loss: 0.0049
+Epoch 5/15
+ - 2s - loss: 0.0049
+Epoch 6/15
+ - 2s - loss: 0.0050
+Epoch 7/15
+ - 2s - loss: 0.0049
+Epoch 8/15
+ - 2s - loss: 0.0050
+Epoch 9/15
+ - 2s - loss: 0.0050
+Epoch 10/15
+ - 2s - loss: 0.0050
+Epoch 11/15
+ - 2s - loss: 0.0049
+Epoch 12/15
+ - 2s - loss: 0.0050
+Epoch 13/15
+ - 2s - loss: 0.0050
+Epoch 14/15
+ - 2s - loss: 0.0050
+Epoch 15/15
+ - 2s - loss: 0.0049
+Train Score: 25.89022889658168% error
+Test Score: 24.732069083743706% error
+../neighborhood80
+Epoch 1/15
+ - 7s - loss: 0.0095
+Epoch 2/15
+ - 2s - loss: 0.0094
+Epoch 3/15
+ - 2s - loss: 0.0094
+Epoch 4/15
+ - 2s - loss: 0.0094
+Epoch 5/15
+ - 2s - loss: 0.0093
+Epoch 6/15
+ - 2s - loss: 0.0094
+Epoch 7/15
+ - 2s - loss: 0.0093
+Epoch 8/15
+ - 2s - loss: 0.0091
+Epoch 9/15
+ - 2s - loss: 0.0094
+Epoch 10/15
+ - 2s - loss: 0.0094
+Epoch 11/15
+ - 2s - loss: 0.0093
+Epoch 12/15
+ - 2s - loss: 0.0093
+Epoch 13/15
+ - 2s - loss: 0.0094
+Epoch 14/15
+ - 2s - loss: 0.0093
+Epoch 15/15
+ - 2s - loss: 0.0094
+Train Score: 4739027492.798211% error
+Test Score: 3444349967.373766% error
+../neighborhood81
+Epoch 1/15
+ - 8s - loss: 0.0446
+Epoch 2/15
+ - 2s - loss: 0.0445
+Epoch 3/15
+ - 2s - loss: 0.0444
+Epoch 4/15
+ - 2s - loss: 0.0445
+Epoch 5/15
+ - 2s - loss: 0.0444
+Epoch 6/15
+ - 2s - loss: 0.0445
+Epoch 7/15
+ - 2s - loss: 0.0444
+Epoch 8/15
+ - 2s - loss: 0.0445
+Epoch 9/15
+ - 2s - loss: 0.0444
+Epoch 10/15
+ - 2s - loss: 0.0442
+Epoch 11/15
+ - 2s - loss: 0.0443
+Epoch 12/15
+ - 2s - loss: 0.0446
+Epoch 13/15
+ - 2s - loss: 0.0443
+Epoch 14/15
+ - 2s - loss: 0.0445
+Epoch 15/15
+ - 2s - loss: 0.0444
+Train Score: 999960056.536604% error
+Test Score: 1001794326.262326% error
+../neighborhood82
+Epoch 1/15
+ - 8s - loss: 0.0053
+Epoch 2/15
+ - 2s - loss: 0.0052
+Epoch 3/15
+ - 2s - loss: 0.0052
+Epoch 4/15
+ - 2s - loss: 0.0052
+Epoch 5/15
+ - 2s - loss: 0.0052
+Epoch 6/15
+ - 2s - loss: 0.0052
+Epoch 7/15
+ - 2s - loss: 0.0052
+Epoch 8/15
+ - 2s - loss: 0.0052
+Epoch 9/15
+ - 2s - loss: 0.0052
+Epoch 10/15
+ - 2s - loss: 0.0052
+Epoch 11/15
+ - 2s - loss: 0.0052
+Epoch 12/15
+ - 2s - loss: 0.0053
+Epoch 13/15
+ - 2s - loss: 0.0052
+Epoch 14/15
+ - 2s - loss: 0.0052
+Epoch 15/15
+ - 2s - loss: 0.0052
+Train Score: 5719394944.304314% error
+Test Score: 4746743789.754392% error
+../neighborhood83
+Epoch 1/15
+ - 8s - loss: 0.0140
+Epoch 2/15
+ - 2s - loss: 0.0140
+Epoch 3/15
+ - 2s - loss: 0.0140
+Epoch 4/15
+ - 2s - loss: 0.0139
+Epoch 5/15
+ - 2s - loss: 0.0139
+Epoch 6/15
+ - 2s - loss: 0.0139
+Epoch 7/15
+ - 2s - loss: 0.0139
+Epoch 8/15
+ - 2s - loss: 0.0140
+Epoch 9/15
+ - 2s - loss: 0.0139
+Epoch 10/15
+ - 2s - loss: 0.0139
+Epoch 11/15
+ - 2s - loss: 0.0139
+Epoch 12/15
+ - 2s - loss: 0.0139
+Epoch 13/15
+ - 2s - loss: 0.0139
+Epoch 14/15
+ - 2s - loss: 0.0139
+Epoch 15/15
+ - 2s - loss: 0.0139
+Train Score: 7829775818.00279% error
+Test Score: 7521519983.07391% error
+../neighborhood84
+Epoch 1/15
+ - 8s - loss: 0.0038
+Epoch 2/15
+ - 2s - loss: 0.0038
+Epoch 3/15
+ - 2s - loss: 0.0038
+Epoch 4/15
+ - 2s - loss: 0.0038
+Epoch 5/15
+ - 2s - loss: 0.0038
+Epoch 6/15
+ - 2s - loss: 0.0038
+Epoch 7/15
+ - 2s - loss: 0.0038
+Epoch 8/15
+ - 2s - loss: 0.0039
+Epoch 9/15
+ - 2s - loss: 0.0038
+Epoch 10/15
+ - 2s - loss: 0.0038
+Epoch 11/15
+ - 2s - loss: 0.0038
+Epoch 12/15
+ - 2s - loss: 0.0038
+Epoch 13/15
+ - 2s - loss: 0.0039
+Epoch 14/15
+ - 2s - loss: 0.0038
+Epoch 15/15
+ - 2s - loss: 0.0038
+Train Score: 74940111.9621803% error
+Test Score: 33484473.824501038% error
+../neighborhood85
+Epoch 1/15
+ - 8s - loss: 0.0090
+Epoch 2/15
+ - 2s - loss: 0.0090
+Epoch 3/15
+ - 2s - loss: 0.0089
+Epoch 4/15
+ - 2s - loss: 0.0090
+Epoch 5/15
+ - 2s - loss: 0.0090
+Epoch 6/15
+ - 2s - loss: 0.0090
+Epoch 7/15
+ - 2s - loss: 0.0090
+Epoch 8/15
+ - 2s - loss: 0.0089
+Epoch 9/15
+ - 2s - loss: 0.0089
+Epoch 10/15
+ - 2s - loss: 0.0089
+Epoch 11/15
+ - 2s - loss: 0.0089
+Epoch 12/15
+ - 2s - loss: 0.0090
+Epoch 13/15
+ - 2s - loss: 0.0090
+Epoch 14/15
+ - 2s - loss: 0.0090
+Epoch 15/15
+ - 2s - loss: 0.0089
+Train Score: 3938708893.8636446% error
+Test Score: 3942434991.811429% error
+../neighborhood86
+Epoch 1/15
+ - 8s - loss: 6.8432e-04
+Epoch 2/15
+ - 2s - loss: 6.8509e-04
+Epoch 3/15
+ - 2s - loss: 6.7904e-04
+Epoch 4/15
+ - 2s - loss: 6.8301e-04
+Epoch 5/15
+ - 2s - loss: 6.8690e-04
+Epoch 6/15
+ - 2s - loss: 6.8176e-04
+Epoch 7/15
+ - 2s - loss: 6.6624e-04
+Epoch 8/15
+ - 2s - loss: 6.9624e-04
+Epoch 9/15
+ - 2s - loss: 6.8167e-04
+Epoch 10/15
+ - 2s - loss: 6.7849e-04
+Epoch 11/15
+ - 2s - loss: 6.8111e-04
+Epoch 12/15
+ - 2s - loss: 6.8637e-04
+Epoch 13/15
+ - 2s - loss: 6.8552e-04
+Epoch 14/15
+ - 2s - loss: 6.7833e-04
+Epoch 15/15
+ - 2s - loss: 6.7242e-04
+Train Score: 373462.5039786403% error
+Test Score: 466221.7404453226% error
+../neighborhood87
+Epoch 1/15
+ - 8s - loss: 0.0133
+Epoch 2/15
+ - 2s - loss: 0.0133
+Epoch 3/15
+ - 2s - loss: 0.0131
+Epoch 4/15
+ - 2s - loss: 0.0131
+Epoch 5/15
+ - 2s - loss: 0.0129
+Epoch 6/15
+ - 2s - loss: 0.0130
+Epoch 7/15
+ - 2s - loss: 0.0133
+Epoch 8/15
+ - 2s - loss: 0.0131
+Epoch 9/15
+ - 2s - loss: 0.0130
+Epoch 10/15
+ - 2s - loss: 0.0131
+Epoch 11/15
+ - 2s - loss: 0.0129
+Epoch 12/15
+ - 2s - loss: 0.0130
+Epoch 13/15
+ - 2s - loss: 0.0129
+Epoch 14/15
+ - 2s - loss: 0.0129
+Epoch 15/15
+ - 2s - loss: 0.0128
+Train Score: 41.73212059033011% error
+Test Score: 49.199591994435835% error
+../neighborhood88
+Epoch 1/15
+ - 8s - loss: 0.0152
+Epoch 2/15
+ - 2s - loss: 0.0152
+Epoch 3/15
+ - 2s - loss: 0.0150
+Epoch 4/15
+ - 2s - loss: 0.0150
+Epoch 5/15
+ - 2s - loss: 0.0151
+Epoch 6/15
+ - 2s - loss: 0.0150
+Epoch 7/15
+ - 2s - loss: 0.0151
+Epoch 8/15
+ - 2s - loss: 0.0149
+Epoch 9/15
+ - 2s - loss: 0.0148
+Epoch 10/15
+ - 2s - loss: 0.0149
+Epoch 11/15
+ - 2s - loss: 0.0148
+Epoch 12/15
+ - 2s - loss: 0.0147
+Epoch 13/15
+ - 2s - loss: 0.0147
+Epoch 14/15
+ - 2s - loss: 0.0147
+Epoch 15/15
+ - 2s - loss: 0.0147
+Train Score: 49.19543394665632% error
+Test Score: 53.24944038310502% error
+../neighborhood89
+Epoch 1/15
+ - 8s - loss: 0.0115
+Epoch 2/15
+ - 2s - loss: 0.0113
+Epoch 3/15
+ - 2s - loss: 0.0113
+Epoch 4/15
+ - 2s - loss: 0.0112
+Epoch 5/15
+ - 2s - loss: 0.0111
+Epoch 6/15
+ - 2s - loss: 0.0111
+Epoch 7/15
+ - 2s - loss: 0.0111
+Epoch 8/15
+ - 2s - loss: 0.0111
+Epoch 9/15
+ - 2s - loss: 0.0111
+Epoch 10/15
+ - 2s - loss: 0.0111
+Epoch 11/15
+ - 2s - loss: 0.0111
+Epoch 12/15
+ - 2s - loss: 0.0111
+Epoch 13/15
+ - 2s - loss: 0.0110
+Epoch 14/15
+ - 2s - loss: 0.0111
+Epoch 15/15
+ - 2s - loss: 0.0111
+Train Score: 8969072993.87532% error
+Test Score: 7902784008.65728% error
+../neighborhood90
+Epoch 1/15
+ - 10s - loss: 0.0132
+Epoch 2/15
+ - 2s - loss: 0.0133
+Epoch 3/15
+ - 2s - loss: 0.0133
+Epoch 4/15
+ - 2s - loss: 0.0132
+Epoch 5/15
+ - 2s - loss: 0.0132
+Epoch 6/15
+ - 2s - loss: 0.0131
+Epoch 7/15
+ - 2s - loss: 0.0130
+Epoch 8/15
+ - 2s - loss: 0.0131
+Epoch 9/15
+ - 2s - loss: 0.0133
+Epoch 10/15
+ - 2s - loss: 0.0131
+Epoch 11/15
+ - 2s - loss: 0.0131
+Epoch 12/15
+ - 2s - loss: 0.0132
+Epoch 13/15
+ - 2s - loss: 0.0132
+Epoch 14/15
+ - 2s - loss: 0.0131
+Epoch 15/15
+ - 2s - loss: 0.0131
+Train Score: 24.008845008867404% error
+Test Score: 26.46601509238011% error
+../neighborhood91
+Epoch 1/15
+ - 8s - loss: 0.0218
+Epoch 2/15
+ - 2s - loss: 0.0217
+Epoch 3/15
+ - 2s - loss: 0.0216
+Epoch 4/15
+ - 2s - loss: 0.0217
+Epoch 5/15
+ - 2s - loss: 0.0217
+Epoch 6/15
+ - 2s - loss: 0.0217
+Epoch 7/15
+ - 2s - loss: 0.0218
+Epoch 8/15
+ - 2s - loss: 0.0217
+Epoch 9/15
+ - 2s - loss: 0.0217
+Epoch 10/15
+ - 2s - loss: 0.0217
+Epoch 11/15
+ - 2s - loss: 0.0218
+Epoch 12/15
+ - 2s - loss: 0.0217
+Epoch 13/15
+ - 2s - loss: 0.0217
+Epoch 14/15
+ - 2s - loss: 0.0217
+Epoch 15/15
+ - 2s - loss: 0.0216
+Train Score: 3721710433.211699% error
+Test Score: 3668614140.265797% error
+../neighborhood92
+Epoch 1/15
+ - 9s - loss: 0.0204
+Epoch 2/15
+ - 2s - loss: 0.0204
+Epoch 3/15
+ - 2s - loss: 0.0205
+Epoch 4/15
+ - 2s - loss: 0.0203
+Epoch 5/15
+ - 2s - loss: 0.0205
+Epoch 6/15
+ - 2s - loss: 0.0205
+Epoch 7/15
+ - 2s - loss: 0.0205
+Epoch 8/15
+ - 2s - loss: 0.0204
+Epoch 9/15
+ - 2s - loss: 0.0205
+Epoch 10/15
+ - 2s - loss: 0.0204
+Epoch 11/15
+ - 2s - loss: 0.0205
+Epoch 12/15
+ - 2s - loss: 0.0205
+Epoch 13/15
+ - 2s - loss: 0.0205
+Epoch 14/15
+ - 2s - loss: 0.0203
+Epoch 15/15
+ - 2s - loss: 0.0204
+Train Score: 7165605676.829651% error
+Test Score: 7592029502.380435% error
+../neighborhood93
+Epoch 1/15
+ - 8s - loss: 0.0213
+Epoch 2/15
+ - 2s - loss: 0.0213
+Epoch 3/15
+ - 2s - loss: 0.0212
+Epoch 4/15
+ - 2s - loss: 0.0212
+Epoch 5/15
+ - 2s - loss: 0.0211
+Epoch 6/15
+ - 2s - loss: 0.0212
+Epoch 7/15
+ - 2s - loss: 0.0211
+Epoch 8/15
+ - 2s - loss: 0.0211
+Epoch 9/15
+ - 2s - loss: 0.0210
+Epoch 10/15
+ - 2s - loss: 0.0209
+Epoch 11/15
+ - 2s - loss: 0.0212
+Epoch 12/15
+ - 2s - loss: 0.0210
+Epoch 13/15
+ - 2s - loss: 0.0211
+Epoch 14/15
+ - 2s - loss: 0.0210
+Epoch 15/15
+ - 2s - loss: 0.0210
+Train Score: 10710697817.522705% error
+Test Score: 9954489324.710741% error
+../neighborhood94
+Epoch 1/15
+ - 9s - loss: 0.0107
+Epoch 2/15
+ - 2s - loss: 0.0107
+Epoch 3/15
+ - 2s - loss: 0.0107
+Epoch 4/15
+ - 2s - loss: 0.0106
+Epoch 5/15
+ - 2s - loss: 0.0107
+Epoch 6/15
+ - 2s - loss: 0.0106
+Epoch 7/15
+ - 2s - loss: 0.0107
+Epoch 8/15
+ - 2s - loss: 0.0106
+Epoch 9/15
+ - 2s - loss: 0.0106
+Epoch 10/15
+ - 2s - loss: 0.0107
+Epoch 11/15
+ - 2s - loss: 0.0106
+Epoch 12/15
+ - 2s - loss: 0.0107
+Epoch 13/15
+ - 2s - loss: 0.0106
+Epoch 14/15
+ - 2s - loss: 0.0106
+Epoch 15/15
+ - 2s - loss: 0.0106
+Train Score: 1863003522.0655832% error
+Test Score: 1876921314.6406457% error
+../neighborhood95
+Epoch 1/15
+ - 9s - loss: 0.0194
+Epoch 2/15
+ - 2s - loss: 0.0194
+Epoch 3/15
+ - 2s - loss: 0.0193
+Epoch 4/15
+ - 2s - loss: 0.0195
+Epoch 5/15
+ - 2s - loss: 0.0194
+Epoch 6/15
+ - 2s - loss: 0.0192
+Epoch 7/15
+ - 2s - loss: 0.0194
+Epoch 8/15
+ - 2s - loss: 0.0194
+Epoch 9/15
+ - 2s - loss: 0.0193
+Epoch 10/15
+ - 2s - loss: 0.0193
+Epoch 11/15
+ - 2s - loss: 0.0193
+Epoch 12/15
+ - 2s - loss: 0.0193
+Epoch 13/15
+ - 2s - loss: 0.0194
+Epoch 14/15
+ - 2s - loss: 0.0193
+Epoch 15/15
+ - 2s - loss: 0.0194
+Train Score: 8602610332.621603% error
+Test Score: 8933297805.600607% error
+../neighborhood96
+Epoch 1/15
+ - 9s - loss: 0.0052
+Epoch 2/15
+ - 2s - loss: 0.0051
+Epoch 3/15
+ - 2s - loss: 0.0051
+Epoch 4/15
+ - 2s - loss: 0.0051
+Epoch 5/15
+ - 2s - loss: 0.0051
+Epoch 6/15
+ - 2s - loss: 0.0050
+Epoch 7/15
+ - 2s - loss: 0.0050
+Epoch 8/15
+ - 2s - loss: 0.0051
+Epoch 9/15
+ - 2s - loss: 0.0050
+Epoch 10/15
+ - 2s - loss: 0.0050
+Epoch 11/15
+ - 2s - loss: 0.0050
+Epoch 12/15
+ - 2s - loss: 0.0051
+Epoch 13/15
+ - 2s - loss: 0.0050
+Epoch 14/15
+ - 2s - loss: 0.0050
+Epoch 15/15
+ - 2s - loss: 0.0050
+Train Score: 706530844.1364341% error
+Test Score: 728822357.5949786% error
+../neighborhood97
+Epoch 1/15
+ - 9s - loss: 0.0097
+Epoch 2/15
+ - 2s - loss: 0.0094
+Epoch 3/15
+ - 2s - loss: 0.0092
+Epoch 4/15
+ - 2s - loss: 0.0092
+Epoch 5/15
+ - 2s - loss: 0.0092
+Epoch 6/15
+ - 2s - loss: 0.0093
+Epoch 7/15
+ - 2s - loss: 0.0092
+Epoch 8/15
+ - 2s - loss: 0.0092
+Epoch 9/15
+ - 2s - loss: 0.0092
+Epoch 10/15
+ - 2s - loss: 0.0092
+Epoch 11/15
+ - 2s - loss: 0.0091
+Epoch 12/15
+ - 2s - loss: 0.0093
+Epoch 13/15
+ - 2s - loss: 0.0092
+Epoch 14/15
+ - 2s - loss: 0.0091
+Epoch 15/15
+ - 2s - loss: 0.0092
+Train Score: 59.48459024175584% error
+Test Score: 672855061.4472697% error
+../neighborhood98
+Epoch 1/15
+ - 9s - loss: 0.0163
+Epoch 2/15
+ - 2s - loss: 0.0162
+Epoch 3/15
+ - 2s - loss: 0.0162
+Epoch 4/15
+ - 2s - loss: 0.0162
+Epoch 5/15
+ - 2s - loss: 0.0161
+Epoch 6/15
+ - 2s - loss: 0.0162
+Epoch 7/15
+ - 2s - loss: 0.0162
+Epoch 8/15
+ - 2s - loss: 0.0162
+Epoch 9/15
+ - 2s - loss: 0.0161
+Epoch 10/15
+ - 2s - loss: 0.0162
+Epoch 11/15
+ - 2s - loss: 0.0162
+Epoch 12/15
+ - 2s - loss: 0.0162
+Epoch 13/15
+ - 2s - loss: 0.0162
+Epoch 14/15
+ - 2s - loss: 0.0162
+Epoch 15/15
+ - 2s - loss: 0.0162
+Train Score: 1012947390.1949694% error
+Test Score: 1062959581.0445696% error
+../neighborhood99
+Epoch 1/15
+ - 9s - loss: 0.0000e+00
+Epoch 2/15
+ - 2s - loss: 0.0000e+00
+Epoch 3/15
+ - 2s - loss: 0.0000e+00
+Epoch 4/15
+ - 2s - loss: 0.0000e+00
+Epoch 5/15
+ - 2s - loss: 0.0000e+00
+Epoch 6/15
+ - 2s - loss: 0.0000e+00
+Epoch 7/15
+ - 2s - loss: 0.0000e+00
+Epoch 8/15
+ - 2s - loss: 0.0000e+00
+Epoch 9/15
+ - 2s - loss: 0.0000e+00
+Epoch 10/15
+ - 2s - loss: 0.0000e+00
+Epoch 11/15
+ - 2s - loss: 0.0000e+00
+Epoch 12/15
+ - 2s - loss: 0.0000e+00
+Epoch 13/15
+ - 2s - loss: 0.0000e+00
+Epoch 14/15
+ - 2s - loss: 0.0000e+00
+Epoch 15/15
+ - 2s - loss: 0.0000e+00
+Train Score: 0.0% error
+Test Score: 0.0% error
+../neighborhood100
+Epoch 1/15
+ - 9s - loss: 0.0152
+Epoch 2/15
+ - 2s - loss: 0.0151
+Epoch 3/15
+ - 2s - loss: 0.0150
+Epoch 4/15
+ - 2s - loss: 0.0151
+Epoch 5/15
+ - 2s - loss: 0.0151
+Epoch 6/15
+ - 2s - loss: 0.0152
+Epoch 7/15
+ - 2s - loss: 0.0152
+Epoch 8/15
+ - 2s - loss: 0.0152
+Epoch 9/15
+ - 2s - loss: 0.0150
+Epoch 10/15
+ - 2s - loss: 0.0150
+Epoch 11/15
+ - 2s - loss: 0.0151
+Epoch 12/15
+ - 2s - loss: 0.0151
+Epoch 13/15
+ - 2s - loss: 0.0150
+Epoch 14/15
+ - 2s - loss: 0.0151
+Epoch 15/15
+ - 2s - loss: 0.0150
+Train Score: 32.90530859989838% error
+Test Score: 34.421884304452846% error
+../neighborhood101
+Epoch 1/15
+ - 9s - loss: 0.0136
+Epoch 2/15
+ - 2s - loss: 0.0136
+Epoch 3/15
+ - 2s - loss: 0.0136
+Epoch 4/15
+ - 2s - loss: 0.0136
+Epoch 5/15
+ - 2s - loss: 0.0136
+Epoch 6/15
+ - 2s - loss: 0.0136
+Epoch 7/15
+ - 2s - loss: 0.0136
+Epoch 8/15
+ - 2s - loss: 0.0135
+Epoch 9/15
+ - 2s - loss: 0.0136
+Epoch 10/15
+ - 2s - loss: 0.0136
+Epoch 11/15
+ - 2s - loss: 0.0136
+Epoch 12/15
+ - 2s - loss: 0.0136
+Epoch 13/15
+ - 2s - loss: 0.0135
+Epoch 14/15
+ - 2s - loss: 0.0136
+Epoch 15/15
+ - 2s - loss: 0.0136
+Train Score: 1024260034.2397603% error
+Test Score: 1027738574.0919765% error
+../neighborhood102
+Epoch 1/15
+ - 9s - loss: 0.0192
+Epoch 2/15
+ - 2s - loss: 0.0191
+Epoch 3/15
+ - 2s - loss: 0.0192
+Epoch 4/15
+ - 2s - loss: 0.0192
+Epoch 5/15
+ - 2s - loss: 0.0192
+Epoch 6/15
+ - 2s - loss: 0.0190
+Epoch 7/15
+ - 2s - loss: 0.0192
+Epoch 8/15
+ - 2s - loss: 0.0191
+Epoch 9/15
+ - 2s - loss: 0.0192
+Epoch 10/15
+ - 2s - loss: 0.0191
+Epoch 11/15
+ - 2s - loss: 0.0191
+Epoch 12/15
+ - 2s - loss: 0.0191
+Epoch 13/15
+ - 2s - loss: 0.0191
+Epoch 14/15
+ - 2s - loss: 0.0191
+Epoch 15/15
+ - 2s - loss: 0.0190
+Train Score: 3292801159.426802% error
+Test Score: 3350971648.375117% error
+../neighborhood103
+Epoch 1/15
+ - 9s - loss: 0.0000e+00
+Epoch 2/15
+ - 2s - loss: 0.0000e+00
+Epoch 3/15
+ - 2s - loss: 0.0000e+00
+Epoch 4/15
+ - 2s - loss: 0.0000e+00
+Epoch 5/15
+ - 2s - loss: 0.0000e+00
+Epoch 6/15
+ - 2s - loss: 0.0000e+00
+Epoch 7/15
+ - 2s - loss: 0.0000e+00
+Epoch 8/15
+ - 2s - loss: 0.0000e+00
+Epoch 9/15
+ - 2s - loss: 0.0000e+00
+Epoch 10/15
+ - 2s - loss: 0.0000e+00
+Epoch 11/15
+ - 2s - loss: 0.0000e+00
+Epoch 12/15
+ - 2s - loss: 0.0000e+00
+Epoch 13/15
+ - 2s - loss: 0.0000e+00
+Epoch 14/15
+ - 2s - loss: 0.0000e+00
+Epoch 15/15
+ - 2s - loss: 0.0000e+00
+Train Score: 0.0% error
+Test Score: 0.0% error
+../neighborhood104
+Epoch 1/15
+ - 9s - loss: 0.0000e+00
+Epoch 2/15
+ - 2s - loss: 0.0000e+00
+Epoch 3/15
+ - 2s - loss: 0.0000e+00
+Epoch 4/15
+ - 2s - loss: 0.0000e+00
+Epoch 5/15
+ - 2s - loss: 0.0000e+00
+Epoch 6/15
+ - 2s - loss: 0.0000e+00
+Epoch 7/15
+ - 2s - loss: 0.0000e+00
+Epoch 8/15
+ - 2s - loss: 0.0000e+00
+Epoch 9/15
+ - 2s - loss: 0.0000e+00
+Epoch 10/15
+ - 2s - loss: 0.0000e+00
+Epoch 11/15
+ - 2s - loss: 0.0000e+00
+Epoch 12/15
+ - 2s - loss: 0.0000e+00
+Epoch 13/15
+ - 2s - loss: 0.0000e+00
+Epoch 14/15
+ - 2s - loss: 0.0000e+00
+Epoch 15/15
+ - 2s - loss: 0.0000e+00
+Train Score: 0.0% error
+Test Score: 0.0% error
+../neighborhood105
+Epoch 1/15
+ - 9s - loss: 0.0140
+Epoch 2/15
+ - 2s - loss: 0.0140
+Epoch 3/15
+ - 2s - loss: 0.0140
+Epoch 4/15
+ - 2s - loss: 0.0139
+Epoch 5/15
+ - 2s - loss: 0.0140
+Epoch 6/15
+ - 2s - loss: 0.0140
+Epoch 7/15
+ - 2s - loss: 0.0140
+Epoch 8/15
+ - 2s - loss: 0.0140
+Epoch 9/15
+ - 2s - loss: 0.0140
+Epoch 10/15
+ - 2s - loss: 0.0140
+Epoch 11/15
+ - 2s - loss: 0.0140
+Epoch 12/15
+ - 2s - loss: 0.0140
+Epoch 13/15
+ - 2s - loss: 0.0140
+Epoch 14/15
+ - 2s - loss: 0.0140
+Epoch 15/15
+ - 2s - loss: 0.0140
+Train Score: 200549163.71272904% error
+Test Score: 202541561.14283136% error
+../neighborhood106
+Epoch 1/15
+ - 9s - loss: 0.0150
+Epoch 2/15
+ - 2s - loss: 0.0149
+Epoch 3/15
+ - 2s - loss: 0.0148
+Epoch 4/15
+ - 2s - loss: 0.0148
+Epoch 5/15
+ - 2s - loss: 0.0148
+Epoch 6/15
+ - 2s - loss: 0.0148
+Epoch 7/15
+ - 2s - loss: 0.0147
+Epoch 8/15
+ - 2s - loss: 0.0149
+Epoch 9/15
+ - 2s - loss: 0.0147
+Epoch 10/15
+ - 2s - loss: 0.0147
+Epoch 11/15
+ - 2s - loss: 0.0147
+Epoch 12/15
+ - 2s - loss: 0.0148
+Epoch 13/15
+ - 2s - loss: 0.0147
+Epoch 14/15
+ - 2s - loss: 0.0147
+Epoch 15/15
+ - 2s - loss: 0.0148
+Train Score: 7564820462.90718% error
+Test Score: 8961665744.008682% error
+../neighborhood107
+Epoch 1/15
+ - 10s - loss: 0.0112
+Epoch 2/15
+ - 2s - loss: 0.0111
+Epoch 3/15
+ - 2s - loss: 0.0112
+Epoch 4/15
+ - 2s - loss: 0.0112
+Epoch 5/15
+ - 2s - loss: 0.0112
+Epoch 6/15
+ - 2s - loss: 0.0112
+Epoch 7/15
+ - 2s - loss: 0.0111
+Epoch 8/15
+ - 2s - loss: 0.0111
+Epoch 9/15
+ - 2s - loss: 0.0111
+Epoch 10/15
+ - 2s - loss: 0.0111
+Epoch 11/15
+ - 2s - loss: 0.0111
+Epoch 12/15
+ - 2s - loss: 0.0111
+Epoch 13/15
+ - 2s - loss: 0.0110
+Epoch 14/15
+ - 2s - loss: 0.0111
+Epoch 15/15
+ - 2s - loss: 0.0111
+Train Score: 34.105025225833494% error
+Test Score: 35.21227434222224% error
+../neighborhood108
+Epoch 1/15
+ - 9s - loss: 0.0464
+Epoch 2/15
+ - 2s - loss: 0.0462
+Epoch 3/15
+ - 2s - loss: 0.0462
+Epoch 4/15
+ - 2s - loss: 0.0463
+Epoch 5/15
+ - 2s - loss: 0.0463
+Epoch 6/15
+ - 2s - loss: 0.0460
+Epoch 7/15
+ - 2s - loss: 0.0463
+Epoch 8/15
+ - 2s - loss: 0.0464
+Epoch 9/15
+ - 2s - loss: 0.0463
+Epoch 10/15
+ - 2s - loss: 0.0462
+Epoch 11/15
+ - 2s - loss: 0.0463
+Epoch 12/15
+ - 2s - loss: 0.0463
+Epoch 13/15
+ - 2s - loss: 0.0461
+Epoch 14/15
+ - 2s - loss: 0.0464
+Epoch 15/15
+ - 2s - loss: 0.0463
+Train Score: 768492274.3932598% error
+Test Score: 762892104.2987174% error
+../neighborhood109
+Epoch 1/15
+ - 10s - loss: 0.0121
+Epoch 2/15
+ - 2s - loss: 0.0120
+Epoch 3/15
+ - 2s - loss: 0.0120
+Epoch 4/15
+ - 2s - loss: 0.0121
+Epoch 5/15
+ - 2s - loss: 0.0120
+Epoch 6/15
+ - 2s - loss: 0.0121
+Epoch 7/15
+ - 2s - loss: 0.0120
+Epoch 8/15
+ - 2s - loss: 0.0120
+Epoch 9/15
+ - 2s - loss: 0.0121
+Epoch 10/15
+ - 2s - loss: 0.0120
+Epoch 11/15
+ - 2s - loss: 0.0120
+Epoch 12/15
+ - 2s - loss: 0.0120
+Epoch 13/15
+ - 2s - loss: 0.0120
+Epoch 14/15
+ - 2s - loss: 0.0120
+Epoch 15/15
+ - 2s - loss: 0.0120
+Train Score: 425224547.8269889% error
+Test Score: 433228127.65836716% error
+../neighborhood110
+Epoch 1/15
+ - 10s - loss: 0.0000e+00
+Epoch 2/15
+ - 2s - loss: 0.0000e+00
+Epoch 3/15
+ - 2s - loss: 0.0000e+00
+Epoch 4/15
+ - 2s - loss: 0.0000e+00
+Epoch 5/15
+ - 2s - loss: 0.0000e+00
+Epoch 6/15
+ - 2s - loss: 0.0000e+00
+Epoch 7/15
+ - 2s - loss: 0.0000e+00
+Epoch 8/15
+ - 2s - loss: 0.0000e+00
+Epoch 9/15
+ - 2s - loss: 0.0000e+00
+Epoch 10/15
+ - 2s - loss: 0.0000e+00
+Epoch 11/15
+ - 2s - loss: 0.0000e+00
+Epoch 12/15
+ - 2s - loss: 0.0000e+00
+Epoch 13/15
+ - 2s - loss: 0.0000e+00
+Epoch 14/15
+ - 2s - loss: 0.0000e+00
+Epoch 15/15
+ - 2s - loss: 0.0000e+00
+Train Score: 0.0% error
+Test Score: 0.0% error
+../neighborhood111
+Epoch 1/15
+ - 10s - loss: 0.0137
+Epoch 2/15
+ - 2s - loss: 0.0136
+Epoch 3/15
+ - 2s - loss: 0.0137
+Epoch 4/15
+ - 2s - loss: 0.0136
+Epoch 5/15
+ - 2s - loss: 0.0136
+Epoch 6/15
+ - 2s - loss: 0.0136
+Epoch 7/15
+ - 2s - loss: 0.0136
+Epoch 8/15
+ - 2s - loss: 0.0136
+Epoch 9/15
+ - 2s - loss: 0.0136
+Epoch 10/15
+ - 2s - loss: 0.0135
+Epoch 11/15
+ - 2s - loss: 0.0136
+Epoch 12/15
+ - 2s - loss: 0.0136
+Epoch 13/15
+ - 2s - loss: 0.0136
+Epoch 14/15
+ - 2s - loss: 0.0136
+Epoch 15/15
+ - 2s - loss: 0.0136
+Train Score: 869583191.9193095% error
+Test Score: 857474776.852457% error
+../neighborhood112
+Epoch 1/15
+ - 10s - loss: 0.0062
+Epoch 2/15
+ - 2s - loss: 0.0062
+Epoch 3/15
+ - 2s - loss: 0.0061
+Epoch 4/15
+ - 2s - loss: 0.0061
+Epoch 5/15
+ - 2s - loss: 0.0061
+Epoch 6/15
+ - 2s - loss: 0.0061
+Epoch 7/15
+ - 2s - loss: 0.0061
+Epoch 8/15
+ - 2s - loss: 0.0061
+Epoch 9/15
+ - 2s - loss: 0.0060
+Epoch 10/15
+ - 2s - loss: 0.0061
+Epoch 11/15
+ - 2s - loss: 0.0061
+Epoch 12/15
+ - 2s - loss: 0.0061
+Epoch 13/15
+ - 2s - loss: 0.0061
+Epoch 14/15
+ - 2s - loss: 0.0060
+Epoch 15/15
+ - 2s - loss: 0.0060
+Train Score: 3440009808.880321% error
+Test Score: 2435036160.5955563% error
+../neighborhood113
+Epoch 1/15
+ - 10s - loss: 0.0154
+Epoch 2/15
+ - 2s - loss: 0.0154
+Epoch 3/15
+ - 2s - loss: 0.0154
+Epoch 4/15
+ - 2s - loss: 0.0153
+Epoch 5/15
+ - 2s - loss: 0.0154
+Epoch 6/15
+ - 2s - loss: 0.0155
+Epoch 7/15
+ - 2s - loss: 0.0154
+Epoch 8/15
+ - 2s - loss: 0.0153
+Epoch 9/15
+ - 2s - loss: 0.0153
+Epoch 10/15
+ - 2s - loss: 0.0153
+Epoch 11/15
+ - 2s - loss: 0.0154
+Epoch 12/15
+ - 2s - loss: 0.0154
+Epoch 13/15
+ - 2s - loss: 0.0153
+Epoch 14/15
+ - 2s - loss: 0.0154
+Epoch 15/15
+ - 2s - loss: 0.0151
+Train Score: 37.49497286174906% error
+Test Score: 45.38070520717888% error
+../neighborhood114
+Epoch 1/15
+ - 10s - loss: 0.0069
+Epoch 2/15
+ - 2s - loss: 0.0069
+Epoch 3/15
+ - 2s - loss: 0.0069
+Epoch 4/15
+ - 2s - loss: 0.0069
+Epoch 5/15
+ - 2s - loss: 0.0068
+Epoch 6/15
+ - 2s - loss: 0.0069
+Epoch 7/15
+ - 2s - loss: 0.0067
+Epoch 8/15
+ - 2s - loss: 0.0068
+Epoch 9/15
+ - 2s - loss: 0.0068
+Epoch 10/15
+ - 2s - loss: 0.0068
+Epoch 11/15
+ - 2s - loss: 0.0068
+Epoch 12/15
+ - 2s - loss: 0.0067
+Epoch 13/15
+ - 2s - loss: 0.0068
+Epoch 14/15
+ - 2s - loss: 0.0068
+Epoch 15/15
+ - 2s - loss: 0.0067
+Train Score: 38.540949174527626% error
+Test Score: 43.560834369313014% error
+../neighborhood115
+Epoch 1/15
+ - 11s - loss: 0.0033
+Epoch 2/15
+ - 2s - loss: 0.0033
+Epoch 3/15
+ - 2s - loss: 0.0033
+Epoch 4/15
+ - 2s - loss: 0.0033
+Epoch 5/15
+ - 2s - loss: 0.0033
+Epoch 6/15
+ - 2s - loss: 0.0033
+Epoch 7/15
+ - 2s - loss: 0.0033
+Epoch 8/15
+ - 2s - loss: 0.0032
+Epoch 9/15
+ - 2s - loss: 0.0033
+Epoch 10/15
+ - 2s - loss: 0.0032
+Epoch 11/15
+ - 2s - loss: 0.0033
+Epoch 12/15
+ - 2s - loss: 0.0033
+Epoch 13/15
+ - 2s - loss: 0.0033
+Epoch 14/15
+ - 2s - loss: 0.0033
+Epoch 15/15
+ - 2s - loss: 0.0033
+Train Score: 787819199.8668824% error
+Test Score: 688026398.4203339% error
+../neighborhood116
+Epoch 1/15
+ - 10s - loss: 0.0126
+Epoch 2/15
+ - 2s - loss: 0.0122
+Epoch 3/15
+ - 2s - loss: 0.0120
+Epoch 4/15
+ - 2s - loss: 0.0120
+Epoch 5/15
+ - 2s - loss: 0.0120
+Epoch 6/15
+ - 2s - loss: 0.0119
+Epoch 7/15
+ - 2s - loss: 0.0118
+Epoch 8/15
+ - 2s - loss: 0.0120
+Epoch 9/15
+ - 2s - loss: 0.0119
+Epoch 10/15
+ - 2s - loss: 0.0119
+Epoch 11/15
+ - 2s - loss: 0.0119
+Epoch 12/15
+ - 2s - loss: 0.0120
+Epoch 13/15
+ - 2s - loss: 0.0118
+Epoch 14/15
+ - 2s - loss: 0.0119
+Epoch 15/15
+ - 2s - loss: 0.0119
+Train Score: 52.31037531096001% error
+Test Score: 57.10614209237019% error
+../neighborhood117
+Epoch 1/15
+ - 10s - loss: 0.0025
+Epoch 2/15
+ - 2s - loss: 0.0025
+Epoch 3/15
+ - 2s - loss: 0.0025
+Epoch 4/15
+ - 2s - loss: 0.0025
+Epoch 5/15
+ - 2s - loss: 0.0025
+Epoch 6/15
+ - 2s - loss: 0.0025
+Epoch 7/15
+ - 2s - loss: 0.0025
+Epoch 8/15
+ - 2s - loss: 0.0025
+Epoch 9/15
+ - 2s - loss: 0.0025
+Epoch 10/15
+ - 2s - loss: 0.0025
+Epoch 11/15
+ - 2s - loss: 0.0025
+Epoch 12/15
+ - 2s - loss: 0.0025
+Epoch 13/15
+ - 2s - loss: 0.0025
+Epoch 14/15
+ - 2s - loss: 0.0025
+Epoch 15/15
+ - 2s - loss: 0.0025
+Train Score: 82512052.71585661% error
+Test Score: 82549632.60029341% error
+../neighborhood118
+Epoch 1/15
+ - 10s - loss: 0.0045
+Epoch 2/15
+ - 2s - loss: 0.0045
+Epoch 3/15
+ - 2s - loss: 0.0045
+Epoch 4/15
+ - 2s - loss: 0.0045
+Epoch 5/15
+ - 2s - loss: 0.0046
+Epoch 6/15
+ - 2s - loss: 0.0045
+Epoch 7/15
+ - 2s - loss: 0.0045
+Epoch 8/15
+ - 2s - loss: 0.0045
+Epoch 9/15
+ - 2s - loss: 0.0045
+Epoch 10/15
+ - 2s - loss: 0.0045
+Epoch 11/15
+ - 2s - loss: 0.0045
+Epoch 12/15
+ - 2s - loss: 0.0045
+Epoch 13/15
+ - 2s - loss: 0.0045
+Epoch 14/15
+ - 2s - loss: 0.0045
+Epoch 15/15
+ - 2s - loss: 0.0045
+Train Score: 76286815.73204605% error
+Test Score: 77066619.95667389% error
+../neighborhood119
+Epoch 1/15
+ - 10s - loss: 0.0189
+Epoch 2/15
+ - 2s - loss: 0.0189
+Epoch 3/15
+ - 2s - loss: 0.0190
+Epoch 4/15
+ - 2s - loss: 0.0189
+Epoch 5/15
+ - 2s - loss: 0.0190
+Epoch 6/15
+ - 2s - loss: 0.0190
+Epoch 7/15
+ - 2s - loss: 0.0190
+Epoch 8/15
+ - 2s - loss: 0.0189
+Epoch 9/15
+ - 2s - loss: 0.0189
+Epoch 10/15
+ - 2s - loss: 0.0188
+Epoch 11/15
+ - 2s - loss: 0.0190
+Epoch 12/15
+ - 2s - loss: 0.0190
+Epoch 13/15
+ - 2s - loss: 0.0190
+Epoch 14/15
+ - 2s - loss: 0.0189
+Epoch 15/15
+ - 2s - loss: 0.0190
+Train Score: 5396767247.808197% error
+Test Score: 5382249040.758159% error
+../neighborhood120
+Epoch 1/15
+ - 10s - loss: 0.0097
+Epoch 2/15
+ - 2s - loss: 0.0096
+Epoch 3/15
+ - 2s - loss: 0.0096
+Epoch 4/15
+ - 2s - loss: 0.0095
+Epoch 5/15
+ - 2s - loss: 0.0095
+Epoch 6/15
+ - 2s - loss: 0.0095
+Epoch 7/15
+ - 2s - loss: 0.0095
+Epoch 8/15
+ - 2s - loss: 0.0095
+Epoch 9/15
+ - 2s - loss: 0.0095
+Epoch 10/15
+ - 2s - loss: 0.0094
+Epoch 11/15
+ - 2s - loss: 0.0094
+Epoch 12/15
+ - 3s - loss: 0.0094
+Epoch 13/15
+ - 2s - loss: 0.0094
+Epoch 14/15
+ - 2s - loss: 0.0093
+Epoch 15/15
+ - 2s - loss: 0.0095
+Train Score: 1360440092.5530648% error
+Test Score: 1301205071.9303064% error
+../neighborhood121
+Epoch 1/15
+ - 10s - loss: 0.0079
+Epoch 2/15
+ - 2s - loss: 0.0078
+Epoch 3/15
+ - 2s - loss: 0.0078
+Epoch 4/15
+ - 2s - loss: 0.0078
+Epoch 5/15
+ - 2s - loss: 0.0078
+Epoch 6/15
+ - 2s - loss: 0.0078
+Epoch 7/15
+ - 2s - loss: 0.0078
+Epoch 8/15
+ - 2s - loss: 0.0078
+Epoch 9/15
+ - 2s - loss: 0.0078
+Epoch 10/15
+ - 2s - loss: 0.0078
+Epoch 11/15
+ - 2s - loss: 0.0078
+Epoch 12/15
+ - 2s - loss: 0.0078
+Epoch 13/15
+ - 2s - loss: 0.0078
+Epoch 14/15
+ - 2s - loss: 0.0078
+Epoch 15/15
+ - 2s - loss: 0.0077
+Train Score: 983756978.868653% error
+Test Score: 973316545.0509678% error
+../neighborhood122
+Epoch 1/15
+ - 11s - loss: 0.0219
+Epoch 2/15
+ - 2s - loss: 0.0217
+Epoch 3/15
+ - 2s - loss: 0.0218
+Epoch 4/15
+ - 2s - loss: 0.0218
+Epoch 5/15
+ - 2s - loss: 0.0218
+Epoch 6/15
+ - 2s - loss: 0.0217
+Epoch 7/15
+ - 2s - loss: 0.0218
+Epoch 8/15
+ - 2s - loss: 0.0218
+Epoch 9/15
+ - 2s - loss: 0.0218
+Epoch 10/15
+ - 2s - loss: 0.0218
+Epoch 11/15
+ - 2s - loss: 0.0219
+Epoch 12/15
+ - 2s - loss: 0.0218
+Epoch 13/15
+ - 2s - loss: 0.0218
+Epoch 14/15
+ - 2s - loss: 0.0218
+Epoch 15/15
+ - 2s - loss: 0.0218
+Train Score: 484020845.0546919% error
+Test Score: 492326973.4871598% error
+../neighborhood123
+Epoch 1/15
+ - 11s - loss: 0.0214
+Epoch 2/15
+ - 2s - loss: 0.0211
+Epoch 3/15
+ - 2s - loss: 0.0210
+Epoch 4/15
+ - 2s - loss: 0.0210
+Epoch 5/15
+ - 2s - loss: 0.0209
+Epoch 6/15
+ - 2s - loss: 0.0208
+Epoch 7/15
+ - 2s - loss: 0.0209
+Epoch 8/15
+ - 2s - loss: 0.0208
+Epoch 9/15
+ - 2s - loss: 0.0208
+Epoch 10/15
+ - 2s - loss: 0.0208
+Epoch 11/15
+ - 2s - loss: 0.0208
+Epoch 12/15
+ - 2s - loss: 0.0209
+Epoch 13/15
+ - 2s - loss: 0.0207
+Epoch 14/15
+ - 2s - loss: 0.0208
+Epoch 15/15
+ - 2s - loss: 0.0207
+Train Score: 2835173597.543723% error
+Test Score: 2806462958.008572% error
+../neighborhood124
+Epoch 1/15
+ - 11s - loss: 0.0046
+Epoch 2/15
+ - 2s - loss: 0.0046
+Epoch 3/15
+ - 2s - loss: 0.0046
+Epoch 4/15
+ - 2s - loss: 0.0046
+Epoch 5/15
+ - 2s - loss: 0.0046
+Epoch 6/15
+ - 2s - loss: 0.0046
+Epoch 7/15
+ - 2s - loss: 0.0046
+Epoch 8/15
+ - 2s - loss: 0.0046
+Epoch 9/15
+ - 2s - loss: 0.0046
+Epoch 10/15
+ - 2s - loss: 0.0046
+Epoch 11/15
+ - 2s - loss: 0.0046
+Epoch 12/15
+ - 2s - loss: 0.0046
+Epoch 13/15
+ - 2s - loss: 0.0046
+Epoch 14/15
+ - 2s - loss: 0.0046
+Epoch 15/15
+ - 2s - loss: 0.0046
+Train Score: 3422396762.986465% error
+Test Score: 3407160199.4750075% error
+../neighborhood125
+Epoch 1/15
+ - 11s - loss: 0.0127
+Epoch 2/15
+ - 2s - loss: 0.0125
+Epoch 3/15
+ - 2s - loss: 0.0123
+Epoch 4/15
+ - 2s - loss: 0.0123
+Epoch 5/15
+ - 2s - loss: 0.0123
+Epoch 6/15
+ - 2s - loss: 0.0123
+Epoch 7/15
+ - 2s - loss: 0.0122
+Epoch 8/15
+ - 2s - loss: 0.0122
+Epoch 9/15
+ - 2s - loss: 0.0122
+Epoch 10/15
+ - 2s - loss: 0.0123
+Epoch 11/15
+ - 2s - loss: 0.0122
+Epoch 12/15
+ - 2s - loss: 0.0123
+Epoch 13/15
+ - 2s - loss: 0.0122
+Epoch 14/15
+ - 2s - loss: 0.0123
+Epoch 15/15
+ - 2s - loss: 0.0123
+Train Score: 40.4018408814392% error
+Test Score: 42.20678069842926% error
+../neighborhood126
+Epoch 1/15
+ - 11s - loss: 0.0140
+Epoch 2/15
+ - 2s - loss: 0.0140
+Epoch 3/15
+ - 2s - loss: 0.0140
+Epoch 4/15
+ - 2s - loss: 0.0140
+Epoch 5/15
+ - 2s - loss: 0.0139
+Epoch 6/15
+ - 2s - loss: 0.0140
+Epoch 7/15
+ - 2s - loss: 0.0140
+Epoch 8/15
+ - 2s - loss: 0.0140
+Epoch 9/15
+ - 2s - loss: 0.0140
+Epoch 10/15
+ - 2s - loss: 0.0140
+Epoch 11/15
+ - 2s - loss: 0.0140
+Epoch 12/15
+ - 2s - loss: 0.0139
+Epoch 13/15
+ - 2s - loss: 0.0140
+Epoch 14/15
+ - 2s - loss: 0.0140
+Epoch 15/15
+ - 2s - loss: 0.0140
+Train Score: 2218084804.569193% error
+Test Score: 2259022753.5969834% error
+../neighborhood127
+Epoch 1/15
+ - 12s - loss: 0.0136
+Epoch 2/15
+ - 2s - loss: 0.0136
+Epoch 3/15
+ - 2s - loss: 0.0135
+Epoch 4/15
+ - 2s - loss: 0.0135
+Epoch 5/15
+ - 2s - loss: 0.0135
+Epoch 6/15
+ - 2s - loss: 0.0135
+Epoch 7/15
+ - 2s - loss: 0.0134
+Epoch 8/15
+ - 2s - loss: 0.0135
+Epoch 9/15
+ - 2s - loss: 0.0135
+Epoch 10/15
+ - 2s - loss: 0.0134
+Epoch 11/15
+ - 2s - loss: 0.0133
+Epoch 12/15
+ - 2s - loss: 0.0134
+Epoch 13/15
+ - 2s - loss: 0.0133
+Epoch 14/15
+ - 2s - loss: 0.0135
+Epoch 15/15
+ - 2s - loss: 0.0134
+Train Score: 10609512735.690477% error
+Test Score: 12513371171.482536% error
+../neighborhood128
+Epoch 1/15
+ - 11s - loss: 0.0259
+Epoch 2/15
+ - 2s - loss: 0.0257
+Epoch 3/15
+ - 2s - loss: 0.0256
+Epoch 4/15
+ - 2s - loss: 0.0257
+Epoch 5/15
+ - 2s - loss: 0.0256
+Epoch 6/15
+ - 2s - loss: 0.0257
+Epoch 7/15
+ - 2s - loss: 0.0256
+Epoch 8/15
+ - 2s - loss: 0.0256
+Epoch 9/15
+ - 2s - loss: 0.0256
+Epoch 10/15
+ - 2s - loss: 0.0257
+Epoch 11/15
+ - 2s - loss: 0.0256
+Epoch 12/15
+ - 2s - loss: 0.0256
+Epoch 13/15
+ - 2s - loss: 0.0256
+Epoch 14/15
+ - 2s - loss: 0.0256
+Epoch 15/15
+ - 2s - loss: 0.0256
+Train Score: 2008761635.2390957% error
+Test Score: 2064096058.417081% error
+../neighborhood129
+Epoch 1/15
+ - 11s - loss: 0.0109
+Epoch 2/15
+ - 2s - loss: 0.0107
+Epoch 3/15
+ - 2s - loss: 0.0108
+Epoch 4/15
+ - 2s - loss: 0.0108
+Epoch 5/15
+ - 2s - loss: 0.0108
+Epoch 6/15
+ - 2s - loss: 0.0108
+Epoch 7/15
+ - 2s - loss: 0.0107
+Epoch 8/15
+ - 2s - loss: 0.0108
+Epoch 9/15
+ - 2s - loss: 0.0108
+Epoch 10/15
+ - 2s - loss: 0.0107
+Epoch 11/15
+ - 2s - loss: 0.0107
+Epoch 12/15
+ - 2s - loss: 0.0107
+Epoch 13/15
+ - 2s - loss: 0.0108
+Epoch 14/15
+ - 2s - loss: 0.0107
+Epoch 15/15
+ - 2s - loss: 0.0107
+Train Score: 1327725817.7498367% error
+Test Score: 1471407750.701536% error
+../neighborhood130
+Epoch 1/15
+ - 11s - loss: 0.0146
+Epoch 2/15
+ - 2s - loss: 0.0146
+Epoch 3/15
+ - 2s - loss: 0.0145
+Epoch 4/15
+ - 2s - loss: 0.0146
+Epoch 5/15
+ - 2s - loss: 0.0145
+Epoch 6/15
+ - 2s - loss: 0.0146
+Epoch 7/15
+ - 2s - loss: 0.0145
+Epoch 8/15
+ - 2s - loss: 0.0146
+Epoch 9/15
+ - 2s - loss: 0.0144
+Epoch 10/15
+ - 2s - loss: 0.0146
+Epoch 11/15
+ - 2s - loss: 0.0146
+Epoch 12/15
+ - 2s - loss: 0.0145
+Epoch 13/15
+ - 2s - loss: 0.0146
+Epoch 14/15
+ - 2s - loss: 0.0146
+Epoch 15/15
+ - 2s - loss: 0.0145
+Train Score: 8599581249.361706% error
+Test Score: 7685430458.70155% error
+../neighborhood131
+Epoch 1/15
+ - 11s - loss: 0.0091
+Epoch 2/15
+ - 2s - loss: 0.0092
+Epoch 3/15
+ - 2s - loss: 0.0091
+Epoch 4/15
+ - 2s - loss: 0.0091
+Epoch 5/15
+ - 2s - loss: 0.0091
+Epoch 6/15
+ - 2s - loss: 0.0091
+Epoch 7/15
+ - 2s - loss: 0.0090
+Epoch 8/15
+ - 2s - loss: 0.0090
+Epoch 9/15
+ - 2s - loss: 0.0089
+Epoch 10/15
+ - 2s - loss: 0.0090
+Epoch 11/15
+ - 2s - loss: 0.0089
+Epoch 12/15
+ - 2s - loss: 0.0089
+Epoch 13/15
+ - 2s - loss: 0.0089
+Epoch 14/15
+ - 2s - loss: 0.0088
+Epoch 15/15
+ - 2s - loss: 0.0090
+Train Score: 1738983229.7496996% error
+Test Score: 1489382494.0815701% error
+../neighborhood132
+Epoch 1/15
+ - 11s - loss: 0.0151
+Epoch 2/15
+ - 2s - loss: 0.0149
+Epoch 3/15
+ - 2s - loss: 0.0145
+Epoch 4/15
+ - 2s - loss: 0.0148
+Epoch 5/15
+ - 2s - loss: 0.0148
+Epoch 6/15
+ - 2s - loss: 0.0148
+Epoch 7/15
+ - 2s - loss: 0.0149
+Epoch 8/15
+ - 2s - loss: 0.0149
+Epoch 9/15
+ - 2s - loss: 0.0148
+Epoch 10/15
+ - 2s - loss: 0.0148
+Epoch 11/15
+ - 2s - loss: 0.0148
+Epoch 12/15
+ - 2s - loss: 0.0148
+Epoch 13/15
+ - 2s - loss: 0.0149
+Epoch 14/15
+ - 2s - loss: 0.0147
+Epoch 15/15
+ - 2s - loss: 0.0148
+Train Score: 81.43455467204429% error
+Test Score: 53.621926634462866% error
+../neighborhood133
+Epoch 1/15
+ - 11s - loss: 0.0129
+Epoch 2/15
+ - 2s - loss: 0.0127
+Epoch 3/15
+ - 2s - loss: 0.0127
+Epoch 4/15
+ - 2s - loss: 0.0125
+Epoch 5/15
+ - 2s - loss: 0.0126
+Epoch 6/15
+ - 2s - loss: 0.0125
+Epoch 7/15
+ - 2s - loss: 0.0125
+Epoch 8/15
+ - 2s - loss: 0.0125
+Epoch 9/15
+ - 2s - loss: 0.0126
+Epoch 10/15
+ - 2s - loss: 0.0125
+Epoch 11/15
+ - 2s - loss: 0.0125
+Epoch 12/15
+ - 2s - loss: 0.0125
+Epoch 13/15
+ - 2s - loss: 0.0125
+Epoch 14/15
+ - 2s - loss: 0.0125
+Epoch 15/15
+ - 2s - loss: 0.0125
+Train Score: 8523961708.552763% error
+Test Score: 8222577599.689338% error
+../neighborhood134
+Epoch 1/15
+ - 11s - loss: 0.0195
+Epoch 2/15
+ - 2s - loss: 0.0196
+Epoch 3/15
+ - 2s - loss: 0.0195
+Epoch 4/15
+ - 2s - loss: 0.0195
+Epoch 5/15
+ - 2s - loss: 0.0195
+Epoch 6/15
+ - 2s - loss: 0.0195
+Epoch 7/15
+ - 2s - loss: 0.0195
+Epoch 8/15
+ - 2s - loss: 0.0194
+Epoch 9/15
+ - 2s - loss: 0.0195
+Epoch 10/15
+ - 2s - loss: 0.0196
+Epoch 11/15
+ - 2s - loss: 0.0195
+Epoch 12/15
+ - 2s - loss: 0.0195
+Epoch 13/15
+ - 2s - loss: 0.0195
+Epoch 14/15
+ - 2s - loss: 0.0195
+Epoch 15/15
+ - 2s - loss: 0.0195
+Train Score: 7016512079.068537% error
+Test Score: 6487646742.431857% error
+../neighborhood135
+Epoch 1/15
+ - 12s - loss: 0.0341
+Epoch 2/15
+ - 2s - loss: 0.0340
+Epoch 3/15
+ - 2s - loss: 0.0340
+Epoch 4/15
+ - 2s - loss: 0.0340
+Epoch 5/15
+ - 2s - loss: 0.0341
+Epoch 6/15
+ - 2s - loss: 0.0340
+Epoch 7/15
+ - 2s - loss: 0.0339
+Epoch 8/15
+ - 2s - loss: 0.0340
+Epoch 9/15
+ - 2s - loss: 0.0340
+Epoch 10/15
+ - 2s - loss: 0.0340
+Epoch 11/15
+ - 2s - loss: 0.0341
+Epoch 12/15
+ - 2s - loss: 0.0341
+Epoch 13/15
+ - 2s - loss: 0.0341
+Epoch 14/15
+ - 2s - loss: 0.0339
+Epoch 15/15
+ - 2s - loss: 0.0340
+Train Score: 4233358794.164129% error
+Test Score: 4249802545.609591% error
+../neighborhood136
+Epoch 1/15
+ - 12s - loss: 0.0179
+Epoch 2/15
+ - 2s - loss: 0.0180
+Epoch 3/15
+ - 2s - loss: 0.0180
+Epoch 4/15
+ - 2s - loss: 0.0179
+Epoch 5/15
+ - 2s - loss: 0.0181
+Epoch 6/15
+ - 2s - loss: 0.0179
+Epoch 7/15
+ - 2s - loss: 0.0179
+Epoch 8/15
+ - 2s - loss: 0.0179
+Epoch 9/15
+ - 2s - loss: 0.0180
+Epoch 10/15
+ - 2s - loss: 0.0180
+Epoch 11/15
+ - 2s - loss: 0.0179
+Epoch 12/15
+ - 2s - loss: 0.0180
+Epoch 13/15
+ - 2s - loss: 0.0179
+Epoch 14/15
+ - 2s - loss: 0.0179
+Epoch 15/15
+ - 2s - loss: 0.0179
+Train Score: 2419783558.8079524% error
+Test Score: 2450272197.8693376% error
+../neighborhood137
+Epoch 1/15
+ - 12s - loss: 0.0119
+Epoch 2/15
+ - 2s - loss: 0.0117
+Epoch 3/15
+ - 2s - loss: 0.0118
+Epoch 4/15
+ - 2s - loss: 0.0118
+Epoch 5/15
+ - 2s - loss: 0.0118
+Epoch 6/15
+ - 2s - loss: 0.0119
+Epoch 7/15
+ - 2s - loss: 0.0118
+Epoch 8/15
+ - 2s - loss: 0.0119
+Epoch 9/15
+ - 2s - loss: 0.0119
+Epoch 10/15
+ - 2s - loss: 0.0119
+Epoch 11/15
+ - 2s - loss: 0.0119
+Epoch 12/15
+ - 2s - loss: 0.0118
+Epoch 13/15
+ - 2s - loss: 0.0118
+Epoch 14/15
+ - 2s - loss: 0.0118
+Epoch 15/15
+ - 2s - loss: 0.0118
+Train Score: 29.86190153284586% error
+Test Score: 31.753733551722874% error
+../neighborhood138
+Epoch 1/15
+ - 12s - loss: 0.0200
+Epoch 2/15
+ - 2s - loss: 0.0199
+Epoch 3/15
+ - 2s - loss: 0.0200
+Epoch 4/15
+ - 2s - loss: 0.0202
+Epoch 5/15
+ - 2s - loss: 0.0202
+Epoch 6/15
+ - 2s - loss: 0.0198
+Epoch 7/15
+ - 2s - loss: 0.0203
+Epoch 8/15
+ - 2s - loss: 0.0200
+Epoch 9/15
+ - 3s - loss: 0.0200
+Epoch 10/15
+ - 2s - loss: 0.0199
+Epoch 11/15
+ - 2s - loss: 0.0201
+Epoch 12/15
+ - 2s - loss: 0.0200
+Epoch 13/15
+ - 2s - loss: 0.0198
+Epoch 14/15
+ - 2s - loss: 0.0202
+Epoch 15/15
+ - 2s - loss: 0.0199
+Train Score: 63113912411.60253% error
+Test Score: 73202883157.30038% error
+../neighborhood139
+Epoch 1/15
+ - 12s - loss: 0.0011
+Epoch 2/15
+ - 2s - loss: 0.0011
+Epoch 3/15
+ - 2s - loss: 0.0011
+Epoch 4/15
+ - 2s - loss: 0.0011
+Epoch 5/15
+ - 2s - loss: 0.0011
+Epoch 6/15
+ - 2s - loss: 0.0011
+Epoch 7/15
+ - 2s - loss: 0.0011
+Epoch 8/15
+ - 2s - loss: 0.0011
+Epoch 9/15
+ - 2s - loss: 0.0011
+Epoch 10/15
+ - 2s - loss: 0.0011
+Epoch 11/15
+ - 2s - loss: 0.0011
+Epoch 12/15
+ - 2s - loss: 0.0011
+Epoch 13/15
+ - 2s - loss: 0.0011
+Epoch 14/15
+ - 2s - loss: 0.0011
+Epoch 15/15
+ - 2s - loss: 0.0011
+Train Score: 10661710.82368945% error
+Test Score: 11056970.235992957% error
+../neighborhood140
+Epoch 1/15
+ - 12s - loss: 0.0139
+Epoch 2/15
+ - 2s - loss: 0.0140
+Epoch 3/15
+ - 2s - loss: 0.0139
+Epoch 4/15
+ - 2s - loss: 0.0138
+Epoch 5/15
+ - 2s - loss: 0.0138
+Epoch 6/15
+ - 2s - loss: 0.0137
+Epoch 7/15
+ - 2s - loss: 0.0138
+Epoch 8/15
+ - 2s - loss: 0.0136
+Epoch 9/15
+ - 2s - loss: 0.0136
+Epoch 10/15
+ - 2s - loss: 0.0137
+Epoch 11/15
+ - 2s - loss: 0.0136
+Epoch 12/15
+ - 2s - loss: 0.0135
+Epoch 13/15
+ - 2s - loss: 0.0136
+Epoch 14/15
+ - 2s - loss: 0.0136
+Epoch 15/15
+ - 2s - loss: 0.0135
+Train Score: 52.932555870516865% error
+Test Score: 58.20219282359791% error
+../neighborhood141
+Epoch 1/15
+ - 12s - loss: 0.0145
+Epoch 2/15
+ - 2s - loss: 0.0140
+Epoch 3/15
+ - 2s - loss: 0.0138
+Epoch 4/15
+ - 2s - loss: 0.0138
+Epoch 5/15
+ - 2s - loss: 0.0139
+Epoch 6/15
+ - 2s - loss: 0.0138
+Epoch 7/15
+ - 2s - loss: 0.0138
+Epoch 8/15
+ - 2s - loss: 0.0138
+Epoch 9/15
+ - 2s - loss: 0.0136
+Epoch 10/15
+ - 2s - loss: 0.0136
+Epoch 11/15
+ - 2s - loss: 0.0137
+Epoch 12/15
+ - 2s - loss: 0.0135
+Epoch 13/15
+ - 2s - loss: 0.0136
+Epoch 14/15
+ - 2s - loss: 0.0135
+Epoch 15/15
+ - 2s - loss: 0.0135
+Train Score: 28.80813865832806% error
+Test Score: 31.51935848476563% error
+../neighborhood142
+Epoch 1/15
+ - 12s - loss: 0.0172
+Epoch 2/15
+ - 2s - loss: 0.0163
+Epoch 3/15
+ - 2s - loss: 0.0160
+Epoch 4/15
+ - 2s - loss: 0.0157
+Epoch 5/15
+ - 2s - loss: 0.0158
+Epoch 6/15
+ - 2s - loss: 0.0157
+Epoch 7/15
+ - 2s - loss: 0.0156
+Epoch 8/15
+ - 2s - loss: 0.0156
+Epoch 9/15
+ - 2s - loss: 0.0155
+Epoch 10/15
+ - 2s - loss: 0.0154
+Epoch 11/15
+ - 2s - loss: 0.0154
+Epoch 12/15
+ - 2s - loss: 0.0153
+Epoch 13/15
+ - 2s - loss: 0.0152
+Epoch 14/15
+ - 2s - loss: 0.0152
+Epoch 15/15
+ - 2s - loss: 0.0150
+Train Score: 44.93720263473266% error
+Test Score: 46.472928546735936% error
+../neighborhood143
+Epoch 1/15
+ - 12s - loss: 0.0177
+Epoch 2/15
+ - 2s - loss: 0.0175
+Epoch 3/15
+ - 2s - loss: 0.0175
+Epoch 4/15
+ - 2s - loss: 0.0175
+Epoch 5/15
+ - 2s - loss: 0.0174
+Epoch 6/15
+ - 2s - loss: 0.0173
+Epoch 7/15
+ - 2s - loss: 0.0174
+Epoch 8/15
+ - 2s - loss: 0.0172
+Epoch 9/15
+ - 2s - loss: 0.0172
+Epoch 10/15
+ - 2s - loss: 0.0172
+Epoch 11/15
+ - 2s - loss: 0.0172
+Epoch 12/15
+ - 2s - loss: 0.0172
+Epoch 13/15
+ - 2s - loss: 0.0173
+Epoch 14/15
+ - 2s - loss: 0.0170
+Epoch 15/15
+ - 2s - loss: 0.0171
+Train Score: 63.409986654352565% error
+Test Score: 61.82300681507574% error
+../neighborhood144
+Epoch 1/15
+ - 12s - loss: 0.0089
+Epoch 2/15
+ - 2s - loss: 0.0089
+Epoch 3/15
+ - 2s - loss: 0.0090
+Epoch 4/15
+ - 2s - loss: 0.0089
+Epoch 5/15
+ - 2s - loss: 0.0089
+Epoch 6/15
+ - 2s - loss: 0.0089
+Epoch 7/15
+ - 2s - loss: 0.0089
+Epoch 8/15
+ - 2s - loss: 0.0089
+Epoch 9/15
+ - 2s - loss: 0.0088
+Epoch 10/15
+ - 2s - loss: 0.0089
+Epoch 11/15
+ - 2s - loss: 0.0089
+Epoch 12/15
+ - 2s - loss: 0.0090
+Epoch 13/15
+ - 2s - loss: 0.0090
+Epoch 14/15
+ - 3s - loss: 0.0089
+Epoch 15/15
+ - 3s - loss: 0.0088
+Train Score: 31.399221054308917% error
+Test Score: 31.103288438752845% error
+../neighborhood145
+Epoch 1/15
+ - 12s - loss: 0.0166
+Epoch 2/15
+ - 2s - loss: 0.0164
+Epoch 3/15
+ - 2s - loss: 0.0161
+Epoch 4/15
+ - 2s - loss: 0.0162
+Epoch 5/15
+ - 2s - loss: 0.0160
+Epoch 6/15
+ - 2s - loss: 0.0160
+Epoch 7/15
+ - 2s - loss: 0.0159
+Epoch 8/15
+ - 2s - loss: 0.0160
+Epoch 9/15
+ - 2s - loss: 0.0160
+Epoch 10/15
+ - 2s - loss: 0.0161
+Epoch 11/15
+ - 2s - loss: 0.0158
+Epoch 12/15
+ - 2s - loss: 0.0160
+Epoch 13/15
+ - 2s - loss: 0.0160
+Epoch 14/15
+ - 2s - loss: 0.0160
+Epoch 15/15
+ - 2s - loss: 0.0160
+Train Score: 46.22598583845135% error
+Test Score: 943519379.0585177% error
+../neighborhood146
+Epoch 1/15
+ - 12s - loss: 0.0056
+Epoch 2/15
+ - 2s - loss: 0.0056
+Epoch 3/15
+ - 2s - loss: 0.0055
+Epoch 4/15
+ - 2s - loss: 0.0055
+Epoch 5/15
+ - 2s - loss: 0.0055
+Epoch 6/15
+ - 2s - loss: 0.0055
+Epoch 7/15
+ - 2s - loss: 0.0055
+Epoch 8/15
+ - 2s - loss: 0.0055
+Epoch 9/15
+ - 2s - loss: 0.0055
+Epoch 10/15
+ - 2s - loss: 0.0054
+Epoch 11/15
+ - 2s - loss: 0.0055
+Epoch 12/15
+ - 2s - loss: 0.0055
+Epoch 13/15
+ - 2s - loss: 0.0055
+Epoch 14/15
+ - 2s - loss: 0.0055
+Epoch 15/15
+ - 2s - loss: 0.0055
+Train Score: 41.37080407001334% error
+Test Score: 44.19946935554327% error
+../neighborhood147
+Epoch 1/15
+ - 12s - loss: 0.0249
+Epoch 2/15
+ - 2s - loss: 0.0248
+Epoch 3/15
+ - 2s - loss: 0.0248
+Epoch 4/15
+ - 2s - loss: 0.0249
+Epoch 5/15
+ - 2s - loss: 0.0248
+Epoch 6/15
+ - 2s - loss: 0.0247
+Epoch 7/15
+ - 2s - loss: 0.0248
+Epoch 8/15
+ - 2s - loss: 0.0248
+Epoch 9/15
+ - 2s - loss: 0.0247
+Epoch 10/15
+ - 2s - loss: 0.0248
+Epoch 11/15
+ - 2s - loss: 0.0247
+Epoch 12/15
+ - 2s - loss: 0.0247
+Epoch 13/15
+ - 2s - loss: 0.0248
+Epoch 14/15
+ - 2s - loss: 0.0247
+Epoch 15/15
+ - 2s - loss: 0.0247
+Train Score: 1474159702.5395093% error
+Test Score: 1479589703.3423343% error
+../neighborhood148
+Epoch 1/15
+ - 12s - loss: 0.0096
+Epoch 2/15
+ - 2s - loss: 0.0069
+Epoch 3/15
+ - 2s - loss: 0.0063
+Epoch 4/15
+ - 2s - loss: 0.0061
+Epoch 5/15
+ - 2s - loss: 0.0060
+Epoch 6/15
+ - 2s - loss: 0.0060
+Epoch 7/15
+ - 2s - loss: 0.0060
+Epoch 8/15
+ - 2s - loss: 0.0059
+Epoch 9/15
+ - 2s - loss: 0.0059
+Epoch 10/15
+ - 2s - loss: 0.0059
+Epoch 11/15
+ - 2s - loss: 0.0059
+Epoch 12/15
+ - 2s - loss: 0.0059
+Epoch 13/15
+ - 2s - loss: 0.0058
+Epoch 14/15
+ - 2s - loss: 0.0058
+Epoch 15/15
+ - 2s - loss: 0.0058
+Train Score: 40.06222472207942% error
+Test Score: 42.748346875551114% error
+../neighborhood149
+Epoch 1/15
+ - 13s - loss: 0.0114
+Epoch 2/15
+ - 2s - loss: 0.0113
+Epoch 3/15
+ - 2s - loss: 0.0113
+Epoch 4/15
+ - 2s - loss: 0.0113
+Epoch 5/15
+ - 2s - loss: 0.0113
+Epoch 6/15
+ - 2s - loss: 0.0113
+Epoch 7/15
+ - 2s - loss: 0.0113
+Epoch 8/15
+ - 2s - loss: 0.0113
+Epoch 9/15
+ - 2s - loss: 0.0114
+Epoch 10/15
+ - 2s - loss: 0.0113
+Epoch 11/15
+ - 2s - loss: 0.0113
+Epoch 12/15
+ - 2s - loss: 0.0113
+Epoch 13/15
+ - 2s - loss: 0.0113
+Epoch 14/15
+ - 2s - loss: 0.0113
+Epoch 15/15
+ - 2s - loss: 0.0114
+Train Score: 697411103.1792411% error
+Test Score: 695686616.8755826% error
+../neighborhood150
+Epoch 1/15
+ - 13s - loss: 0.0122
+Epoch 2/15
+ - 2s - loss: 0.0122
+Epoch 3/15
+ - 2s - loss: 0.0122
+Epoch 4/15
+ - 2s - loss: 0.0121
+Epoch 5/15
+ - 2s - loss: 0.0122
+Epoch 6/15
+ - 2s - loss: 0.0121
+Epoch 7/15
+ - 2s - loss: 0.0121
+Epoch 8/15
+ - 2s - loss: 0.0121
+Epoch 9/15
+ - 2s - loss: 0.0121
+Epoch 10/15
+ - 2s - loss: 0.0121
+Epoch 11/15
+ - 2s - loss: 0.0122
+Epoch 12/15
+ - 2s - loss: 0.0121
+Epoch 13/15
+ - 2s - loss: 0.0120
+Epoch 14/15
+ - 2s - loss: 0.0120
+Epoch 15/15
+ - 2s - loss: 0.0122
+Train Score: 1011779743.026401% error
+Test Score: 1020848875.2598699% error
+../neighborhood151
+Epoch 1/15
+ - 13s - loss: 0.0160
+Epoch 2/15
+ - 2s - loss: 0.0151
+Epoch 3/15
+ - 2s - loss: 0.0149
+Epoch 4/15
+ - 2s - loss: 0.0150
+Epoch 5/15
+ - 2s - loss: 0.0148
+Epoch 6/15
+ - 2s - loss: 0.0149
+Epoch 7/15
+ - 2s - loss: 0.0149
+Epoch 8/15
+ - 2s - loss: 0.0148
+Epoch 9/15
+ - 2s - loss: 0.0147
+Epoch 10/15
+ - 2s - loss: 0.0149
+Epoch 11/15
+ - 2s - loss: 0.0147
+Epoch 12/15
+ - 2s - loss: 0.0147
+Epoch 13/15
+ - 2s - loss: 0.0147
+Epoch 14/15
+ - 2s - loss: 0.0146
+Epoch 15/15
+ - 2s - loss: 0.0147
+Train Score: 41.21624610866835% error
+Test Score: 42.25785097364725% error
+../neighborhood152
+Epoch 1/15
+ - 13s - loss: 0.0181
+Epoch 2/15
+ - 2s - loss: 0.0181
+Epoch 3/15
+ - 2s - loss: 0.0182
+Epoch 4/15
+ - 2s - loss: 0.0180
+Epoch 5/15
+ - 2s - loss: 0.0178
+Epoch 6/15
+ - 2s - loss: 0.0180
+Epoch 7/15
+ - 2s - loss: 0.0180
+Epoch 8/15
+ - 2s - loss: 0.0180
+Epoch 9/15
+ - 2s - loss: 0.0180
+Epoch 10/15
+ - 2s - loss: 0.0181
+Epoch 11/15
+ - 2s - loss: 0.0179
+Epoch 12/15
+ - 2s - loss: 0.0179
+Epoch 13/15
+ - 2s - loss: 0.0177
+Epoch 14/15
+ - 2s - loss: 0.0179
+Epoch 15/15
+ - 2s - loss: 0.0177
+Train Score: 388889800.57517254% error
+Test Score: 2281832458.7627077% error
+../neighborhood153
+Epoch 1/15
+ - 13s - loss: 0.0388
+Epoch 2/15
+ - 2s - loss: 0.0393
+Epoch 3/15
+ - 2s - loss: 0.0393
+Epoch 4/15
+ - 2s - loss: 0.0392
+Epoch 5/15
+ - 2s - loss: 0.0392
+Epoch 6/15
+ - 2s - loss: 0.0392
+Epoch 7/15
+ - 2s - loss: 0.0392
+Epoch 8/15
+ - 2s - loss: 0.0392
+Epoch 9/15
+ - 2s - loss: 0.0391
+Epoch 10/15
+ - 2s - loss: 0.0392
+Epoch 11/15
+ - 2s - loss: 0.0392
+Epoch 12/15
+ - 2s - loss: 0.0391
+Epoch 13/15
+ - 2s - loss: 0.0392
+Epoch 14/15
+ - 2s - loss: 0.0392
+Epoch 15/15
+ - 2s - loss: 0.0391
+Train Score: 2532347050.1101284% error
+Test Score: 2443594283.6601624% error
+../neighborhood154
+Epoch 1/15
+ - 13s - loss: 0.0070
+Epoch 2/15
+ - 2s - loss: 0.0070
+Epoch 3/15
+ - 2s - loss: 0.0070
+Epoch 4/15
+ - 2s - loss: 0.0069
+Epoch 5/15
+ - 2s - loss: 0.0070
+Epoch 6/15
+ - 2s - loss: 0.0070
+Epoch 7/15
+ - 2s - loss: 0.0070
+Epoch 8/15
+ - 2s - loss: 0.0070
+Epoch 9/15
+ - 2s - loss: 0.0069
+Epoch 10/15
+ - 2s - loss: 0.0070
+Epoch 11/15
+ - 2s - loss: 0.0070
+Epoch 12/15
+ - 2s - loss: 0.0069
+Epoch 13/15
+ - 2s - loss: 0.0070
+Epoch 14/15
+ - 2s - loss: 0.0070
+Epoch 15/15
+ - 2s - loss: 0.0070
+Train Score: 700839845.6817995% error
+Test Score: 680282651.8084667% error
+../neighborhood155
+Epoch 1/15
+ - 13s - loss: 0.0116
+Epoch 2/15
+ - 2s - loss: 0.0115
+Epoch 3/15
+ - 2s - loss: 0.0116
+Epoch 4/15
+ - 2s - loss: 0.0116
+Epoch 5/15
+ - 2s - loss: 0.0115
+Epoch 6/15
+ - 2s - loss: 0.0116
+Epoch 7/15
+ - 2s - loss: 0.0115
+Epoch 8/15
+ - 2s - loss: 0.0115
+Epoch 9/15
+ - 2s - loss: 0.0116
+Epoch 10/15
+ - 2s - loss: 0.0116
+Epoch 11/15
+ - 2s - loss: 0.0116
+Epoch 12/15
+ - 2s - loss: 0.0115
+Epoch 13/15
+ - 2s - loss: 0.0115
+Epoch 14/15
+ - 2s - loss: 0.0116
+Epoch 15/15
+ - 2s - loss: 0.0115
+Train Score: 1285825212.8494143% error
+Test Score: 1285618527.7446716% error
+../neighborhood156
+Epoch 1/15
+ - 13s - loss: 0.0041
+Epoch 2/15
+ - 2s - loss: 0.0041
+Epoch 3/15
+ - 2s - loss: 0.0041
+Epoch 4/15
+ - 2s - loss: 0.0041
+Epoch 5/15
+ - 2s - loss: 0.0041
+Epoch 6/15
+ - 2s - loss: 0.0041
+Epoch 7/15
+ - 2s - loss: 0.0041
+Epoch 8/15
+ - 2s - loss: 0.0041
+Epoch 9/15
+ - 2s - loss: 0.0040
+Epoch 10/15
+ - 2s - loss: 0.0041
+Epoch 11/15
+ - 2s - loss: 0.0041
+Epoch 12/15
+ - 2s - loss: 0.0041
+Epoch 13/15
+ - 2s - loss: 0.0041
+Epoch 14/15
+ - 2s - loss: 0.0040
+Epoch 15/15
+ - 2s - loss: 0.0041
+Train Score: 2052203.5788462835% error
+Test Score: 2056265.985992045% error
+../neighborhood157
+Epoch 1/15
+ - 13s - loss: 0.0139
+Epoch 2/15
+ - 2s - loss: 0.0138
+Epoch 3/15
+ - 2s - loss: 0.0138
+Epoch 4/15
+ - 2s - loss: 0.0138
+Epoch 5/15
+ - 2s - loss: 0.0138
+Epoch 6/15
+ - 2s - loss: 0.0138
+Epoch 7/15
+ - 2s - loss: 0.0138
+Epoch 8/15
+ - 2s - loss: 0.0138
+Epoch 9/15
+ - 2s - loss: 0.0138
+Epoch 10/15
+ - 2s - loss: 0.0138
+Epoch 11/15
+ - 2s - loss: 0.0138
+Epoch 12/15
+ - 2s - loss: 0.0138
+Epoch 13/15
+ - 2s - loss: 0.0138
+Epoch 14/15
+ - 2s - loss: 0.0138
+Epoch 15/15
+ - 2s - loss: 0.0138
+Train Score: 6340899308.609473% error
+Test Score: 5863702765.483575% error
+../neighborhood158
+Epoch 1/15
+ - 13s - loss: 0.0091
+Epoch 2/15
+ - 2s - loss: 0.0090
+Epoch 3/15
+ - 2s - loss: 0.0091
+Epoch 4/15
+ - 2s - loss: 0.0090
+Epoch 5/15
+ - 2s - loss: 0.0090
+Epoch 6/15
+ - 2s - loss: 0.0089
+Epoch 7/15
+ - 2s - loss: 0.0090
+Epoch 8/15
+ - 2s - loss: 0.0090
+Epoch 9/15
+ - 2s - loss: 0.0090
+Epoch 10/15
+ - 2s - loss: 0.0089
+Epoch 11/15
+ - 2s - loss: 0.0089
+Epoch 12/15
+ - 2s - loss: 0.0090
+Epoch 13/15
+ - 2s - loss: 0.0090
+Epoch 14/15
+ - 2s - loss: 0.0089
+Epoch 15/15
+ - 2s - loss: 0.0090
+Train Score: 42.307542588758984% error
+Test Score: 39.142753275628685% error
+../neighborhood159
+Epoch 1/15
+ - 14s - loss: 0.0234
+Epoch 2/15
+ - 2s - loss: 0.0235
+Epoch 3/15
+ - 2s - loss: 0.0234
+Epoch 4/15
+ - 2s - loss: 0.0234
+Epoch 5/15
+ - 2s - loss: 0.0234
+Epoch 6/15
+ - 2s - loss: 0.0234
+Epoch 7/15
+ - 2s - loss: 0.0234
+Epoch 8/15
+ - 2s - loss: 0.0231
+Epoch 9/15
+ - 2s - loss: 0.0234
+Epoch 10/15
+ - 2s - loss: 0.0234
+Epoch 11/15
+ - 2s - loss: 0.0235
+Epoch 12/15
+ - 2s - loss: 0.0235
+Epoch 13/15
+ - 2s - loss: 0.0234
+Epoch 14/15
+ - 2s - loss: 0.0235
+Epoch 15/15
+ - 2s - loss: 0.0235
+Train Score: 6852220395.181148% error
+Test Score: 7948476059.203651% error
+../neighborhood160
+Epoch 1/15
+ - 14s - loss: 0.0208
+Epoch 2/15
+ - 2s - loss: 0.0209
+Epoch 3/15
+ - 2s - loss: 0.0208
+Epoch 4/15
+ - 2s - loss: 0.0208
+Epoch 5/15
+ - 2s - loss: 0.0209
+Epoch 6/15
+ - 2s - loss: 0.0207
+Epoch 7/15
+ - 2s - loss: 0.0208
+Epoch 8/15
+ - 2s - loss: 0.0206
+Epoch 9/15
+ - 2s - loss: 0.0208
+Epoch 10/15
+ - 2s - loss: 0.0207
+Epoch 11/15
+ - 3s - loss: 0.0207
+Epoch 12/15
+ - 2s - loss: 0.0206
+Epoch 13/15
+ - 2s - loss: 0.0207
+Epoch 14/15
+ - 2s - loss: 0.0206
+Epoch 15/15
+ - 2s - loss: 0.0207
+Train Score: 3471321079.7712727% error
+Test Score: 3326323966.5301633% error
+../neighborhood161
+Epoch 1/15
+ - 13s - loss: 0.0131
+Epoch 2/15
+ - 2s - loss: 0.0129
+Epoch 3/15
+ - 2s - loss: 0.0128
+Epoch 4/15
+ - 2s - loss: 0.0127
+Epoch 5/15
+ - 2s - loss: 0.0127
+Epoch 6/15
+ - 2s - loss: 0.0127
+Epoch 7/15
+ - 2s - loss: 0.0127
+Epoch 8/15
+ - 2s - loss: 0.0126
+Epoch 9/15
+ - 2s - loss: 0.0124
+Epoch 10/15
+ - 2s - loss: 0.0125
+Epoch 11/15
+ - 2s - loss: 0.0125
+Epoch 12/15
+ - 2s - loss: 0.0124
+Epoch 13/15
+ - 2s - loss: 0.0125
+Epoch 14/15
+ - 2s - loss: 0.0123
+Epoch 15/15
+ - 2s - loss: 0.0123
+Train Score: 44.90023696149673% error
+Test Score: 52.56022196950564% error
+../neighborhood162
+Epoch 1/15
+ - 14s - loss: 0.0138
+Epoch 2/15
+ - 2s - loss: 0.0126
+Epoch 3/15
+ - 2s - loss: 0.0124
+Epoch 4/15
+ - 2s - loss: 0.0125
+Epoch 5/15
+ - 2s - loss: 0.0124
+Epoch 6/15
+ - 2s - loss: 0.0125
+Epoch 7/15
+ - 2s - loss: 0.0125
+Epoch 8/15
+ - 2s - loss: 0.0124
+Epoch 9/15
+ - 2s - loss: 0.0126
+Epoch 10/15
+ - 2s - loss: 0.0126
+Epoch 11/15
+ - 2s - loss: 0.0125
+Epoch 12/15
+ - 2s - loss: 0.0125
+Epoch 13/15
+ - 2s - loss: 0.0125
+Epoch 14/15
+ - 2s - loss: 0.0125
+Epoch 15/15
+ - 2s - loss: 0.0126
+Train Score: 35.06827761993757% error
+Test Score: 38.37042401118321% error
+../neighborhood163
+Epoch 1/15
+ - 14s - loss: 0.0129
+Epoch 2/15
+ - 2s - loss: 0.0129
+Epoch 3/15
+ - 2s - loss: 0.0127
+Epoch 4/15
+ - 2s - loss: 0.0129
+Epoch 5/15
+ - 2s - loss: 0.0127
+Epoch 6/15
+ - 2s - loss: 0.0127
+Epoch 7/15
+ - 2s - loss: 0.0128
+Epoch 8/15
+ - 2s - loss: 0.0127
+Epoch 9/15
+ - 2s - loss: 0.0126
+Epoch 10/15
+ - 2s - loss: 0.0127
+Epoch 11/15
+ - 2s - loss: 0.0126
+Epoch 12/15
+ - 2s - loss: 0.0126
+Epoch 13/15
+ - 2s - loss: 0.0126
+Epoch 14/15
+ - 2s - loss: 0.0125
+Epoch 15/15
+ - 2s - loss: 0.0125
+Train Score: 33.735932259706566% error
+Test Score: 36.44906690871167% error
+../neighborhood164
+Epoch 1/15
+ - 14s - loss: 0.0129
+Epoch 2/15
+ - 2s - loss: 0.0127
+Epoch 3/15
+ - 2s - loss: 0.0127
+Epoch 4/15
+ - 2s - loss: 0.0128
+Epoch 5/15
+ - 2s - loss: 0.0127
+Epoch 6/15
+ - 2s - loss: 0.0126
+Epoch 7/15
+ - 2s - loss: 0.0127
+Epoch 8/15
+ - 2s - loss: 0.0127
+Epoch 9/15
+ - 2s - loss: 0.0127
+Epoch 10/15
+ - 2s - loss: 0.0127
+Epoch 11/15
+ - 2s - loss: 0.0126
+Epoch 12/15
+ - 2s - loss: 0.0126
+Epoch 13/15
+ - 2s - loss: 0.0126
+Epoch 14/15
+ - 2s - loss: 0.0127
+Epoch 15/15
+ - 2s - loss: 0.0126
+Train Score: 24.732885030082787% error
+Test Score: 26.175709896269243% error
+../neighborhood165
+Epoch 1/15
+ - 14s - loss: 0.0101
+Epoch 2/15
+ - 2s - loss: 0.0100
+Epoch 3/15
+ - 2s - loss: 0.0100
+Epoch 4/15
+ - 2s - loss: 0.0100
+Epoch 5/15
+ - 2s - loss: 0.0100
+Epoch 6/15
+ - 2s - loss: 0.0100
+Epoch 7/15
+ - 2s - loss: 0.0100
+Epoch 8/15
+ - 2s - loss: 0.0099
+Epoch 9/15
+ - 2s - loss: 0.0100
+Epoch 10/15
+ - 2s - loss: 0.0099
+Epoch 11/15
+ - 2s - loss: 0.0100
+Epoch 12/15
+ - 2s - loss: 0.0099
+Epoch 13/15
+ - 2s - loss: 0.0099
+Epoch 14/15
+ - 2s - loss: 0.0099
+Epoch 15/15
+ - 2s - loss: 0.0100
+Train Score: 3345486776.8662252% error
+Test Score: 3267591043.810262% error
+../neighborhood166
+Epoch 1/15
+ - 14s - loss: 0.0083
+Epoch 2/15
+ - 2s - loss: 0.0081
+Epoch 3/15
+ - 2s - loss: 0.0081
+Epoch 4/15
+ - 2s - loss: 0.0081
+Epoch 5/15
+ - 2s - loss: 0.0080
+Epoch 6/15
+ - 2s - loss: 0.0078
+Epoch 7/15
+ - 2s - loss: 0.0080
+Epoch 8/15
+ - 2s - loss: 0.0079
+Epoch 9/15
+ - 2s - loss: 0.0081
+Epoch 10/15
+ - 2s - loss: 0.0080
+Epoch 11/15
+ - 2s - loss: 0.0080
+Epoch 12/15
+ - 2s - loss: 0.0079
+Epoch 13/15
+ - 2s - loss: 0.0080
+Epoch 14/15
+ - 2s - loss: 0.0080
+Epoch 15/15
+ - 2s - loss: 0.0080
+Train Score: 41.9581959285463% error
+Test Score: 66.0153132826234% error
+../neighborhood167
+Epoch 1/15
+ - 14s - loss: 0.0345
+Epoch 2/15
+ - 2s - loss: 0.0346
+Epoch 3/15
+ - 2s - loss: 0.0346
+Epoch 4/15
+ - 2s - loss: 0.0343
+Epoch 5/15
+ - 2s - loss: 0.0345
+Epoch 6/15
+ - 2s - loss: 0.0346
+Epoch 7/15
+ - 2s - loss: 0.0344
+Epoch 8/15
+ - 2s - loss: 0.0345
+Epoch 9/15
+ - 2s - loss: 0.0344
+Epoch 10/15
+ - 2s - loss: 0.0345
+Epoch 11/15
+ - 2s - loss: 0.0345
+Epoch 12/15
+ - 2s - loss: 0.0345
+Epoch 13/15
+ - 2s - loss: 0.0346
+Epoch 14/15
+ - 2s - loss: 0.0345
+Epoch 15/15
+ - 2s - loss: 0.0346
+Train Score: 4242940741.119515% error
+Test Score: 4481320316.300724% error
+../neighborhood168
+Epoch 1/15
+ - 14s - loss: 0.0146
+Epoch 2/15
+ - 2s - loss: 0.0145
+Epoch 3/15
+ - 2s - loss: 0.0145
+Epoch 4/15
+ - 2s - loss: 0.0146
+Epoch 5/15
+ - 2s - loss: 0.0146
+Epoch 6/15
+ - 2s - loss: 0.0145
+Epoch 7/15
+ - 2s - loss: 0.0145
+Epoch 8/15
+ - 2s - loss: 0.0146
+Epoch 9/15
+ - 2s - loss: 0.0145
+Epoch 10/15
+ - 2s - loss: 0.0145
+Epoch 11/15
+ - 2s - loss: 0.0146
+Epoch 12/15
+ - 2s - loss: 0.0145
+Epoch 13/15
+ - 2s - loss: 0.0146
+Epoch 14/15
+ - 2s - loss: 0.0145
+Epoch 15/15
+ - 2s - loss: 0.0146
+Train Score: 6629122051.272266% error
+Test Score: 11599635917.985252% error
+../neighborhood169
+Epoch 1/15
+ - 14s - loss: 0.0053
+Epoch 2/15
+ - 2s - loss: 0.0052
+Epoch 3/15
+ - 2s - loss: 0.0052
+Epoch 4/15
+ - 2s - loss: 0.0052
+Epoch 5/15
+ - 2s - loss: 0.0053
+Epoch 6/15
+ - 2s - loss: 0.0053
+Epoch 7/15
+ - 2s - loss: 0.0053
+Epoch 8/15
+ - 2s - loss: 0.0052
+Epoch 9/15
+ - 2s - loss: 0.0053
+Epoch 10/15
+ - 2s - loss: 0.0053
+Epoch 11/15
+ - 2s - loss: 0.0052
+Epoch 12/15
+ - 2s - loss: 0.0053
+Epoch 13/15
+ - 2s - loss: 0.0052
+Epoch 14/15
+ - 2s - loss: 0.0052
+Epoch 15/15
+ - 2s - loss: 0.0053
+Train Score: 3481239454.8305683% error
+Test Score: 3782115534.480663% error
+../neighborhood170
+Epoch 1/15
+ - 14s - loss: 0.0138
+Epoch 2/15
+ - 2s - loss: 0.0139
+Epoch 3/15
+ - 2s - loss: 0.0138
+Epoch 4/15
+ - 2s - loss: 0.0137
+Epoch 5/15
+ - 3s - loss: 0.0135
+Epoch 6/15
+ - 2s - loss: 0.0138
+Epoch 7/15
+ - 2s - loss: 0.0136
+Epoch 8/15
+ - 2s - loss: 0.0137
+Epoch 9/15
+ - 2s - loss: 0.0136
+Epoch 10/15
+ - 2s - loss: 0.0136
+Epoch 11/15
+ - 2s - loss: 0.0135
+Epoch 12/15
+ - 2s - loss: 0.0135
+Epoch 13/15
+ - 2s - loss: 0.0135
+Epoch 14/15
+ - 2s - loss: 0.0135
+Epoch 15/15
+ - 2s - loss: 0.0134
+Train Score: 38.80767501430967% error
+Test Score: 41.24916439060013% error
+../neighborhood171
+Epoch 1/15
+ - 14s - loss: 0.0109
+Epoch 2/15
+ - 2s - loss: 0.0108
+Epoch 3/15
+ - 2s - loss: 0.0108
+Epoch 4/15
+ - 2s - loss: 0.0108
+Epoch 5/15
+ - 2s - loss: 0.0108
+Epoch 6/15
+ - 2s - loss: 0.0108
+Epoch 7/15
+ - 2s - loss: 0.0108
+Epoch 8/15
+ - 2s - loss: 0.0107
+Epoch 9/15
+ - 2s - loss: 0.0108
+Epoch 10/15
+ - 2s - loss: 0.0108
+Epoch 11/15
+ - 2s - loss: 0.0108
+Epoch 12/15
+ - 2s - loss: 0.0108
+Epoch 13/15
+ - 2s - loss: 0.0108
+Epoch 14/15
+ - 2s - loss: 0.0107
+Epoch 15/15
+ - 2s - loss: 0.0108
+Train Score: 1441095823.5238516% error
+Test Score: 1505164572.1331651% error
+../neighborhood172
+Epoch 1/15
+ - 14s - loss: 0.0061
+Epoch 2/15
+ - 2s - loss: 0.0060
+Epoch 3/15
+ - 2s - loss: 0.0061
+Epoch 4/15
+ - 2s - loss: 0.0061
+Epoch 5/15
+ - 2s - loss: 0.0061
+Epoch 6/15
+ - 2s - loss: 0.0061
+Epoch 7/15
+ - 2s - loss: 0.0061
+Epoch 8/15
+ - 2s - loss: 0.0061
+Epoch 9/15
+ - 2s - loss: 0.0061
+Epoch 10/15
+ - 2s - loss: 0.0060
+Epoch 11/15
+ - 2s - loss: 0.0060
+Epoch 12/15
+ - 2s - loss: 0.0061
+Epoch 13/15
+ - 2s - loss: 0.0061
+Epoch 14/15
+ - 2s - loss: 0.0061
+Epoch 15/15
+ - 2s - loss: 0.0061
+Train Score: 51334747.472471274% error
+Test Score: 51437202.738359645% error
+../neighborhood173
+Epoch 1/15
+ - 14s - loss: 0.0209
+Epoch 2/15
+ - 2s - loss: 0.0209
+Epoch 3/15
+ - 2s - loss: 0.0209
+Epoch 4/15
+ - 2s - loss: 0.0209
+Epoch 5/15
+ - 2s - loss: 0.0210
+Epoch 6/15
+ - 2s - loss: 0.0209
+Epoch 7/15
+ - 2s - loss: 0.0208
+Epoch 8/15
+ - 2s - loss: 0.0208
+Epoch 9/15
+ - 2s - loss: 0.0209
+Epoch 10/15
+ - 2s - loss: 0.0209
+Epoch 11/15
+ - 2s - loss: 0.0209
+Epoch 12/15
+ - 2s - loss: 0.0209
+Epoch 13/15
+ - 2s - loss: 0.0209
+Epoch 14/15
+ - 2s - loss: 0.0208
+Epoch 15/15
+ - 2s - loss: 0.0209
+Train Score: 5505069912.483843% error
+Test Score: 5045283879.151969% error
+../neighborhood174
+Epoch 1/15
+ - 15s - loss: 0.0187
+Epoch 2/15
+ - 2s - loss: 0.0187
+Epoch 3/15
+ - 2s - loss: 0.0186
+Epoch 4/15
+ - 2s - loss: 0.0187
+Epoch 5/15
+ - 2s - loss: 0.0187
+Epoch 6/15
+ - 2s - loss: 0.0187
+Epoch 7/15
+ - 2s - loss: 0.0186
+Epoch 8/15
+ - 2s - loss: 0.0187
+Epoch 9/15
+ - 2s - loss: 0.0187
+Epoch 10/15
+ - 2s - loss: 0.0186
+Epoch 11/15
+ - 2s - loss: 0.0187
+Epoch 12/15
+ - 2s - loss: 0.0185
+Epoch 13/15
+ - 2s - loss: 0.0187
+Epoch 14/15
+ - 2s - loss: 0.0187
+Epoch 15/15
+ - 2s - loss: 0.0187
+Train Score: 2474446555.0730133% error
+Test Score: 2716086560.9592113% error
+../neighborhood175
+Epoch 1/15
+ - 15s - loss: 0.0108
+Epoch 2/15
+ - 2s - loss: 0.0107
+Epoch 3/15
+ - 2s - loss: 0.0107
+Epoch 4/15
+ - 2s - loss: 0.0107
+Epoch 5/15
+ - 2s - loss: 0.0107
+Epoch 6/15
+ - 2s - loss: 0.0107
+Epoch 7/15
+ - 2s - loss: 0.0107
+Epoch 8/15
+ - 2s - loss: 0.0108
+Epoch 9/15
+ - 2s - loss: 0.0107
+Epoch 10/15
+ - 2s - loss: 0.0107
+Epoch 11/15
+ - 2s - loss: 0.0108
+Epoch 12/15
+ - 2s - loss: 0.0107
+Epoch 13/15
+ - 2s - loss: 0.0108
+Epoch 14/15
+ - 2s - loss: 0.0107
+Epoch 15/15
+ - 2s - loss: 0.0107
+Train Score: 429815448.39184463% error
+Test Score: 434060270.3368589% error
+../neighborhood176
+Epoch 1/15
+ - 15s - loss: 0.0000e+00
+Epoch 2/15
+ - 2s - loss: 0.0000e+00
+Epoch 3/15
+ - 2s - loss: 0.0000e+00
+Epoch 4/15
+ - 2s - loss: 0.0000e+00
+Epoch 5/15
+ - 2s - loss: 0.0000e+00
+Epoch 6/15
+ - 2s - loss: 0.0000e+00
+Epoch 7/15
+ - 2s - loss: 0.0000e+00
+Epoch 8/15
+ - 2s - loss: 0.0000e+00
+Epoch 9/15
+ - 2s - loss: 0.0000e+00
+Epoch 10/15
+ - 2s - loss: 0.0000e+00
+Epoch 11/15
+ - 2s - loss: 0.0000e+00
+Epoch 12/15
+ - 2s - loss: 0.0000e+00
+Epoch 13/15
+ - 2s - loss: 0.0000e+00
+Epoch 14/15
+ - 2s - loss: 0.0000e+00
+Epoch 15/15
+ - 2s - loss: 0.0000e+00
+Train Score: 0.0% error
+Test Score: 0.0% error
+../neighborhood177
+Epoch 1/15
+ - 15s - loss: 0.0250
+Epoch 2/15
+ - 2s - loss: 0.0250
+Epoch 3/15
+ - 2s - loss: 0.0250
+Epoch 4/15
+ - 2s - loss: 0.0250
+Epoch 5/15
+ - 2s - loss: 0.0250
+Epoch 6/15
+ - 2s - loss: 0.0250
+Epoch 7/15
+ - 2s - loss: 0.0250
+Epoch 8/15
+ - 2s - loss: 0.0250
+Epoch 9/15
+ - 2s - loss: 0.0249
+Epoch 10/15
+ - 2s - loss: 0.0250
+Epoch 11/15
+ - 2s - loss: 0.0250
+Epoch 12/15
+ - 2s - loss: 0.0250
+Epoch 13/15
+ - 2s - loss: 0.0250
+Epoch 14/15
+ - 2s - loss: 0.0250
+Epoch 15/15
+ - 2s - loss: 0.0249
+Train Score: 6299739387.801514% error
+Test Score: 7194160988.02005% error
+../neighborhood178
+Epoch 1/15
+ - 15s - loss: 0.0182
+Epoch 2/15
+ - 2s - loss: 0.0183
+Epoch 3/15
+ - 2s - loss: 0.0183
+Epoch 4/15
+ - 2s - loss: 0.0183
+Epoch 5/15
+ - 2s - loss: 0.0184
+Epoch 6/15
+ - 2s - loss: 0.0182
+Epoch 7/15
+ - 2s - loss: 0.0183
+Epoch 8/15
+ - 2s - loss: 0.0182
+Epoch 9/15
+ - 2s - loss: 0.0183
+Epoch 10/15
+ - 2s - loss: 0.0183
+Epoch 11/15
+ - 2s - loss: 0.0182
+Epoch 12/15
+ - 2s - loss: 0.0182
+Epoch 13/15
+ - 2s - loss: 0.0183
+Epoch 14/15
+ - 2s - loss: 0.0183
+Epoch 15/15
+ - 2s - loss: 0.0184
+Train Score: 3557337983.543204% error
+Test Score: 3600772818.4072695% error
+../neighborhood179
+Epoch 1/15
+ - 15s - loss: 0.0096
+Epoch 2/15
+ - 2s - loss: 0.0091
+Epoch 3/15
+ - 2s - loss: 0.0087
+Epoch 4/15
+ - 2s - loss: 0.0086
+Epoch 5/15
+ - 2s - loss: 0.0086
+Epoch 6/15
+ - 2s - loss: 0.0087
+Epoch 7/15
+ - 2s - loss: 0.0085
+Epoch 8/15
+ - 2s - loss: 0.0086
+Epoch 9/15
+ - 2s - loss: 0.0086
+Epoch 10/15
+ - 2s - loss: 0.0086
+Epoch 11/15
+ - 2s - loss: 0.0085
+Epoch 12/15
+ - 2s - loss: 0.0086
+Epoch 13/15
+ - 2s - loss: 0.0086
+Epoch 14/15
+ - 2s - loss: 0.0084
+Epoch 15/15
+ - 2s - loss: 0.0086
+Train Score: 1096990434.5736008% error
+Test Score: 1478702462.7654133% error
+../neighborhood180
+Epoch 1/15
+ - 15s - loss: 0.0157
+Epoch 2/15
+ - 2s - loss: 0.0157
+Epoch 3/15
+ - 2s - loss: 0.0157
+Epoch 4/15
+ - 2s - loss: 0.0157
+Epoch 5/15
+ - 2s - loss: 0.0157
+Epoch 6/15
+ - 2s - loss: 0.0157
+Epoch 7/15
+ - 2s - loss: 0.0156
+Epoch 8/15
+ - 2s - loss: 0.0156
+Epoch 9/15
+ - 2s - loss: 0.0157
+Epoch 10/15
+ - 2s - loss: 0.0157
+Epoch 11/15
+ - 2s - loss: 0.0157
+Epoch 12/15
+ - 2s - loss: 0.0156
+Epoch 13/15
+ - 2s - loss: 0.0157
+Epoch 14/15
+ - 2s - loss: 0.0157
+Epoch 15/15
+ - 2s - loss: 0.0157
+Train Score: 2545701846.3315988% error
+Test Score: 2671851848.1819844% error
+../neighborhood181
+Epoch 1/15
+ - 15s - loss: 0.0101
+Epoch 2/15
+ - 2s - loss: 0.0098
+Epoch 3/15
+ - 2s - loss: 0.0096
+Epoch 4/15
+ - 2s - loss: 0.0095
+Epoch 5/15
+ - 2s - loss: 0.0095
+Epoch 6/15
+ - 2s - loss: 0.0094
+Epoch 7/15
+ - 2s - loss: 0.0093
+Epoch 8/15
+ - 2s - loss: 0.0095
+Epoch 9/15
+ - 2s - loss: 0.0094
+Epoch 10/15
+ - 2s - loss: 0.0093
+Epoch 11/15
+ - 2s - loss: 0.0094
+Epoch 12/15
+ - 2s - loss: 0.0094
+Epoch 13/15
+ - 2s - loss: 0.0093
+Epoch 14/15
+ - 2s - loss: 0.0093
+Epoch 15/15
+ - 2s - loss: 0.0094
+Train Score: 1113101784.2750196% error
+Test Score: 1508626794.5614314% error
+../neighborhood182
+Epoch 1/15
+ - 15s - loss: 0.0137
+Epoch 2/15
+ - 2s - loss: 0.0137
+Epoch 3/15
+ - 2s - loss: 0.0137
+Epoch 4/15
+ - 2s - loss: 0.0136
+Epoch 5/15
+ - 2s - loss: 0.0137
+Epoch 6/15
+ - 2s - loss: 0.0137
+Epoch 7/15
+ - 2s - loss: 0.0136
+Epoch 8/15
+ - 2s - loss: 0.0136
+Epoch 9/15
+ - 2s - loss: 0.0136
+Epoch 10/15
+ - 2s - loss: 0.0136
+Epoch 11/15
+ - 2s - loss: 0.0137
+Epoch 12/15
+ - 2s - loss: 0.0135
+Epoch 13/15
+ - 2s - loss: 0.0136
+Epoch 14/15
+ - 2s - loss: 0.0137
+Epoch 15/15
+ - 2s - loss: 0.0136
+Train Score: 2653917051.6060095% error
+Test Score: 2706148644.4557166% error
+../neighborhood183
+Epoch 1/15
+ - 15s - loss: 0.0219
+Epoch 2/15
+ - 2s - loss: 0.0218
+Epoch 3/15
+ - 2s - loss: 0.0218
+Epoch 4/15
+ - 2s - loss: 0.0219
+Epoch 5/15
+ - 2s - loss: 0.0217
+Epoch 6/15
+ - 2s - loss: 0.0217
+Epoch 7/15
+ - 2s - loss: 0.0218
+Epoch 8/15
+ - 2s - loss: 0.0218
+Epoch 9/15
+ - 2s - loss: 0.0218
+Epoch 10/15
+ - 2s - loss: 0.0218
+Epoch 11/15
+ - 2s - loss: 0.0218
+Epoch 12/15
+ - 2s - loss: 0.0218
+Epoch 13/15
+ - 2s - loss: 0.0218
+Epoch 14/15
+ - 2s - loss: 0.0218
+Epoch 15/15
+ - 2s - loss: 0.0217
+Train Score: 226457393.59203088% error
+Test Score: 227609919.01975605% error
+../neighborhood184
+Epoch 1/15
+ - 15s - loss: 0.0101
+Epoch 2/15
+ - 2s - loss: 0.0101
+Epoch 3/15
+ - 2s - loss: 0.0101
+Epoch 4/15
+ - 2s - loss: 0.0100
+Epoch 5/15
+ - 2s - loss: 0.0100
+Epoch 6/15
+ - 2s - loss: 0.0101
+Epoch 7/15
+ - 2s - loss: 0.0100
+Epoch 8/15
+ - 2s - loss: 0.0100
+Epoch 9/15
+ - 2s - loss: 0.0100
+Epoch 10/15
+ - 2s - loss: 0.0100
+Epoch 11/15
+ - 2s - loss: 0.0101
+Epoch 12/15
+ - 2s - loss: 0.0100
+Epoch 13/15
+ - 2s - loss: 0.0101
+Epoch 14/15
+ - 2s - loss: 0.0100
+Epoch 15/15
+ - 2s - loss: 0.0101
+Train Score: 215412902.98933443% error
+Test Score: 219606496.39368057% error
+../neighborhood185
+Epoch 1/15
+ - 15s - loss: 0.0067
+Epoch 2/15
+ - 2s - loss: 0.0067
+Epoch 3/15
+ - 2s - loss: 0.0068
+Epoch 4/15
+ - 2s - loss: 0.0068
+Epoch 5/15
+ - 2s - loss: 0.0068
+Epoch 6/15
+ - 2s - loss: 0.0068
+Epoch 7/15
+ - 2s - loss: 0.0067
+Epoch 8/15
+ - 2s - loss: 0.0068
+Epoch 9/15
+ - 2s - loss: 0.0068
+Epoch 10/15
+ - 2s - loss: 0.0068
+Epoch 11/15
+ - 2s - loss: 0.0067
+Epoch 12/15
+ - 2s - loss: 0.0068
+Epoch 13/15
+ - 2s - loss: 0.0067
+Epoch 14/15
+ - 2s - loss: 0.0067
+Epoch 15/15
+ - 2s - loss: 0.0068
+Train Score: 1057339604.2063544% error
+Test Score: 1068118808.7853901% error
+../neighborhood186
+Epoch 1/15
+ - 15s - loss: 0.0170
+Epoch 2/15
+ - 2s - loss: 0.0158
+Epoch 3/15
+ - 2s - loss: 0.0155
+Epoch 4/15
+ - 2s - loss: 0.0155
+Epoch 5/15
+ - 2s - loss: 0.0155
+Epoch 6/15
+ - 2s - loss: 0.0157
+Epoch 7/15
+ - 2s - loss: 0.0156
+Epoch 8/15
+ - 2s - loss: 0.0155
+Epoch 9/15
+ - 2s - loss: 0.0155
+Epoch 10/15
+ - 2s - loss: 0.0156
+Epoch 11/15
+ - 2s - loss: 0.0155
+Epoch 12/15
+ - 2s - loss: 0.0156
+Epoch 13/15
+ - 2s - loss: 0.0156
+Epoch 14/15
+ - 2s - loss: 0.0155
+Epoch 15/15
+ - 2s - loss: 0.0156
+Train Score: 38.09834653917771% error
+Test Score: 40.831752840655014% error
+../neighborhood187
+Epoch 1/15
+ - 16s - loss: 0.0020
+Epoch 2/15
+ - 2s - loss: 0.0020
+Epoch 3/15
+ - 2s - loss: 0.0020
+Epoch 4/15
+ - 2s - loss: 0.0020
+Epoch 5/15
+ - 2s - loss: 0.0020
+Epoch 6/15
+ - 2s - loss: 0.0020
+Epoch 7/15
+ - 2s - loss: 0.0020
+Epoch 8/15
+ - 2s - loss: 0.0020
+Epoch 9/15
+ - 2s - loss: 0.0020
+Epoch 10/15
+ - 2s - loss: 0.0020
+Epoch 11/15
+ - 2s - loss: 0.0020
+Epoch 12/15
+ - 2s - loss: 0.0020
+Epoch 13/15
+ - 2s - loss: 0.0020
+Epoch 14/15
+ - 2s - loss: 0.0020
+Epoch 15/15
+ - 2s - loss: 0.0020
+Train Score: 313307997.0377331% error
+Test Score: 312893890.30889076% error
+../neighborhood188
+Epoch 1/15
+ - 16s - loss: 0.0252
+Epoch 2/15
+ - 2s - loss: 0.0250
+Epoch 3/15
+ - 2s - loss: 0.0250
+Epoch 4/15
+ - 2s - loss: 0.0249
+Epoch 5/15
+ - 2s - loss: 0.0251
+Epoch 6/15
+ - 2s - loss: 0.0249
+Epoch 7/15
+ - 2s - loss: 0.0249
+Epoch 8/15
+ - 2s - loss: 0.0249
+Epoch 9/15
+ - 2s - loss: 0.0249
+Epoch 10/15
+ - 2s - loss: 0.0249
+Epoch 11/15
+ - 2s - loss: 0.0249
+Epoch 12/15
+ - 2s - loss: 0.0248
+Epoch 13/15
+ - 2s - loss: 0.0248
+Epoch 14/15
+ - 2s - loss: 0.0248
+Epoch 15/15
+ - 2s - loss: 0.0250
+Train Score: 9148833266.346533% error
+Test Score: 9898247098.325191% error
+../neighborhood189
+Epoch 1/15
+ - 16s - loss: 0.0125
+Epoch 2/15
+ - 2s - loss: 0.0118
+Epoch 3/15
+ - 2s - loss: 0.0115
+Epoch 4/15
+ - 2s - loss: 0.0114
+Epoch 5/15
+ - 2s - loss: 0.0114
+Epoch 6/15
+ - 2s - loss: 0.0114
+Epoch 7/15
+ - 2s - loss: 0.0114
+Epoch 8/15
+ - 2s - loss: 0.0115
+Epoch 9/15
+ - 2s - loss: 0.0115
+Epoch 10/15
+ - 2s - loss: 0.0113
+Epoch 11/15
+ - 2s - loss: 0.0114
+Epoch 12/15
+ - 2s - loss: 0.0114
+Epoch 13/15
+ - 2s - loss: 0.0113
+Epoch 14/15
+ - 2s - loss: 0.0115
+Epoch 15/15
+ - 2s - loss: 0.0115
+Train Score: 4418345125.952258% error
+Test Score: 6392933269.803951% error
+../neighborhood190
+Epoch 1/15
+ - 16s - loss: 0.0163
+Epoch 2/15
+ - 2s - loss: 0.0163
+Epoch 3/15
+ - 2s - loss: 0.0163
+Epoch 4/15
+ - 2s - loss: 0.0162
+Epoch 5/15
+ - 2s - loss: 0.0162
+Epoch 6/15
+ - 2s - loss: 0.0162
+Epoch 7/15
+ - 2s - loss: 0.0162
+Epoch 8/15
+ - 2s - loss: 0.0162
+Epoch 9/15
+ - 2s - loss: 0.0162
+Epoch 10/15
+ - 2s - loss: 0.0162
+Epoch 11/15
+ - 2s - loss: 0.0162
+Epoch 12/15
+ - 2s - loss: 0.0161
+Epoch 13/15
+ - 2s - loss: 0.0162
+Epoch 14/15
+ - 2s - loss: 0.0162
+Epoch 15/15
+ - 2s - loss: 0.0163
+Train Score: 9543805868.628445% error
+Test Score: 9773408208.428408% error
+../neighborhood191
+Epoch 1/15
+ - 16s - loss: 0.0295
+Epoch 2/15
+ - 2s - loss: 0.0295
+Epoch 3/15
+ - 2s - loss: 0.0295
+Epoch 4/15
+ - 2s - loss: 0.0295
+Epoch 5/15
+ - 2s - loss: 0.0294
+Epoch 6/15
+ - 2s - loss: 0.0295
+Epoch 7/15
+ - 2s - loss: 0.0295
+Epoch 8/15
+ - 2s - loss: 0.0295
+Epoch 9/15
+ - 2s - loss: 0.0295
+Epoch 10/15
+ - 2s - loss: 0.0295
+Epoch 11/15
+ - 2s - loss: 0.0295
+Epoch 12/15
+ - 2s - loss: 0.0294
+Epoch 13/15
+ - 2s - loss: 0.0295
+Epoch 14/15
+ - 2s - loss: 0.0295
+Epoch 15/15
+ - 2s - loss: 0.0296
+Train Score: 1904380492.0104055% error
+Test Score: 1946212091.66786% error
+../neighborhood192
+Epoch 1/15
+ - 16s - loss: 0.0057
+Epoch 2/15
+ - 2s - loss: 0.0057
+Epoch 3/15
+ - 2s - loss: 0.0057
+Epoch 4/15
+ - 2s - loss: 0.0057
+Epoch 5/15
+ - 2s - loss: 0.0057
+Epoch 6/15
+ - 2s - loss: 0.0057
+Epoch 7/15
+ - 2s - loss: 0.0057
+Epoch 8/15
+ - 2s - loss: 0.0057
+Epoch 9/15
+ - 2s - loss: 0.0057
+Epoch 10/15
+ - 2s - loss: 0.0057
+Epoch 11/15
+ - 2s - loss: 0.0057
+Epoch 12/15
+ - 2s - loss: 0.0057
+Epoch 13/15
+ - 2s - loss: 0.0057
+Epoch 14/15
+ - 2s - loss: 0.0057
+Epoch 15/15
+ - 2s - loss: 0.0057
+Train Score: 2935472795.5844965% error
+Test Score: 2823688342.471159% error
+../neighborhood193
+Epoch 1/15
+ - 16s - loss: 0.0162
+Epoch 2/15
+ - 2s - loss: 0.0162
+Epoch 3/15
+ - 2s - loss: 0.0163
+Epoch 4/15
+ - 2s - loss: 0.0161
+Epoch 5/15
+ - 2s - loss: 0.0162
+Epoch 6/15
+ - 2s - loss: 0.0162
+Epoch 7/15
+ - 2s - loss: 0.0163
+Epoch 8/15
+ - 2s - loss: 0.0163
+Epoch 9/15
+ - 2s - loss: 0.0162
+Epoch 10/15
+ - 2s - loss: 0.0163
+Epoch 11/15
+ - 2s - loss: 0.0161
+Epoch 12/15
+ - 2s - loss: 0.0163
+Epoch 13/15
+ - 2s - loss: 0.0162
+Epoch 14/15
+ - 2s - loss: 0.0161
+Epoch 15/15
+ - 2s - loss: 0.0162
+Train Score: 2585779626.575544% error
+Test Score: 3659163958.8711433% error
+../neighborhood194
+Epoch 1/15
+ - 16s - loss: 0.0041
+Epoch 2/15
+ - 2s - loss: 0.0038
+Epoch 3/15
+ - 2s - loss: 0.0037
+Epoch 4/15
+ - 2s - loss: 0.0037
+Epoch 5/15
+ - 2s - loss: 0.0037
+Epoch 6/15
+ - 2s - loss: 0.0037
+Epoch 7/15
+ - 2s - loss: 0.0037
+Epoch 8/15
+ - 2s - loss: 0.0037
+Epoch 9/15
+ - 2s - loss: 0.0036
+Epoch 10/15
+ - 2s - loss: 0.0036
+Epoch 11/15
+ - 2s - loss: 0.0036
+Epoch 12/15
+ - 2s - loss: 0.0037
+Epoch 13/15
+ - 2s - loss: 0.0036
+Epoch 14/15
+ - 2s - loss: 0.0036
+Epoch 15/15
+ - 2s - loss: 0.0036
+Train Score: 10912424668.35912% error
+Test Score: 10703561922.74171% error
+../neighborhood195
+Epoch 1/15
+ - 16s - loss: 0.0035
+Epoch 2/15
+ - 2s - loss: 0.0034
+Epoch 3/15
+ - 2s - loss: 0.0033
+Epoch 4/15
+ - 2s - loss: 0.0032
+Epoch 5/15
+ - 2s - loss: 0.0032
+Epoch 6/15
+ - 2s - loss: 0.0031
+Epoch 7/15
+ - 2s - loss: 0.0030
+Epoch 8/15
+ - 2s - loss: 0.0030
+Epoch 9/15
+ - 2s - loss: 0.0029
+Epoch 10/15
+ - 2s - loss: 0.0029
+Epoch 11/15
+ - 2s - loss: 0.0029
+Epoch 12/15
+ - 2s - loss: 0.0029
+Epoch 13/15
+ - 2s - loss: 0.0029
+Epoch 14/15
+ - 2s - loss: 0.0029
+Epoch 15/15
+ - 2s - loss: 0.0028
+Train Score: 5304789554.511495% error
+Test Score: 5366324994.769837% error
+../neighborhood196
+Epoch 1/15
+ - 16s - loss: 0.0111
+Epoch 2/15
+ - 2s - loss: 0.0111
+Epoch 3/15
+ - 2s - loss: 0.0111
+Epoch 4/15
+ - 2s - loss: 0.0112
+Epoch 5/15
+ - 2s - loss: 0.0112
+Epoch 6/15
+ - 2s - loss: 0.0111
+Epoch 7/15
+ - 2s - loss: 0.0111
+Epoch 8/15
+ - 2s - loss: 0.0111
+Epoch 9/15
+ - 2s - loss: 0.0111
+Epoch 10/15
+ - 2s - loss: 0.0112
+Epoch 11/15
+ - 2s - loss: 0.0111
+Epoch 12/15
+ - 2s - loss: 0.0111
+Epoch 13/15
+ - 2s - loss: 0.0111
+Epoch 14/15
+ - 2s - loss: 0.0111
+Epoch 15/15
+ - 2s - loss: 0.0112
+Train Score: 8616734206.791903% error
+Test Score: 7078543627.710557% error
+../neighborhood197
+Epoch 1/15
+ - 22s - loss: 0.0111
+Epoch 2/15
+ - 2s - loss: 0.0111
+Epoch 3/15
+ - 2s - loss: 0.0110
+Epoch 4/15
+ - 2s - loss: 0.0111
+Epoch 5/15
+ - 2s - loss: 0.0111
+Epoch 6/15
+ - 2s - loss: 0.0111
+Epoch 7/15
+ - 2s - loss: 0.0111
+Epoch 8/15
+ - 2s - loss: 0.0110
+Epoch 9/15
+ - 2s - loss: 0.0111
+Epoch 10/15
+ - 2s - loss: 0.0110
+Epoch 11/15
+ - 2s - loss: 0.0111
+Epoch 12/15
+ - 2s - loss: 0.0110
+Epoch 13/15
+ - 2s - loss: 0.0110
+Epoch 14/15
+ - 3s - loss: 0.0111
+Epoch 15/15
+ - 3s - loss: 0.0110
+Train Score: 6357303453.806361% error
+Test Score: 6353720803.153637% error
+../neighborhood198
+Epoch 1/15
+ - 16s - loss: 0.0130
+Epoch 2/15
+ - 3s - loss: 0.0130
+Epoch 3/15
+ - 2s - loss: 0.0128
+Epoch 4/15
+ - 2s - loss: 0.0128
+Epoch 5/15
+ - 2s - loss: 0.0128
+Epoch 6/15
+ - 2s - loss: 0.0128
+Epoch 7/15
+ - 2s - loss: 0.0129
+Epoch 8/15
+ - 2s - loss: 0.0128
+Epoch 9/15
+ - 3s - loss: 0.0128
+Epoch 10/15
+ - 2s - loss: 0.0128
+Epoch 11/15
+ - 2s - loss: 0.0128
+Epoch 12/15
+ - 2s - loss: 0.0127
+Epoch 13/15
+ - 2s - loss: 0.0128
+Epoch 14/15
+ - 2s - loss: 0.0129
+Epoch 15/15
+ - 2s - loss: 0.0128
+Train Score: 4674359477.866524% error
+Test Score: 5305949779.2401495% error
+../neighborhood199
+Epoch 1/15
+ - 17s - loss: 0.0000e+00
+Epoch 2/15
+ - 2s - loss: 0.0000e+00
+Epoch 3/15
+ - 2s - loss: 0.0000e+00
+Epoch 4/15
+ - 2s - loss: 0.0000e+00
+Epoch 5/15
+ - 2s - loss: 0.0000e+00
+Epoch 6/15
+ - 2s - loss: 0.0000e+00
+Epoch 7/15
+ - 2s - loss: 0.0000e+00
+Epoch 8/15
+ - 2s - loss: 0.0000e+00
+Epoch 9/15
+ - 2s - loss: 0.0000e+00
+Epoch 10/15
+ - 2s - loss: 0.0000e+00
+Epoch 11/15
+ - 2s - loss: 0.0000e+00
+Epoch 12/15
+ - 2s - loss: 0.0000e+00
+Epoch 13/15
+ - 2s - loss: 0.0000e+00
+Epoch 14/15
+ - 2s - loss: 0.0000e+00
+Epoch 15/15
+ - 2s - loss: 0.0000e+00
+Train Score: 0.0% error
+Test Score: 0.0% error
+../neighborhood200
+Epoch 1/15
+ - 17s - loss: 0.0247
+Epoch 2/15
+ - 2s - loss: 0.0246
+Epoch 3/15
+ - 2s - loss: 0.0246
+Epoch 4/15
+ - 2s - loss: 0.0247
+Epoch 5/15
+ - 2s - loss: 0.0246
+Epoch 6/15
+ - 2s - loss: 0.0245
+Epoch 7/15
+ - 2s - loss: 0.0245
+Epoch 8/15
+ - 2s - loss: 0.0246
+Epoch 9/15
+ - 2s - loss: 0.0247
+Epoch 10/15
+ - 2s - loss: 0.0246
+Epoch 11/15
+ - 2s - loss: 0.0246
+Epoch 12/15
+ - 2s - loss: 0.0246
+Epoch 13/15
+ - 2s - loss: 0.0246
+Epoch 14/15
+ - 2s - loss: 0.0246
+Epoch 15/15
+ - 2s - loss: 0.0246
+Train Score: 1797577466.1865957% error
+Test Score: 1815330066.4684708% error
+../neighborhood201
+Epoch 1/15
+ - 17s - loss: 0.0031
+Epoch 2/15
+ - 2s - loss: 0.0032
+Epoch 3/15
+ - 2s - loss: 0.0032
+Epoch 4/15
+ - 2s - loss: 0.0032
+Epoch 5/15
+ - 2s - loss: 0.0031
+Epoch 6/15
+ - 2s - loss: 0.0031
+Epoch 7/15
+ - 2s - loss: 0.0031
+Epoch 8/15
+ - 2s - loss: 0.0031
+Epoch 9/15
+ - 2s - loss: 0.0031
+Epoch 10/15
+ - 2s - loss: 0.0031
+Epoch 11/15
+ - 2s - loss: 0.0032
+Epoch 12/15
+ - 2s - loss: 0.0031
+Epoch 13/15
+ - 2s - loss: 0.0031
+Epoch 14/15
+ - 2s - loss: 0.0031
+Epoch 15/15
+ - 2s - loss: 0.0031
+Train Score: 52489290.04531724% error
+Test Score: 53015486.33724451% error
+../neighborhood202
+Epoch 1/15
+ - 16s - loss: 0.0234
+Epoch 2/15
+ - 2s - loss: 0.0235
+Epoch 3/15
+ - 2s - loss: 0.0234
+Epoch 4/15
+ - 2s - loss: 0.0233
+Epoch 5/15
+ - 2s - loss: 0.0237
+Epoch 6/15
+ - 2s - loss: 0.0234
+Epoch 7/15
+ - 2s - loss: 0.0236
+Epoch 8/15
+ - 2s - loss: 0.0235
+Epoch 9/15
+ - 2s - loss: 0.0234
+Epoch 10/15
+ - 2s - loss: 0.0235
+Epoch 11/15
+ - 2s - loss: 0.0235
+Epoch 12/15
+ - 2s - loss: 0.0234
+Epoch 13/15
+ - 2s - loss: 0.0234
+Epoch 14/15
+ - 2s - loss: 0.0234
+Epoch 15/15
+ - 2s - loss: 0.0234
+Train Score: 6703652140.444665% error
+Test Score: 7209485422.658783% error
+../neighborhood203
+Epoch 1/15
+ - 17s - loss: 0.0183
+Epoch 2/15
+ - 2s - loss: 0.0182
+Epoch 3/15
+ - 2s - loss: 0.0182
+Epoch 4/15
+ - 2s - loss: 0.0182
+Epoch 5/15
+ - 2s - loss: 0.0182
+Epoch 6/15
+ - 2s - loss: 0.0183
+Epoch 7/15
+ - 2s - loss: 0.0182
+Epoch 8/15
+ - 2s - loss: 0.0182
+Epoch 9/15
+ - 2s - loss: 0.0182
+Epoch 10/15
+ - 2s - loss: 0.0183
+Epoch 11/15
+ - 2s - loss: 0.0182
+Epoch 12/15
+ - 2s - loss: 0.0182
+Epoch 13/15
+ - 2s - loss: 0.0182
+Epoch 14/15
+ - 2s - loss: 0.0182
+Epoch 15/15
+ - 2s - loss: 0.0182
+Train Score: 816209527.6483083% error
+Test Score: 768397671.6216843% error
+../neighborhood204
+Epoch 1/15
+ - 17s - loss: 0.0022
+Epoch 2/15
+ - 2s - loss: 0.0022
+Epoch 3/15
+ - 2s - loss: 0.0022
+Epoch 4/15
+ - 2s - loss: 0.0022
+Epoch 5/15
+ - 2s - loss: 0.0022
+Epoch 6/15
+ - 2s - loss: 0.0022
+Epoch 7/15
+ - 2s - loss: 0.0022
+Epoch 8/15
+ - 2s - loss: 0.0021
+Epoch 9/15
+ - 2s - loss: 0.0021
+Epoch 10/15
+ - 2s - loss: 0.0021
+Epoch 11/15
+ - 2s - loss: 0.0021
+Epoch 12/15
+ - 2s - loss: 0.0021
+Epoch 13/15
+ - 2s - loss: 0.0021
+Epoch 14/15
+ - 2s - loss: 0.0021
+Epoch 15/15
+ - 2s - loss: 0.0021
+Train Score: 8277524.364715876% error
+Test Score: 16718979.372897683% error
+../neighborhood205
+Epoch 1/15
+ - 17s - loss: 0.0141
+Epoch 2/15
+ - 2s - loss: 0.0139
+Epoch 3/15
+ - 2s - loss: 0.0140
+Epoch 4/15
+ - 2s - loss: 0.0140
+Epoch 5/15
+ - 3s - loss: 0.0140
+Epoch 6/15
+ - 3s - loss: 0.0140
+Epoch 7/15
+ - 2s - loss: 0.0140
+Epoch 8/15
+ - 2s - loss: 0.0140
+Epoch 9/15
+ - 2s - loss: 0.0140
+Epoch 10/15
+ - 2s - loss: 0.0140
+Epoch 11/15
+ - 2s - loss: 0.0140
+Epoch 12/15
+ - 2s - loss: 0.0139
+Epoch 13/15
+ - 2s - loss: 0.0140
+Epoch 14/15
+ - 2s - loss: 0.0140
+Epoch 15/15
+ - 2s - loss: 0.0140
+Train Score: 1083389714.5596218% error
+Test Score: 1076758118.4653661% error
+../neighborhood206
+Epoch 1/15
+ - 17s - loss: 0.0198
+Epoch 2/15
+ - 2s - loss: 0.0198
+Epoch 3/15
+ - 2s - loss: 0.0198
+Epoch 4/15
+ - 2s - loss: 0.0199
+Epoch 5/15
+ - 2s - loss: 0.0198
+Epoch 6/15
+ - 2s - loss: 0.0198
+Epoch 7/15
+ - 2s - loss: 0.0198
+Epoch 8/15
+ - 2s - loss: 0.0198
+Epoch 9/15
+ - 2s - loss: 0.0197
+Epoch 10/15
+ - 2s - loss: 0.0198
+Epoch 11/15
+ - 2s - loss: 0.0198
+Epoch 12/15
+ - 2s - loss: 0.0196
+Epoch 13/15
+ - 2s - loss: 0.0198
+Epoch 14/15
+ - 2s - loss: 0.0197
+Epoch 15/15
+ - 2s - loss: 0.0198
+Train Score: 500813693.3963959% error
+Test Score: 500650758.63739234% error
+../neighborhood207
+Epoch 1/15
+ - 17s - loss: 0.0093
+Epoch 2/15
+ - 2s - loss: 0.0092
+Epoch 3/15
+ - 2s - loss: 0.0090
+Epoch 4/15
+ - 2s - loss: 0.0091
+Epoch 5/15
+ - 2s - loss: 0.0093
+Epoch 6/15
+ - 2s - loss: 0.0092
+Epoch 7/15
+ - 2s - loss: 0.0093
+Epoch 8/15
+ - 2s - loss: 0.0093
+Epoch 9/15
+ - 2s - loss: 0.0092
+Epoch 10/15
+ - 2s - loss: 0.0092
+Epoch 11/15
+ - 2s - loss: 0.0092
+Epoch 12/15
+ - 2s - loss: 0.0092
+Epoch 13/15
+ - 2s - loss: 0.0092
+Epoch 14/15
+ - 2s - loss: 0.0093
+Epoch 15/15
+ - 2s - loss: 0.0092
+Train Score: 5424565550.65253% error
+Test Score: 5331819375.450139% error
+../neighborhood208
+Epoch 1/15
+ - 17s - loss: 0.0149
+Epoch 2/15
+ - 2s - loss: 0.0149
+Epoch 3/15
+ - 2s - loss: 0.0149
+Epoch 4/15
+ - 2s - loss: 0.0148
+Epoch 5/15
+ - 2s - loss: 0.0150
+Epoch 6/15
+ - 2s - loss: 0.0150
+Epoch 7/15
+ - 2s - loss: 0.0149
+Epoch 8/15
+ - 2s - loss: 0.0150
+Epoch 9/15
+ - 2s - loss: 0.0150
+Epoch 10/15
+ - 2s - loss: 0.0149
+Epoch 11/15
+ - 2s - loss: 0.0149
+Epoch 12/15
+ - 2s - loss: 0.0149
+Epoch 13/15
+ - 2s - loss: 0.0150
+Epoch 14/15
+ - 2s - loss: 0.0148
+Epoch 15/15
+ - 2s - loss: 0.0149
+Train Score: 2510867824.4966464% error
+Test Score: 2523818280.038231% error
+../neighborhood209
+Epoch 1/15
+ - 17s - loss: 0.0169
+Epoch 2/15
+ - 2s - loss: 0.0167
+Epoch 3/15
+ - 2s - loss: 0.0167
+Epoch 4/15
+ - 2s - loss: 0.0167
+Epoch 5/15
+ - 2s - loss: 0.0167
+Epoch 6/15
+ - 2s - loss: 0.0166
+Epoch 7/15
+ - 2s - loss: 0.0167
+Epoch 8/15
+ - 2s - loss: 0.0166
+Epoch 9/15
+ - 2s - loss: 0.0165
+Epoch 10/15
+ - 2s - loss: 0.0166
+Epoch 11/15
+ - 2s - loss: 0.0166
+Epoch 12/15
+ - 2s - loss: 0.0165
+Epoch 13/15
+ - 2s - loss: 0.0163
+Epoch 14/15
+ - 2s - loss: 0.0165
+Epoch 15/15
+ - 2s - loss: 0.0166
+Train Score: 808303341.1273205% error
+Test Score: 67.74653251178536% error
+../neighborhood210
+Epoch 1/15
+ - 17s - loss: 0.0042
+Epoch 2/15
+ - 2s - loss: 0.0042
+Epoch 3/15
+ - 2s - loss: 0.0042
+Epoch 4/15
+ - 2s - loss: 0.0042
+Epoch 5/15
+ - 2s - loss: 0.0042
+Epoch 6/15
+ - 2s - loss: 0.0041
+Epoch 7/15
+ - 2s - loss: 0.0042
+Epoch 8/15
+ - 2s - loss: 0.0042
+Epoch 9/15
+ - 2s - loss: 0.0042
+Epoch 10/15
+ - 2s - loss: 0.0042
+Epoch 11/15
+ - 2s - loss: 0.0041
+Epoch 12/15
+ - 2s - loss: 0.0042
+Epoch 13/15
+ - 2s - loss: 0.0042
+Epoch 14/15
+ - 2s - loss: 0.0042
+Epoch 15/15
+ - 2s - loss: 0.0042
+Train Score: 1096253772.5230198% error
+Test Score: 1113998346.988404% error
+../neighborhood211
+Epoch 1/15
+ - 17s - loss: 0.0123
+Epoch 2/15
+ - 2s - loss: 0.0122
+Epoch 3/15
+ - 2s - loss: 0.0123
+Epoch 4/15
+ - 2s - loss: 0.0121
+Epoch 5/15
+ - 2s - loss: 0.0120
+Epoch 6/15
+ - 2s - loss: 0.0121
+Epoch 7/15
+ - 2s - loss: 0.0120
+Epoch 8/15
+ - 2s - loss: 0.0119
+Epoch 9/15
+ - 2s - loss: 0.0119
+Epoch 10/15
+ - 2s - loss: 0.0119
+Epoch 11/15
+ - 2s - loss: 0.0120
+Epoch 12/15
+ - 2s - loss: 0.0119
+Epoch 13/15
+ - 2s - loss: 0.0120
+Epoch 14/15
+ - 2s - loss: 0.0120
+Epoch 15/15
+ - 2s - loss: 0.0120
+Train Score: 47.46014432359071% error
+Test Score: 49.23630232316062% error
+../neighborhood212
+Epoch 1/15
+ - 17s - loss: 0.0094
+Epoch 2/15
+ - 2s - loss: 0.0093
+Epoch 3/15
+ - 2s - loss: 0.0094
+Epoch 4/15
+ - 2s - loss: 0.0093
+Epoch 5/15
+ - 2s - loss: 0.0093
+Epoch 6/15
+ - 2s - loss: 0.0092
+Epoch 7/15
+ - 2s - loss: 0.0093
+Epoch 8/15
+ - 2s - loss: 0.0093
+Epoch 9/15
+ - 2s - loss: 0.0091
+Epoch 10/15
+ - 2s - loss: 0.0092
+Epoch 11/15
+ - 2s - loss: 0.0092
+Epoch 12/15
+ - 2s - loss: 0.0092
+Epoch 13/15
+ - 2s - loss: 0.0092
+Epoch 14/15
+ - 2s - loss: 0.0092
+Epoch 15/15
+ - 2s - loss: 0.0092
+Train Score: 3241314621.3671093% error
+Test Score: 3250207580.2264576% error
+../neighborhood213
+Epoch 1/15
+ - 18s - loss: 0.0179
+Epoch 2/15
+ - 2s - loss: 0.0179
+Epoch 3/15
+ - 2s - loss: 0.0179
+Epoch 4/15
+ - 2s - loss: 0.0178
+Epoch 5/15
+ - 2s - loss: 0.0179
+Epoch 6/15
+ - 2s - loss: 0.0177
+Epoch 7/15
+ - 2s - loss: 0.0179
+Epoch 8/15
+ - 2s - loss: 0.0178
+Epoch 9/15
+ - 2s - loss: 0.0179
+Epoch 10/15
+ - 2s - loss: 0.0179
+Epoch 11/15
+ - 2s - loss: 0.0179
+Epoch 12/15
+ - 2s - loss: 0.0179
+Epoch 13/15
+ - 2s - loss: 0.0178
+Epoch 14/15
+ - 3s - loss: 0.0179
+Epoch 15/15
+ - 3s - loss: 0.0178
+Train Score: 2249412130.401052% error
+Test Score: 2287184420.3379383% error
+../neighborhood214
+Epoch 1/15
+ - 18s - loss: 0.0045
+Epoch 2/15
+ - 2s - loss: 0.0045
+Epoch 3/15
+ - 2s - loss: 0.0045
+Epoch 4/15
+ - 2s - loss: 0.0045
+Epoch 5/15
+ - 2s - loss: 0.0045
+Epoch 6/15
+ - 2s - loss: 0.0046
+Epoch 7/15
+ - 3s - loss: 0.0045
+Epoch 8/15
+ - 3s - loss: 0.0045
+Epoch 9/15
+ - 3s - loss: 0.0045
+Epoch 10/15
+ - 2s - loss: 0.0045
+Epoch 11/15
+ - 2s - loss: 0.0045
+Epoch 12/15
+ - 2s - loss: 0.0045
+Epoch 13/15
+ - 2s - loss: 0.0045
+Epoch 14/15
+ - 2s - loss: 0.0045
+Epoch 15/15
+ - 2s - loss: 0.0045
+Train Score: 534525318.6499516% error
+Test Score: 540360357.1560911% error
+../neighborhood215
+Epoch 1/15
+ - 18s - loss: 0.0180
+Epoch 2/15
+ - 2s - loss: 0.0179
+Epoch 3/15
+ - 2s - loss: 0.0180
+Epoch 4/15
+ - 2s - loss: 0.0180
+Epoch 5/15
+ - 2s - loss: 0.0179
+Epoch 6/15
+ - 2s - loss: 0.0179
+Epoch 7/15
+ - 2s - loss: 0.0179
+Epoch 8/15
+ - 2s - loss: 0.0176
+Epoch 9/15
+ - 2s - loss: 0.0178
+Epoch 10/15
+ - 2s - loss: 0.0179
+Epoch 11/15
+ - 2s - loss: 0.0179
+Epoch 12/15
+ - 2s - loss: 0.0179
+Epoch 13/15
+ - 2s - loss: 0.0178
+Epoch 14/15
+ - 2s - loss: 0.0177
+Epoch 15/15
+ - 2s - loss: 0.0179
+Train Score: 8724668071.812744% error
+Test Score: 8357034127.66544% error
+../neighborhood216
+Epoch 1/15
+ - 18s - loss: 0.0163
+Epoch 2/15
+ - 2s - loss: 0.0162
+Epoch 3/15
+ - 2s - loss: 0.0163
+Epoch 4/15
+ - 2s - loss: 0.0162
+Epoch 5/15
+ - 2s - loss: 0.0162
+Epoch 6/15
+ - 2s - loss: 0.0162
+Epoch 7/15
+ - 2s - loss: 0.0163
+Epoch 8/15
+ - 2s - loss: 0.0163
+Epoch 9/15
+ - 2s - loss: 0.0162
+Epoch 10/15
+ - 2s - loss: 0.0162
+Epoch 11/15
+ - 2s - loss: 0.0162
+Epoch 12/15
+ - 2s - loss: 0.0162
+Epoch 13/15
+ - 2s - loss: 0.0162
+Epoch 14/15
+ - 3s - loss: 0.0163
+Epoch 15/15
+ - 3s - loss: 0.0162
+Train Score: 8322903239.298768% error
+Test Score: 8801342424.221321% error
+../neighborhood217
+Epoch 1/15
+ - 18s - loss: 0.0280
+Epoch 2/15
+ - 2s - loss: 0.0275
+Epoch 3/15
+ - 2s - loss: 0.0275
+Epoch 4/15
+ - 2s - loss: 0.0274
+Epoch 5/15
+ - 2s - loss: 0.0274
+Epoch 6/15
+ - 2s - loss: 0.0274
+Epoch 7/15
+ - 2s - loss: 0.0273
+Epoch 8/15
+ - 2s - loss: 0.0273
+Epoch 9/15
+ - 2s - loss: 0.0275
+Epoch 10/15
+ - 2s - loss: 0.0273
+Epoch 11/15
+ - 2s - loss: 0.0274
+Epoch 12/15
+ - 2s - loss: 0.0274
+Epoch 13/15
+ - 2s - loss: 0.0274
+Epoch 14/15
+ - 2s - loss: 0.0274
+Epoch 15/15
+ - 2s - loss: 0.0274
+Train Score: 8140551585.536517% error
+Test Score: 9576926346.243523% error
+../neighborhood218
+Epoch 1/15
+ - 18s - loss: 0.0115
+Epoch 2/15
+ - 2s - loss: 0.0114
+Epoch 3/15
+ - 2s - loss: 0.0115
+Epoch 4/15
+ - 2s - loss: 0.0115
+Epoch 5/15
+ - 2s - loss: 0.0114
+Epoch 6/15
+ - 2s - loss: 0.0114
+Epoch 7/15
+ - 2s - loss: 0.0114
+Epoch 8/15
+ - 2s - loss: 0.0114
+Epoch 9/15
+ - 2s - loss: 0.0114
+Epoch 10/15
+ - 2s - loss: 0.0114
+Epoch 11/15
+ - 2s - loss: 0.0114
+Epoch 12/15
+ - 2s - loss: 0.0114
+Epoch 13/15
+ - 2s - loss: 0.0114
+Epoch 14/15
+ - 2s - loss: 0.0114
+Epoch 15/15
+ - 2s - loss: 0.0114
+Train Score: 1645369705.0976477% error
+Test Score: 1548171356.5142295% error
+../neighborhood219
+Epoch 1/15
+ - 18s - loss: 0.0201
+Epoch 2/15
+ - 2s - loss: 0.0200
+Epoch 3/15
+ - 2s - loss: 0.0201
+Epoch 4/15
+ - 2s - loss: 0.0200
+Epoch 5/15
+ - 2s - loss: 0.0200
+Epoch 6/15
+ - 2s - loss: 0.0200
+Epoch 7/15
+ - 2s - loss: 0.0200
+Epoch 8/15
+ - 2s - loss: 0.0200
+Epoch 9/15
+ - 2s - loss: 0.0200
+Epoch 10/15
+ - 2s - loss: 0.0200
+Epoch 11/15
+ - 2s - loss: 0.0201
+Epoch 12/15
+ - 2s - loss: 0.0200
+Epoch 13/15
+ - 2s - loss: 0.0201
+Epoch 14/15
+ - 2s - loss: 0.0199
+Epoch 15/15
+ - 2s - loss: 0.0200
+Train Score: 7183307052.313423% error
+Test Score: 6884000312.154186% error
+../neighborhood220
+Epoch 1/15
+ - 18s - loss: 0.0168
+Epoch 2/15
+ - 2s - loss: 0.0167
+Epoch 3/15
+ - 2s - loss: 0.0167
+Epoch 4/15
+ - 2s - loss: 0.0166
+Epoch 5/15
+ - 2s - loss: 0.0168
+Epoch 6/15
+ - 2s - loss: 0.0168
+Epoch 7/15
+ - 2s - loss: 0.0168
+Epoch 8/15
+ - 2s - loss: 0.0168
+Epoch 9/15
+ - 2s - loss: 0.0167
+Epoch 10/15
+ - 2s - loss: 0.0167
+Epoch 11/15
+ - 2s - loss: 0.0167
+Epoch 12/15
+ - 2s - loss: 0.0167
+Epoch 13/15
+ - 2s - loss: 0.0167
+Epoch 14/15
+ - 2s - loss: 0.0168
+Epoch 15/15
+ - 2s - loss: 0.0166
+Train Score: 2618252690.4667115% error
+Test Score: 2708334003.6832824% error
+../neighborhood221
+Epoch 1/15
+ - 18s - loss: 0.0101
+Epoch 2/15
+ - 2s - loss: 0.0100
+Epoch 3/15
+ - 2s - loss: 0.0100
+Epoch 4/15
+ - 2s - loss: 0.0101
+Epoch 5/15
+ - 2s - loss: 0.0101
+Epoch 6/15
+ - 2s - loss: 0.0101
+Epoch 7/15
+ - 2s - loss: 0.0100
+Epoch 8/15
+ - 2s - loss: 0.0101
+Epoch 9/15
+ - 2s - loss: 0.0100
+Epoch 10/15
+ - 2s - loss: 0.0100
+Epoch 11/15
+ - 2s - loss: 0.0100
+Epoch 12/15
+ - 2s - loss: 0.0101
+Epoch 13/15
+ - 2s - loss: 0.0101
+Epoch 14/15
+ - 2s - loss: 0.0100
+Epoch 15/15
+ - 2s - loss: 0.0101
+Train Score: 162478002.8518385% error
+Test Score: 162981487.78379744% error
+../neighborhood222
+Epoch 1/15
+ - 18s - loss: 0.0042
+Epoch 2/15
+ - 2s - loss: 0.0042
+Epoch 3/15
+ - 2s - loss: 0.0042
+Epoch 4/15
+ - 2s - loss: 0.0041
+Epoch 5/15
+ - 2s - loss: 0.0042
+Epoch 6/15
+ - 2s - loss: 0.0042
+Epoch 7/15
+ - 2s - loss: 0.0042
+Epoch 8/15
+ - 2s - loss: 0.0042
+Epoch 9/15
+ - 2s - loss: 0.0042
+Epoch 10/15
+ - 3s - loss: 0.0042
+Epoch 11/15
+ - 3s - loss: 0.0042
+Epoch 12/15
+ - 2s - loss: 0.0042
+Epoch 13/15
+ - 2s - loss: 0.0041
+Epoch 14/15
+ - 2s - loss: 0.0042
+Epoch 15/15
+ - 2s - loss: 0.0042
+Train Score: 647897906.4131305% error
+Test Score: 640558515.3659606% error
+../neighborhood223
+Epoch 1/15
+ - 18s - loss: 0.0039
+Epoch 2/15
+ - 2s - loss: 0.0038
+Epoch 3/15
+ - 2s - loss: 0.0038
+Epoch 4/15
+ - 2s - loss: 0.0037
+Epoch 5/15
+ - 2s - loss: 0.0038
+Epoch 6/15
+ - 2s - loss: 0.0038
+Epoch 7/15
+ - 2s - loss: 0.0037
+Epoch 8/15
+ - 2s - loss: 0.0038
+Epoch 9/15
+ - 2s - loss: 0.0037
+Epoch 10/15
+ - 2s - loss: 0.0037
+Epoch 11/15
+ - 2s - loss: 0.0037
+Epoch 12/15
+ - 2s - loss: 0.0037
+Epoch 13/15
+ - 2s - loss: 0.0037
+Epoch 14/15
+ - 2s - loss: 0.0036
+Epoch 15/15
+ - 2s - loss: 0.0036
+Train Score: 963064609.1082447% error
+Test Score: 1669023386.111476% error
+../neighborhood224
+Epoch 1/15
+ - 18s - loss: 0.0183
+Epoch 2/15
+ - 2s - loss: 0.0181
+Epoch 3/15
+ - 3s - loss: 0.0181
+Epoch 4/15
+ - 2s - loss: 0.0180
+Epoch 5/15
+ - 2s - loss: 0.0180
+Epoch 6/15
+ - 2s - loss: 0.0180
+Epoch 7/15
+ - 2s - loss: 0.0181
+Epoch 8/15
+ - 2s - loss: 0.0181
+Epoch 9/15
+ - 2s - loss: 0.0181
+Epoch 10/15
+ - 2s - loss: 0.0180
+Epoch 11/15
+ - 2s - loss: 0.0179
+Epoch 12/15
+ - 2s - loss: 0.0181
+Epoch 13/15
+ - 2s - loss: 0.0179
+Epoch 14/15
+ - 2s - loss: 0.0179
+Epoch 15/15
+ - 2s - loss: 0.0180
+Train Score: 760677566.1504239% error
+Test Score: 2204292622.9494753% error
+../neighborhood225
+Epoch 1/15
+ - 18s - loss: 0.0116
+Epoch 2/15
+ - 2s - loss: 0.0116
+Epoch 3/15
+ - 2s - loss: 0.0115
+Epoch 4/15
+ - 2s - loss: 0.0116
+Epoch 5/15
+ - 2s - loss: 0.0116
+Epoch 6/15
+ - 2s - loss: 0.0116
+Epoch 7/15
+ - 2s - loss: 0.0116
+Epoch 8/15
+ - 2s - loss: 0.0116
+Epoch 9/15
+ - 2s - loss: 0.0116
+Epoch 10/15
+ - 2s - loss: 0.0116
+Epoch 11/15
+ - 2s - loss: 0.0117
+Epoch 12/15
+ - 2s - loss: 0.0115
+Epoch 13/15
+ - 2s - loss: 0.0116
+Epoch 14/15
+ - 2s - loss: 0.0116
+Epoch 15/15
+ - 2s - loss: 0.0116
+Train Score: 6676349108.356573% error
+Test Score: 8145327989.280835% error
+../neighborhood226
+Epoch 1/15
+ - 18s - loss: 0.0022
+Epoch 2/15
+ - 2s - loss: 0.0021
+Epoch 3/15
+ - 2s - loss: 0.0021
+Epoch 4/15
+ - 2s - loss: 0.0021
+Epoch 5/15
+ - 2s - loss: 0.0021
+Epoch 6/15
+ - 2s - loss: 0.0021
+Epoch 7/15
+ - 2s - loss: 0.0021
+Epoch 8/15
+ - 2s - loss: 0.0021
+Epoch 9/15
+ - 2s - loss: 0.0021
+Epoch 10/15
+ - 2s - loss: 0.0021
+Epoch 11/15
+ - 3s - loss: 0.0021
+Epoch 12/15
+ - 2s - loss: 0.0021
+Epoch 13/15
+ - 2s - loss: 0.0021
+Epoch 14/15
+ - 2s - loss: 0.0021
+Epoch 15/15
+ - 2s - loss: 0.0021
+Train Score: 32.087302274604006% error
+Test Score: 29.369985507648387% error
+../neighborhood227
+Epoch 1/15
+ - 19s - loss: 0.0159
+Epoch 2/15
+ - 2s - loss: 0.0158
+Epoch 3/15
+ - 2s - loss: 0.0158
+Epoch 4/15
+ - 2s - loss: 0.0158
+Epoch 5/15
+ - 2s - loss: 0.0157
+Epoch 6/15
+ - 2s - loss: 0.0158
+Epoch 7/15
+ - 2s - loss: 0.0157
+Epoch 8/15
+ - 2s - loss: 0.0157
+Epoch 9/15
+ - 2s - loss: 0.0158
+Epoch 10/15
+ - 2s - loss: 0.0157
+Epoch 11/15
+ - 2s - loss: 0.0157
+Epoch 12/15
+ - 2s - loss: 0.0157
+Epoch 13/15
+ - 2s - loss: 0.0156
+Epoch 14/15
+ - 2s - loss: 0.0157
+Epoch 15/15
+ - 2s - loss: 0.0158
+Train Score: 4085035897.624931% error
+Test Score: 3967085965.149654% error
+../neighborhood228
+Epoch 1/15
+ - 19s - loss: 0.0067
+Epoch 2/15
+ - 2s - loss: 0.0067
+Epoch 3/15
+ - 2s - loss: 0.0066
+Epoch 4/15
+ - 2s - loss: 0.0065
+Epoch 5/15
+ - 2s - loss: 0.0065
+Epoch 6/15
+ - 2s - loss: 0.0065
+Epoch 7/15
+ - 2s - loss: 0.0065
+Epoch 8/15
+ - 2s - loss: 0.0064
+Epoch 9/15
+ - 2s - loss: 0.0066
+Epoch 10/15
+ - 2s - loss: 0.0065
+Epoch 11/15
+ - 2s - loss: 0.0065
+Epoch 12/15
+ - 2s - loss: 0.0065
+Epoch 13/15
+ - 3s - loss: 0.0065
+Epoch 14/15
+ - 2s - loss: 0.0064
+Epoch 15/15
+ - 2s - loss: 0.0065
+Train Score: 6185897516.369705% error
+Test Score: 8021335383.870392% error
+../neighborhood229
+Epoch 1/15
+ - 19s - loss: 0.0179
+Epoch 2/15
+ - 2s - loss: 0.0178
+Epoch 3/15
+ - 2s - loss: 0.0176
+Epoch 4/15
+ - 2s - loss: 0.0178
+Epoch 5/15
+ - 2s - loss: 0.0177
+Epoch 6/15
+ - 2s - loss: 0.0178
+Epoch 7/15
+ - 2s - loss: 0.0176
+Epoch 8/15
+ - 2s - loss: 0.0178
+Epoch 9/15
+ - 2s - loss: 0.0178
+Epoch 10/15
+ - 2s - loss: 0.0179
+Epoch 11/15
+ - 2s - loss: 0.0178
+Epoch 12/15
+ - 2s - loss: 0.0177
+Epoch 13/15
+ - 2s - loss: 0.0177
+Epoch 14/15
+ - 3s - loss: 0.0178
+Epoch 15/15
+ - 3s - loss: 0.0179
+Train Score: 35.709753672249214% error
+Test Score: 37.89231225532276% error
+../neighborhood230
+Epoch 1/15
+ - 28s - loss: 0.0119
+Epoch 2/15
+ - 3s - loss: 0.0118
+Epoch 3/15
+ - 3s - loss: 0.0118
+Epoch 4/15
+ - 2s - loss: 0.0117
+Epoch 5/15
+ - 2s - loss: 0.0117
+Epoch 6/15
+ - 2s - loss: 0.0117
+Epoch 7/15
+ - 2s - loss: 0.0118
+Epoch 8/15
+ - 2s - loss: 0.0117
+Epoch 9/15
+ - 2s - loss: 0.0116
+Epoch 10/15
+ - 2s - loss: 0.0117
+Epoch 11/15
+ - 2s - loss: 0.0116
+Epoch 12/15
+ - 2s - loss: 0.0116
+Epoch 13/15
+ - 2s - loss: 0.0115
+Epoch 14/15
+ - 2s - loss: 0.0116
+Epoch 15/15
+ - 2s - loss: 0.0116
+Train Score: 25.125643370017624% error
+Test Score: 26.334900777362403% error
+../neighborhood231
+Epoch 1/15
+ - 19s - loss: 0.0115
+Epoch 2/15
+ - 2s - loss: 0.0114
+Epoch 3/15
+ - 2s - loss: 0.0114
+Epoch 4/15
+ - 2s - loss: 0.0115
+Epoch 5/15
+ - 2s - loss: 0.0114
+Epoch 6/15
+ - 2s - loss: 0.0115
+Epoch 7/15
+ - 2s - loss: 0.0113
+Epoch 8/15
+ - 3s - loss: 0.0115
+Epoch 9/15
+ - 2s - loss: 0.0114
+Epoch 10/15
+ - 2s - loss: 0.0115
+Epoch 11/15
+ - 2s - loss: 0.0114
+Epoch 12/15
+ - 2s - loss: 0.0113
+Epoch 13/15
+ - 3s - loss: 0.0114
+Epoch 14/15
+ - 2s - loss: 0.0112
+Epoch 15/15
+ - 2s - loss: 0.0116
+Train Score: 34.90887767647675% error
+Test Score: 38.48401647048924% error
+../neighborhood232
+Epoch 1/15
+ - 19s - loss: 0.0086
+Epoch 2/15
+ - 2s - loss: 0.0085
+Epoch 3/15
+ - 2s - loss: 0.0084
+Epoch 4/15
+ - 2s - loss: 0.0084
+Epoch 5/15
+ - 2s - loss: 0.0083
+Epoch 6/15
+ - 3s - loss: 0.0084
+Epoch 7/15
+ - 3s - loss: 0.0083
+Epoch 8/15
+ - 2s - loss: 0.0083
+Epoch 9/15
+ - 2s - loss: 0.0083
+Epoch 10/15
+ - 2s - loss: 0.0083
+Epoch 11/15
+ - 2s - loss: 0.0083
+Epoch 12/15
+ - 2s - loss: 0.0083
+Epoch 13/15
+ - 2s - loss: 0.0083
+Epoch 14/15
+ - 2s - loss: 0.0083
+Epoch 15/15
+ - 2s - loss: 0.0084
+Train Score: 44.01541212267882% error
+Test Score: 40.7317323688355% error
+../neighborhood233
+Epoch 1/15
+ - 19s - loss: 0.0134
+Epoch 2/15
+ - 2s - loss: 0.0132
+Epoch 3/15
+ - 2s - loss: 0.0130
+Epoch 4/15
+ - 2s - loss: 0.0129
+Epoch 5/15
+ - 3s - loss: 0.0130
+Epoch 6/15
+ - 3s - loss: 0.0126
+Epoch 7/15
+ - 2s - loss: 0.0129
+Epoch 8/15
+ - 2s - loss: 0.0129
+Epoch 9/15
+ - 2s - loss: 0.0128
+Epoch 10/15
+ - 2s - loss: 0.0127
+Epoch 11/15
+ - 2s - loss: 0.0128
+Epoch 12/15
+ - 2s - loss: 0.0127
+Epoch 13/15
+ - 2s - loss: 0.0126
+Epoch 14/15
+ - 2s - loss: 0.0126
+Epoch 15/15
+ - 3s - loss: 0.0126
+Train Score: 42.873854607274396% error
+Test Score: 48.163328568426635% error
+../neighborhood234
+Epoch 1/15
+ - 19s - loss: 0.0097
+Epoch 2/15
+ - 2s - loss: 0.0097
+Epoch 3/15
+ - 2s - loss: 0.0096
+Epoch 4/15
+ - 2s - loss: 0.0096
+Epoch 5/15
+ - 2s - loss: 0.0093
+Epoch 6/15
+ - 2s - loss: 0.0094
+Epoch 7/15
+ - 3s - loss: 0.0095
+Epoch 8/15
+ - 2s - loss: 0.0094
+Epoch 9/15
+ - 2s - loss: 0.0094
+Epoch 10/15
+ - 2s - loss: 0.0095
+Epoch 11/15
+ - 2s - loss: 0.0095
+Epoch 12/15
+ - 2s - loss: 0.0095
+Epoch 13/15
+ - 2s - loss: 0.0094
+Epoch 14/15
+ - 2s - loss: 0.0094
+Epoch 15/15
+ - 2s - loss: 0.0093
+Train Score: 40.488892988700414% error
+Test Score: 43.19035681065142% error
+../neighborhood235
+Epoch 1/15
+ - 19s - loss: 0.0223
+Epoch 2/15
+ - 2s - loss: 0.0223
+Epoch 3/15
+ - 2s - loss: 0.0223
+Epoch 4/15
+ - 2s - loss: 0.0221
+Epoch 5/15
+ - 2s - loss: 0.0223
+Epoch 6/15
+ - 2s - loss: 0.0221
+Epoch 7/15
+ - 2s - loss: 0.0222
+Epoch 8/15
+ - 2s - loss: 0.0222
+Epoch 9/15
+ - 3s - loss: 0.0223
+Epoch 10/15
+ - 2s - loss: 0.0222
+Epoch 11/15
+ - 2s - loss: 0.0222
+Epoch 12/15
+ - 2s - loss: 0.0222
+Epoch 13/15
+ - 3s - loss: 0.0222
+Epoch 14/15
+ - 2s - loss: 0.0221
+Epoch 15/15
+ - 2s - loss: 0.0223
+Train Score: 3250122048.773162% error
+Test Score: 3280521157.0813484% error
+../neighborhood236
+Epoch 1/15
+ - 19s - loss: 0.0164
+Epoch 2/15
+ - 3s - loss: 0.0162
+Epoch 3/15
+ - 3s - loss: 0.0163
+Epoch 4/15
+ - 3s - loss: 0.0163
+Epoch 5/15
+ - 2s - loss: 0.0161
+Epoch 6/15
+ - 2s - loss: 0.0161
+Epoch 7/15
+ - 2s - loss: 0.0162
+Epoch 8/15
+ - 2s - loss: 0.0158
+Epoch 9/15
+ - 2s - loss: 0.0159
+Epoch 10/15
+ - 2s - loss: 0.0160
+Epoch 11/15
+ - 2s - loss: 0.0159
+Epoch 12/15
+ - 2s - loss: 0.0160
+Epoch 13/15
+ - 3s - loss: 0.0159
+Epoch 14/15
+ - 2s - loss: 0.0159
+Epoch 15/15
+ - 3s - loss: 0.0159
+Train Score: 83.55540192994432% error
+Test Score: 86.01372411568367% error
+../neighborhood237
+Epoch 1/15
+ - 19s - loss: 0.0150
+Epoch 2/15
+ - 2s - loss: 0.0150
+Epoch 3/15
+ - 2s - loss: 0.0151
+Epoch 4/15
+ - 3s - loss: 0.0150
+Epoch 5/15
+ - 2s - loss: 0.0150
+Epoch 6/15
+ - 2s - loss: 0.0151
+Epoch 7/15
+ - 2s - loss: 0.0149
+Epoch 8/15
+ - 2s - loss: 0.0149
+Epoch 9/15
+ - 2s - loss: 0.0150
+Epoch 10/15
+ - 2s - loss: 0.0150
+Epoch 11/15
+ - 2s - loss: 0.0148
+Epoch 12/15
+ - 3s - loss: 0.0150
+Epoch 13/15
+ - 2s - loss: 0.0149
+Epoch 14/15
+ - 3s - loss: 0.0150
+Epoch 15/15
+ - 2s - loss: 0.0150
+Train Score: 65.77622495399203% error
+Test Score: 69.80041275585145% error
+../neighborhood238
+Epoch 1/15
+ - 19s - loss: 0.0192
+Epoch 2/15
+ - 2s - loss: 0.0189
+Epoch 3/15
+ - 2s - loss: 0.0187
+Epoch 4/15
+ - 2s - loss: 0.0188
+Epoch 5/15
+ - 2s - loss: 0.0186
+Epoch 6/15
+ - 2s - loss: 0.0186
+Epoch 7/15
+ - 2s - loss: 0.0184
+Epoch 8/15
+ - 2s - loss: 0.0184
+Epoch 9/15
+ - 2s - loss: 0.0183
+Epoch 10/15
+ - 2s - loss: 0.0182
+Epoch 11/15
+ - 2s - loss: 0.0181
+Epoch 12/15
+ - 3s - loss: 0.0180
+Epoch 13/15
+ - 2s - loss: 0.0179
+Epoch 14/15
+ - 2s - loss: 0.0178
+Epoch 15/15
+ - 2s - loss: 0.0180
+Train Score: 41.465519528451395% error
+Test Score: 41.34118620036203% error
+../neighborhood239
+Epoch 1/15
+ - 19s - loss: 0.0096
+Epoch 2/15
+ - 2s - loss: 0.0097
+Epoch 3/15
+ - 2s - loss: 0.0096
+Epoch 4/15
+ - 2s - loss: 0.0095
+Epoch 5/15
+ - 3s - loss: 0.0096
+Epoch 6/15
+ - 3s - loss: 0.0096
+Epoch 7/15
+ - 2s - loss: 0.0095
+Epoch 8/15
+ - 2s - loss: 0.0096
+Epoch 9/15
+ - 2s - loss: 0.0096
+Epoch 10/15
+ - 3s - loss: 0.0096
+Epoch 11/15
+ - 2s - loss: 0.0095
+Epoch 12/15
+ - 2s - loss: 0.0097
+Epoch 13/15
+ - 2s - loss: 0.0095
+Epoch 14/15
+ - 2s - loss: 0.0095
+Epoch 15/15
+ - 2s - loss: 0.0095
+Train Score: 48.135033999657374% error
+Test Score: 46.66522723764565% error
+../neighborhood240
+Epoch 1/15
+ - 20s - loss: 0.0353
+Epoch 2/15
+ - 2s - loss: 0.0352
+Epoch 3/15
+ - 2s - loss: 0.0352
+Epoch 4/15
+ - 2s - loss: 0.0353
+Epoch 5/15
+ - 2s - loss: 0.0352
+Epoch 6/15
+ - 2s - loss: 0.0352
+Epoch 7/15
+ - 2s - loss: 0.0352
+Epoch 8/15
+ - 3s - loss: 0.0352
+Epoch 9/15
+ - 3s - loss: 0.0352
+Epoch 10/15
+ - 2s - loss: 0.0351
+Epoch 11/15
+ - 3s - loss: 0.0352
+Epoch 12/15
+ - 2s - loss: 0.0353
+Epoch 13/15
+ - 3s - loss: 0.0352
+Epoch 14/15
+ - 3s - loss: 0.0352
+Epoch 15/15
+ - 3s - loss: 0.0352
+Train Score: 766355939.2680677% error
+Test Score: 775674724.7860646% error
+../neighborhood241
+Epoch 1/15
+ - 20s - loss: 0.0197
+Epoch 2/15
+ - 2s - loss: 0.0197
+Epoch 3/15
+ - 2s - loss: 0.0196
+Epoch 4/15
+ - 3s - loss: 0.0197
+Epoch 5/15
+ - 3s - loss: 0.0196
+Epoch 6/15
+ - 2s - loss: 0.0196
+Epoch 7/15
+ - 2s - loss: 0.0197
+Epoch 8/15
+ - 2s - loss: 0.0196
+Epoch 9/15
+ - 2s - loss: 0.0197
+Epoch 10/15
+ - 3s - loss: 0.0196
+Epoch 11/15
+ - 3s - loss: 0.0196
+Epoch 12/15
+ - 2s - loss: 0.0196
+Epoch 13/15
+ - 2s - loss: 0.0195
+Epoch 14/15
+ - 2s - loss: 0.0196
+Epoch 15/15
+ - 3s - loss: 0.0197
+Train Score: 2680938430.5728564% error
+Test Score: 2715405985.790529% error
+../neighborhood242
+Epoch 1/15
+ - 20s - loss: 0.0102
+Epoch 2/15
+ - 3s - loss: 0.0101
+Epoch 3/15
+ - 3s - loss: 0.0099
+Epoch 4/15
+ - 2s - loss: 0.0099
+Epoch 5/15
+ - 3s - loss: 0.0098
+Epoch 6/15
+ - 2s - loss: 0.0098
+Epoch 7/15
+ - 2s - loss: 0.0097
+Epoch 8/15
+ - 3s - loss: 0.0096
+Epoch 9/15
+ - 2s - loss: 0.0096
+Epoch 10/15
+ - 3s - loss: 0.0096
+Epoch 11/15
+ - 2s - loss: 0.0096
+Epoch 12/15
+ - 3s - loss: 0.0096
+Epoch 13/15
+ - 3s - loss: 0.0096
+Epoch 14/15
+ - 3s - loss: 0.0096
+Epoch 15/15
+ - 3s - loss: 0.0095
+Train Score: 2909288177.8709483% error
+Test Score: 2878881029.331821% error
+../neighborhood243
+Epoch 1/15
+ - 19s - loss: 0.0394
+Epoch 2/15
+ - 2s - loss: 0.0392
+Epoch 3/15
+ - 3s - loss: 0.0392
+Epoch 4/15
+ - 3s - loss: 0.0391
+Epoch 5/15
+ - 2s - loss: 0.0392
+Epoch 6/15
+ - 3s - loss: 0.0391
+Epoch 7/15
+ - 3s - loss: 0.0392
+Epoch 8/15
+ - 3s - loss: 0.0391
+Epoch 9/15
+ - 2s - loss: 0.0393
+Epoch 10/15
+ - 3s - loss: 0.0391
+Epoch 11/15
+ - 3s - loss: 0.0391
+Epoch 12/15
+ - 2s - loss: 0.0387
+Epoch 13/15
+ - 3s - loss: 0.0392
+Epoch 14/15
+ - 2s - loss: 0.0391
+Epoch 15/15
+ - 3s - loss: 0.0389
+Train Score: 6300097373.30189% error
+Test Score: 6779474212.835905% error
+../neighborhood244
+Epoch 1/15
+ - 20s - loss: 0.0146
+Epoch 2/15
+ - 3s - loss: 0.0136
+Epoch 3/15
+ - 2s - loss: 0.0131
+Epoch 4/15
+ - 2s - loss: 0.0126
+Epoch 5/15
+ - 2s - loss: 0.0124
+Epoch 6/15
+ - 3s - loss: 0.0124
+Epoch 7/15
+ - 3s - loss: 0.0123
+Epoch 8/15
+ - 2s - loss: 0.0123
+Epoch 9/15
+ - 2s - loss: 0.0122
+Epoch 10/15
+ - 3s - loss: 0.0123
+Epoch 11/15
+ - 3s - loss: 0.0123
+Epoch 12/15
+ - 3s - loss: 0.0123
+Epoch 13/15
+ - 2s - loss: 0.0122
+Epoch 14/15
+ - 3s - loss: 0.0122
+Epoch 15/15
+ - 3s - loss: 0.0122
+Train Score: 938312992.2271146% error
+Test Score: 73.76007003193898% error
+../neighborhood245
+Epoch 1/15
+ - 20s - loss: 0.0041
+Epoch 2/15
+ - 3s - loss: 0.0040
+Epoch 3/15
+ - 3s - loss: 0.0041
+Epoch 4/15
+ - 3s - loss: 0.0040
+Epoch 5/15
+ - 2s - loss: 0.0041
+Epoch 6/15
+ - 3s - loss: 0.0040
+Epoch 7/15
+ - 3s - loss: 0.0040
+Epoch 8/15
+ - 3s - loss: 0.0040
+Epoch 9/15
+ - 3s - loss: 0.0040
+Epoch 10/15
+ - 2s - loss: 0.0040
+Epoch 11/15
+ - 3s - loss: 0.0040
+Epoch 12/15
+ - 3s - loss: 0.0040
+Epoch 13/15
+ - 3s - loss: 0.0040
+Epoch 14/15
+ - 3s - loss: 0.0040
+Epoch 15/15
+ - 3s - loss: 0.0040
+Train Score: 316583858.97018945% error
+Test Score: 322211384.7732544% error
+../neighborhood246
+Epoch 1/15
+ - 20s - loss: 0.0078
+Epoch 2/15
+ - 2s - loss: 0.0078
+Epoch 3/15
+ - 2s - loss: 0.0077
+Epoch 4/15
+ - 2s - loss: 0.0077
+Epoch 5/15
+ - 2s - loss: 0.0077
+Epoch 6/15
+ - 2s - loss: 0.0077
+Epoch 7/15
+ - 2s - loss: 0.0076
+Epoch 8/15
+ - 2s - loss: 0.0077
+Epoch 9/15
+ - 2s - loss: 0.0078
+Epoch 10/15
+ - 2s - loss: 0.0076
+Epoch 11/15
+ - 2s - loss: 0.0076
+Epoch 12/15
+ - 2s - loss: 0.0077
+Epoch 13/15
+ - 2s - loss: 0.0077
+Epoch 14/15
+ - 3s - loss: 0.0076
+Epoch 15/15
+ - 2s - loss: 0.0076
+Train Score: 41.9055310824486% error
+Test Score: 43.25959087935682% error
+../neighborhood247
+Epoch 1/15
+ - 20s - loss: 0.0180
+Epoch 2/15
+ - 3s - loss: 0.0179
+Epoch 3/15
+ - 3s - loss: 0.0178
+Epoch 4/15
+ - 3s - loss: 0.0178
+Epoch 5/15
+ - 3s - loss: 0.0178
+Epoch 6/15
+ - 3s - loss: 0.0178
+Epoch 7/15
+ - 3s - loss: 0.0178
+Epoch 8/15
+ - 2s - loss: 0.0177
+Epoch 9/15
+ - 3s - loss: 0.0178
+Epoch 10/15
+ - 3s - loss: 0.0178
+Epoch 11/15
+ - 3s - loss: 0.0176
+Epoch 12/15
+ - 3s - loss: 0.0179
+Epoch 13/15
+ - 3s - loss: 0.0178
+Epoch 14/15
+ - 3s - loss: 0.0177
+Epoch 15/15
+ - 3s - loss: 0.0177
+Train Score: 6422586566.435349% error
+Test Score: 8104187116.030298% error
+../neighborhood248
+Epoch 1/15
+ - 20s - loss: 0.0119
+Epoch 2/15
+ - 3s - loss: 0.0119
+Epoch 3/15
+ - 3s - loss: 0.0119
+Epoch 4/15
+ - 3s - loss: 0.0118
+Epoch 5/15
+ - 3s - loss: 0.0119
+Epoch 6/15
+ - 3s - loss: 0.0119
+Epoch 7/15
+ - 3s - loss: 0.0118
+Epoch 8/15
+ - 3s - loss: 0.0119
+Epoch 9/15
+ - 3s - loss: 0.0119
+Epoch 10/15
+ - 3s - loss: 0.0119
+Epoch 11/15
+ - 3s - loss: 0.0119
+Epoch 12/15
+ - 3s - loss: 0.0119
+Epoch 13/15
+ - 3s - loss: 0.0118
+Epoch 14/15
+ - 3s - loss: 0.0118
+Epoch 15/15
+ - 3s - loss: 0.0118
+Train Score: 1563691954.6749256% error
+Test Score: 1563751497.2147026% error
+../neighborhood249
+Epoch 1/15
+ - 20s - loss: 0.0100
+Epoch 2/15
+ - 3s - loss: 0.0081
+Epoch 3/15
+ - 3s - loss: 0.0076
+Epoch 4/15
+ - 3s - loss: 0.0078
+Epoch 5/15
+ - 3s - loss: 0.0077
+Epoch 6/15
+ - 3s - loss: 0.0077
+Epoch 7/15
+ - 3s - loss: 0.0077
+Epoch 8/15
+ - 3s - loss: 0.0078
+Epoch 9/15
+ - 3s - loss: 0.0077
+Epoch 10/15
+ - 3s - loss: 0.0077
+Epoch 11/15
+ - 3s - loss: 0.0077
+Epoch 12/15
+ - 3s - loss: 0.0077
+Epoch 13/15
+ - 3s - loss: 0.0077
+Epoch 14/15
+ - 3s - loss: 0.0078
+Epoch 15/15
+ - 3s - loss: 0.0077
+Train Score: 29.46968796425173% error
+Test Score: 29.04626512526174% error
+../neighborhood250
+Epoch 1/15
+ - 20s - loss: 0.0121
+Epoch 2/15
+ - 3s - loss: 0.0121
+Epoch 3/15
+ - 3s - loss: 0.0121
+Epoch 4/15
+ - 3s - loss: 0.0120
+Epoch 5/15
+ - 3s - loss: 0.0120
+Epoch 6/15
+ - 3s - loss: 0.0120
+Epoch 7/15
+ - 3s - loss: 0.0120
+Epoch 8/15
+ - 3s - loss: 0.0120
+Epoch 9/15
+ - 3s - loss: 0.0120
+Epoch 10/15
+ - 3s - loss: 0.0120
+Epoch 11/15
+ - 3s - loss: 0.0120
+Epoch 12/15
+ - 3s - loss: 0.0120
+Epoch 13/15
+ - 3s - loss: 0.0120
+Epoch 14/15
+ - 3s - loss: 0.0119
+Epoch 15/15
+ - 3s - loss: 0.0120
+Train Score: 2640174151.1268415% error
+Test Score: 2654788556.498063% error
+../neighborhood251
+Epoch 1/15
+ - 21s - loss: 0.0025
+Epoch 2/15
+ - 3s - loss: 0.0024
+Epoch 3/15
+ - 3s - loss: 0.0024
+Epoch 4/15
+ - 3s - loss: 0.0024
+Epoch 5/15
+ - 3s - loss: 0.0023
+Epoch 6/15
+ - 3s - loss: 0.0023
+Epoch 7/15
+ - 3s - loss: 0.0023
+Epoch 8/15
+ - 3s - loss: 0.0023
+Epoch 9/15
+ - 3s - loss: 0.0022
+Epoch 10/15
+ - 3s - loss: 0.0022
+Epoch 11/15
+ - 3s - loss: 0.0022
+Epoch 12/15
+ - 3s - loss: 0.0022
+Epoch 13/15
+ - 3s - loss: 0.0022
+Epoch 14/15
+ - 3s - loss: 0.0022
+Epoch 15/15
+ - 3s - loss: 0.0022
+Train Score: 218279642.39917308% error
+Test Score: 166512373.8348484% error
+../neighborhood252
+Epoch 1/15
+ - 20s - loss: 0.0151
+Epoch 2/15
+ - 3s - loss: 0.0149
+Epoch 3/15
+ - 3s - loss: 0.0150
+Epoch 4/15
+ - 3s - loss: 0.0150
+Epoch 5/15
+ - 3s - loss: 0.0150
+Epoch 6/15
+ - 3s - loss: 0.0150
+Epoch 7/15
+ - 3s - loss: 0.0150
+Epoch 8/15
+ - 3s - loss: 0.0150
+Epoch 9/15
+ - 3s - loss: 0.0150
+Epoch 10/15
+ - 3s - loss: 0.0150
+Epoch 11/15
+ - 3s - loss: 0.0150
+Epoch 12/15
+ - 3s - loss: 0.0150
+Epoch 13/15
+ - 3s - loss: 0.0150
+Epoch 14/15
+ - 3s - loss: 0.0150
+Epoch 15/15
+ - 3s - loss: 0.0150
+Train Score: 2159212117.4080887% error
+Test Score: 2289688315.4752603% error
+../neighborhood253
+Epoch 1/15
+ - 20s - loss: 0.0374
+Epoch 2/15
+ - 3s - loss: 0.0372
+Epoch 3/15
+ - 3s - loss: 0.0372
+Epoch 4/15
+ - 3s - loss: 0.0371
+Epoch 5/15
+ - 3s - loss: 0.0371
+Epoch 6/15
+ - 3s - loss: 0.0371
+Epoch 7/15
+ - 3s - loss: 0.0370
+Epoch 8/15
+ - 3s - loss: 0.0372
+Epoch 9/15
+ - 3s - loss: 0.0370
+Epoch 10/15
+ - 3s - loss: 0.0372
+Epoch 11/15
+ - 3s - loss: 0.0370
+Epoch 12/15
+ - 3s - loss: 0.0371
+Epoch 13/15
+ - 3s - loss: 0.0371
+Epoch 14/15
+ - 3s - loss: 0.0372
+Epoch 15/15
+ - 3s - loss: 0.0370
+Train Score: 475934142.85792065% error
+Test Score: 474692690.4410632% error
+../neighborhood254
+Epoch 1/15
+ - 20s - loss: 0.0106
+Epoch 2/15
+ - 3s - loss: 0.0106
+Epoch 3/15
+ - 3s - loss: 0.0106
+Epoch 4/15
+ - 3s - loss: 0.0106
+Epoch 5/15
+ - 3s - loss: 0.0106
+Epoch 6/15
+ - 3s - loss: 0.0106
+Epoch 7/15
+ - 3s - loss: 0.0106
+Epoch 8/15
+ - 3s - loss: 0.0106
+Epoch 9/15
+ - 3s - loss: 0.0106
+Epoch 10/15
+ - 3s - loss: 0.0105
+Epoch 11/15
+ - 3s - loss: 0.0105
+Epoch 12/15
+ - 3s - loss: 0.0106
+Epoch 13/15
+ - 3s - loss: 0.0106
+Epoch 14/15
+ - 3s - loss: 0.0105
+Epoch 15/15
+ - 3s - loss: 0.0106
+Train Score: 1700445856.4330504% error
+Test Score: 1675664177.8460388% error
+../neighborhood255
+Epoch 1/15
+ - 21s - loss: 0.0071
+Epoch 2/15
+ - 3s - loss: 0.0070
+Epoch 3/15
+ - 3s - loss: 0.0071
+Epoch 4/15
+ - 3s - loss: 0.0071
+Epoch 5/15
+ - 3s - loss: 0.0071
+Epoch 6/15
+ - 3s - loss: 0.0070
+Epoch 7/15
+ - 3s - loss: 0.0071
+Epoch 8/15
+ - 3s - loss: 0.0071
+Epoch 9/15
+ - 3s - loss: 0.0070
+Epoch 10/15
+ - 3s - loss: 0.0070
+Epoch 11/15
+ - 3s - loss: 0.0070
+Epoch 12/15
+ - 3s - loss: 0.0070
+Epoch 13/15
+ - 3s - loss: 0.0070
+Epoch 14/15
+ - 3s - loss: 0.0070
+Epoch 15/15
+ - 3s - loss: 0.0070
+Train Score: 1280096860.059228% error
+Test Score: 1371027528.87322% error
+../neighborhood256
+Epoch 1/15
+ - 21s - loss: 0.0064
+Epoch 2/15
+ - 3s - loss: 0.0062
+Epoch 3/15
+ - 3s - loss: 0.0063
+Epoch 4/15
+ - 3s - loss: 0.0062
+Epoch 5/15
+ - 3s - loss: 0.0062
+Epoch 6/15
+ - 3s - loss: 0.0061
+Epoch 7/15
+ - 3s - loss: 0.0062
+Epoch 8/15
+ - 3s - loss: 0.0062
+Epoch 9/15
+ - 3s - loss: 0.0062
+Epoch 10/15
+ - 3s - loss: 0.0062
+Epoch 11/15
+ - 3s - loss: 0.0062
+Epoch 12/15
+ - 3s - loss: 0.0063
+Epoch 13/15
+ - 3s - loss: 0.0062
+Epoch 14/15
+ - 3s - loss: 0.0062
+Epoch 15/15
+ - 3s - loss: 0.0062
+Train Score: 1573391001.0710764% error
+Test Score: 2141880359.5226274% error
+../neighborhood257
+Epoch 1/15
+ - 21s - loss: 0.0322
+Epoch 2/15
+ - 3s - loss: 0.0317
+Epoch 3/15
+ - 3s - loss: 0.0311
+Epoch 4/15
+ - 3s - loss: 0.0310
+Epoch 5/15
+ - 3s - loss: 0.0308
+Epoch 6/15
+ - 3s - loss: 0.0307
+Epoch 7/15
+ - 3s - loss: 0.0306
+Epoch 8/15
+ - 3s - loss: 0.0307
+Epoch 9/15
+ - 3s - loss: 0.0307
+Epoch 10/15
+ - 3s - loss: 0.0306
+Epoch 11/15
+ - 3s - loss: 0.0306
+Epoch 12/15
+ - 3s - loss: 0.0306
+Epoch 13/15
+ - 3s - loss: 0.0306
+Epoch 14/15
+ - 3s - loss: 0.0306
+Epoch 15/15
+ - 3s - loss: 0.0306
+Train Score: 6740906492.182393% error
+Test Score: 7292745721.527418% error
+../neighborhood258
+Epoch 1/15
+ - 21s - loss: 0.0239
+Epoch 2/15
+ - 3s - loss: 0.0240
+Epoch 3/15
+ - 3s - loss: 0.0240
+Epoch 4/15
+ - 3s - loss: 0.0238
+Epoch 5/15
+ - 3s - loss: 0.0239
+Epoch 6/15
+ - 3s - loss: 0.0238
+Epoch 7/15
+ - 3s - loss: 0.0239
+Epoch 8/15
+ - 3s - loss: 0.0239
+Epoch 9/15
+ - 3s - loss: 0.0239
+Epoch 10/15
+ - 3s - loss: 0.0239
+Epoch 11/15
+ - 3s - loss: 0.0239
+Epoch 12/15
+ - 3s - loss: 0.0239
+Epoch 13/15
+ - 3s - loss: 0.0239
+Epoch 14/15
+ - 3s - loss: 0.0239
+Epoch 15/15
+ - 3s - loss: 0.0239
+Train Score: 3502597782.7085085% error
+Test Score: 3678380099.0501175% error
+../neighborhood259
+Epoch 1/15
+ - 21s - loss: 0.0038
+Epoch 2/15
+ - 3s - loss: 0.0038
+Epoch 3/15
+ - 3s - loss: 0.0038
+Epoch 4/15
+ - 3s - loss: 0.0038
+Epoch 5/15
+ - 3s - loss: 0.0038
+Epoch 6/15
+ - 3s - loss: 0.0037
+Epoch 7/15
+ - 3s - loss: 0.0037
+Epoch 8/15
+ - 3s - loss: 0.0038
+Epoch 9/15
+ - 3s - loss: 0.0038
+Epoch 10/15
+ - 3s - loss: 0.0038
+Epoch 11/15
+ - 3s - loss: 0.0038
+Epoch 12/15
+ - 3s - loss: 0.0038
+Epoch 13/15
+ - 3s - loss: 0.0038
+Epoch 14/15
+ - 3s - loss: 0.0037
+Epoch 15/15
+ - 3s - loss: 0.0038
+Train Score: 1343166316.9767196% error
+Test Score: 1397760363.7256725% error
+../neighborhood260
+Epoch 1/15
+ - 21s - loss: 0.0015
+Epoch 2/15
+ - 3s - loss: 0.0015
+Epoch 3/15
+ - 3s - loss: 0.0015
+Epoch 4/15
+ - 3s - loss: 0.0015
+Epoch 5/15
+ - 3s - loss: 0.0015
+Epoch 6/15
+ - 3s - loss: 0.0015
+Epoch 7/15
+ - 3s - loss: 0.0015
+Epoch 8/15
+ - 3s - loss: 0.0015
+Epoch 9/15
+ - 3s - loss: 0.0015
+Epoch 10/15
+ - 3s - loss: 0.0015
+Epoch 11/15
+ - 3s - loss: 0.0015
+Epoch 12/15
+ - 3s - loss: 0.0015
+Epoch 13/15
+ - 3s - loss: 0.0015
+Epoch 14/15
+ - 3s - loss: 0.0015
+Epoch 15/15
+ - 3s - loss: 0.0015
+Train Score: 1286164183.1220188% error
+Test Score: 273502881.7190207% error
+../neighborhood261
+Epoch 1/15
+ - 21s - loss: 0.0084
+Epoch 2/15
+ - 3s - loss: 0.0083
+Epoch 3/15
+ - 3s - loss: 0.0083
+Epoch 4/15
+ - 3s - loss: 0.0083
+Epoch 5/15
+ - 3s - loss: 0.0083
+Epoch 6/15
+ - 3s - loss: 0.0082
+Epoch 7/15
+ - 3s - loss: 0.0083
+Epoch 8/15
+ - 3s - loss: 0.0082
+Epoch 9/15
+ - 3s - loss: 0.0083
+Epoch 10/15
+ - 3s - loss: 0.0083
+Epoch 11/15
+ - 3s - loss: 0.0081
+Epoch 12/15
+ - 3s - loss: 0.0081
+Epoch 13/15
+ - 3s - loss: 0.0082
+Epoch 14/15
+ - 3s - loss: 0.0081
+Epoch 15/15
+ - 3s - loss: 0.0080
+Train Score: 39.313509070518% error
+Test Score: 42.08838440741726% error
+../neighborhood262
+Epoch 1/15
+ - 21s - loss: 0.0174
+Epoch 2/15
+ - 3s - loss: 0.0169
+Epoch 3/15
+ - 3s - loss: 0.0171
+Epoch 4/15
+ - 3s - loss: 0.0169
+Epoch 5/15
+ - 3s - loss: 0.0169
+Epoch 6/15
+ - 3s - loss: 0.0168
+Epoch 7/15
+ - 3s - loss: 0.0168
+Epoch 8/15
+ - 3s - loss: 0.0166
+Epoch 9/15
+ - 3s - loss: 0.0166
+Epoch 10/15
+ - 3s - loss: 0.0167
+Epoch 11/15
+ - 3s - loss: 0.0167
+Epoch 12/15
+ - 3s - loss: 0.0161
+Epoch 13/15
+ - 3s - loss: 0.0164
+Epoch 14/15
+ - 3s - loss: 0.0164
+Epoch 15/15
+ - 3s - loss: 0.0165
+Train Score: 67.92817146079052% error
+Test Score: 71.89580223300771% error
+../neighborhood263
+Epoch 1/15
+ - 21s - loss: 0.0142
+Epoch 2/15
+ - 3s - loss: 0.0142
+Epoch 3/15
+ - 3s - loss: 0.0143
+Epoch 4/15
+ - 3s - loss: 0.0142
+Epoch 5/15
+ - 3s - loss: 0.0141
+Epoch 6/15
+ - 3s - loss: 0.0142
+Epoch 7/15
+ - 3s - loss: 0.0142
+Epoch 8/15
+ - 3s - loss: 0.0142
+Epoch 9/15
+ - 3s - loss: 0.0141
+Epoch 10/15
+ - 3s - loss: 0.0141
+Epoch 11/15
+ - 3s - loss: 0.0142
+Epoch 12/15
+ - 3s - loss: 0.0141
+Epoch 13/15
+ - 3s - loss: 0.0143
+Epoch 14/15
+ - 3s - loss: 0.0143
+Epoch 15/15
+ - 3s - loss: 0.0140
+Train Score: 28.83706026621502% error
+Test Score: 30.458119794305667% error
+../neighborhood264
+Epoch 1/15
+ - 21s - loss: 0.0106
+Epoch 2/15
+ - 3s - loss: 0.0102
+Epoch 3/15
+ - 3s - loss: 0.0105
+Epoch 4/15
+ - 3s - loss: 0.0105
+Epoch 5/15
+ - 3s - loss: 0.0104
+Epoch 6/15
+ - 3s - loss: 0.0104
+Epoch 7/15
+ - 3s - loss: 0.0104
+Epoch 8/15
+ - 3s - loss: 0.0104
+Epoch 9/15
+ - 3s - loss: 0.0103
+Epoch 10/15
+ - 3s - loss: 0.0104
+Epoch 11/15
+ - 3s - loss: 0.0103
+Epoch 12/15
+ - 3s - loss: 0.0103
+Epoch 13/15
+ - 3s - loss: 0.0104
+Epoch 14/15
+ - 3s - loss: 0.0103
+Epoch 15/15
+ - 3s - loss: 0.0104
+Train Score: 25.828815139136076% error
+Test Score: 26.93487653432295% error
+../neighborhood265
+Epoch 1/15
+ - 21s - loss: 0.0196
+Epoch 2/15
+ - 3s - loss: 0.0194
+Epoch 3/15
+ - 3s - loss: 0.0192
+Epoch 4/15
+ - 3s - loss: 0.0192
+Epoch 5/15
+ - 3s - loss: 0.0193
+Epoch 6/15
+ - 3s - loss: 0.0192
+Epoch 7/15
+ - 3s - loss: 0.0193
+Epoch 8/15
+ - 3s - loss: 0.0192
+Epoch 9/15
+ - 3s - loss: 0.0192
+Epoch 10/15
+ - 3s - loss: 0.0192
+Epoch 11/15
+ - 3s - loss: 0.0192
+Epoch 12/15
+ - 3s - loss: 0.0191
+Epoch 13/15
+ - 3s - loss: 0.0190
+Epoch 14/15
+ - 3s - loss: 0.0191
+Epoch 15/15
+ - 3s - loss: 0.0191
+Train Score: 1667674051.624691% error
+Test Score: 1769686483.5711532% error
